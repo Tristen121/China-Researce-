@@ -1,0 +1,694 @@
+{
+ "orte": [
+  {
+   "id": "sonne-mond-pagoden",
+   "name": "Sonne-und-Mond-Pagoden in Guilin",
+   "name_chinesisch": "日月双塔",
+   "provinz": "Guangxi",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Zwei Pagoden stehen mitten im Shanhu-See, die eine golden, die andere silbern. Nach Sonnenuntergang leuchten sie und spiegeln sich im schwarzen Wasser, dahinter ragen die Karstkegel von Guilin auf. Es wirkt wie ein Märchenbild, aber mit Stadtlärm im Hintergrund.",
+   "aktivitaeten": [
+    "Abends am See entlang spazieren",
+    "Die Pagoden von Brücke und Ufer fotografieren",
+    "Unterirdischen Verbindungstunnel zwischen den Türmen ansehen",
+    "Bootsfahrt auf den Seen der Stadt"
+   ],
+   "foto_tipp": "Blaue Stunde und Nacht, wenn beide Türme beleuchtet sind. Im September oft Dunst, dafür warme Abende.",
+   "wow": 3,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Sun and Moon Pagodas",
+    "de": null,
+    "zh": "日月双塔"
+   }
+  },
+  {
+   "id": "verbotene-stadt",
+   "name": "Verbotene Stadt",
+   "name_chinesisch": "故宫",
+   "provinz": "Beijing",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Rote Mauern, gelbe Dächer, Hof auf Hof in endloser Reihe. Der Platz vor der Halle der Höchsten Harmonie ist so weit, dass Menschen darauf klein wirken. Man spürt die Macht, für die alles hier gebaut wurde.",
+   "aktivitaeten": [
+    "Der Mittelachse vom Südtor bis zum Nordtor folgen",
+    "Dachfiguren und Drachenreliefs aus der Nähe ansehen",
+    "Kaiserlichen Garten im Norden besuchen",
+    "Vom Kohlehügel (Jingshan-Park) über die Dächer schauen"
+   ],
+   "foto_tipp": "Früh am Morgen, bevor die Hallen voll sind. Vom Jingshan-Hügel liegt das Licht am Abend schön auf den Dächern. Im September meist klar und mild.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Forbidden City",
+    "de": "Verbotene Stadt",
+    "zh": "北京故宫"
+   }
+  },
+  {
+   "id": "himmelstempel",
+   "name": "Himmelstempel",
+   "name_chinesisch": "天坛",
+   "provinz": "Beijing",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Die runde Halle mit dem dreifach gestuften blauen Dach steht auf einer weißen Marmorterrasse. Im Park drumherum üben Rentner Gesang, Tanz und Federballspiele. Der Tempel wirkt still und geometrisch klar, das Leben ringsum ist laut und herzlich.",
+   "aktivitaeten": [
+    "Halle des Erntegebets und Himmelsaltar ansehen",
+    "Dem Echo an der Echomauer lauschen",
+    "Im Park den Morgengruppen zuschauen",
+    "Die lange Zypressenallee entlanggehen"
+   ],
+   "foto_tipp": "Morgens bei weichem Licht und wenig Besuchern. Das blaue Dach hebt sich bei klarem Himmel am stärksten ab.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Temple of Heaven",
+    "de": "Himmelstempel (Peking)",
+    "zh": "天坛"
+   }
+  },
+  {
+   "id": "terrakotta",
+   "name": "Terrakotta-Armee",
+   "name_chinesisch": "兵马俑",
+   "provinz": "Shaanxi",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Tausende lebensgroße Krieger stehen in Reih und Glied in langen Gruben, jeder mit eigenem Gesicht. Man blickt von einem Steg auf diese Armee, die seit über zweitausend Jahren auf ihren Kaiser wartet. Staub, Lehmfarbe und die schiere Zahl machen den Eindruck.",
+   "aktivitaeten": [
+    "Die große Grube 1 mit der Hauptarmee besichtigen",
+    "Gesichter und Frisuren einzelner Krieger studieren",
+    "Die kleineren Gruben und die Bronzewagen ansehen",
+    "Das Museum zur Entdeckung der Figuren besuchen"
+   ],
+   "foto_tipp": "Früh am Tag oder spät, wenn weniger los ist. Die Hallen sind überdacht, Licht ist also konstant und eher dämmrig; ein lichtstarkes Objektiv hilft.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Terracotta Army",
+    "de": "Terrakotta-Armee",
+    "zh": "兵马俑"
+   }
+  },
+  {
+   "id": "haengendes-kloster",
+   "name": "Hängendes Kloster",
+   "name_chinesisch": "悬空寺",
+   "provinz": "Shanxi",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Holzhallen kleben an einer senkrechten Felswand, getragen von dünnen Balken und in Felslöchern verankert. Von unten sieht es aus, als hielte nur ein Faden das ganze Kloster. Drinnen führen enge Stege und Treppen von Raum zu Raum.",
+   "aktivitaeten": [
+    "Die Anlage von der Talsohle aus fotografieren",
+    "Über die Holzstege durch die Hallen steigen",
+    "Buddhistische, daoistische und konfuzianische Figuren in einem Haus entdecken",
+    "Das umliegende Tal und den Berg Heng erkunden"
+   ],
+   "foto_tipp": "Vormittags, wenn die Wand im Licht liegt. Im September meist trocken und klar; der Zugang zu den Stegen kann begrenzt sein.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Hanging Temple",
+    "de": null,
+    "zh": "悬空寺"
+   }
+  },
+  {
+   "id": "leshan",
+   "name": "Großer Buddha von Leshan",
+   "name_chinesisch": "乐山大佛",
+   "provinz": "Sichuan",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Ein Buddha aus dem Fels, so hoch wie ein Hochhaus, sitzt am Zusammenfluss dreier Flüsse. Am Fuß sehen Besucher aus wie Ameisen, die Zehen sind größer als Menschen. Der Stein ist moosig, feucht und ziemlich alt.",
+   "aktivitaeten": [
+    "Per Boot vom Fluss aus auf die Statue schauen",
+    "Die schmale Treppe an der Seite zum Fuß hinabsteigen",
+    "Zum Kopf hinaufgehen und die Perspektive wechseln",
+    "Die Tempel und Pfade auf dem Berg dahinter erkunden"
+   ],
+   "foto_tipp": "Vom Boot am Vormittag, bevor der Fluss im Dunst liegt. Im September oft feuchtwarm und diesig, Regen möglich.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Leshan Giant Buddha",
+    "de": "Großer Buddha von Leshan",
+    "zh": "乐山大佛"
+   }
+  },
+  {
+   "id": "longmen",
+   "name": "Longmen-Grotten",
+   "name_chinesisch": "龙门石窟",
+   "provinz": "Henan",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Am Fluss Yi blicken Hunderte Buddhas aus Höhlen und Nischen im Kalkfels. Der zentrale Vairocana lächelt aus der Wand, umgeben von Jüngern, Bodhisattvas und grimmigen Wächtern. Abends werden die Figuren angestrahlt und spiegeln sich im Wasser.",
+   "aktivitaeten": [
+    "Die große Vairocana-Gruppe ansehen",
+    "Kleine Nischen mit tausenden Miniaturbuddhas suchen",
+    "Am Fluss zur Ostseite wechseln und die Wand von gegenüber betrachten",
+    "Abends die Beleuchtung der Felswand erleben"
+   ],
+   "foto_tipp": "Vormittags, dann liegt die nach Osten gewandte Hauptwand in der Sonne; am Nachmittag ist sie im Schatten. Abends Beleuchtung. Im September meist warm und etwas diesig.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Longmen Grottoes",
+    "de": "Longmen-Grotten",
+    "zh": "龙门石窟"
+   }
+  },
+  {
+   "id": "mogao",
+   "name": "Mogao-Grotten",
+   "name_chinesisch": "莫高窟",
+   "provinz": "Gansu",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Hunderte Höhlen in einer Lehmwand am Rand der Wüste, innen bis unter die Decke bemalt. Buddhas, Tänzerinnen und fliegende Wesen in tiefen Rot-, Blau- und Grüntönen. Draußen Sand und Wind, drinnen Dämmerlicht und Farben, die über viele Jahrhunderte gehalten haben.",
+   "aktivitaeten": [
+    "Geführte Besichtigung ausgewählter Höhlen",
+    "Die Fassade der Felswand von außen ansehen",
+    "Das Digitalzentrum mit den Filmen zur Anlage besuchen",
+    "Die nahen Dünen von Mingsha bei Dunhuang besteigen"
+   ],
+   "foto_tipp": "Fotografieren in den Höhlen ist nicht erlaubt; Außenansichten am Morgen. September ist Hochsaison, trocken und sonnig, tagsüber warm.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Mogao Caves",
+    "de": "Mogao-Grotten",
+    "zh": "莫高窟"
+   }
+  },
+  {
+   "id": "potala",
+   "name": "Potala-Palast",
+   "name_chinesisch": "布达拉宫",
+   "provinz": "Tibet",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Ein weißer und roter Palast, der wie aus dem Hügel gewachsen über Lhasa thront. Das Licht in großer Höhe ist hart und klar, der Himmel tiefblau. Innen riecht es nach Butterlampen, und Pilger gehen murmelnd durch die dunklen Hallen. Ausländer kommen nur mit Tibet-Genehmigung und organisierter Tour hin, Tibet wird gelegentlich kurzfristig gesperrt.",
+   "aktivitaeten": [
+    "Den Palast vom Platz gegenüber und vom Park dahinter fotografieren",
+    "Die Treppen hinaufsteigen und die Höhenluft spüren",
+    "Prunkvolle Grabstupas und Gebetsräume ansehen",
+    "Pilgern auf dem Kora-Weg rund um den Hügel folgen"
+   ],
+   "foto_tipp": "Morgens bei klarem Himmel; im September oft sonnig mit frischen Abenden. Höhenanpassung einplanen.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": true,
+   "_wiki": {
+    "en": "Potala Palace",
+    "de": "Potala-Palast",
+    "zh": "布达拉宫"
+   }
+  },
+  {
+   "id": "shaolin",
+   "name": "Shaolin-Kloster",
+   "name_chinesisch": "少林寺",
+   "provinz": "Henan",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Das Kloster liegt im Wald am Fuß des Songshan, rundherum trainieren Schüler der Kampfkunstschulen. In einer Halle hat das jahrhundertelange Training Mulden in den Steinboden getreten. Daneben stehen über zweihundert Grabpagoden im Pagodenwald.",
+   "aktivitaeten": [
+    "Kung-Fu-Vorführung der Mönche oder Schüler ansehen",
+    "Den Pagodenwald mit den Grabpagoden erkunden",
+    "Die Haupthallen und die Mulden im Boden der Tausend-Buddha-Halle ansehen",
+    "Einen Spaziergang auf den Bergpfaden hinterm Kloster machen"
+   ],
+   "foto_tipp": "Vormittags, wenn die Vorführungen laufen und das Licht noch weich ist. September meist angenehm warm.",
+   "wow": 3,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Shaolin Monastery",
+    "de": "Shaolin-Kloster",
+    "zh": "少林寺"
+   }
+  },
+  {
+   "id": "tulou",
+   "name": "Tulou-Rundhäuser",
+   "name_chinesisch": "福建土楼",
+   "provinz": "Fujian",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Runde Lehmburgen stehen in grünen Tälern, innen wohnten ganze Clans in Ringen aus Holzgalerien. Von oben sehen sie aus wie gelandete Untertassen. Im Hof ist es kühl und still, unter den Dachtraufen hängen Laternen.",
+   "aktivitaeten": [
+    "Verschiedene Rundbauten in den Dörfern besuchen",
+    "In den Innenhof treten und die Galerien betrachten",
+    "Rund und quadratisch gebaute Anlagen vergleichen",
+    "Tee in einem Hof trinken"
+   ],
+   "foto_tipp": "Morgens und am späten Nachmittag; von Aussichtspunkten sieht man die Ringe am besten. September grün, Regen und Nebel möglich.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Fujian Tulou",
+    "de": "Fujian-Tulou",
+    "zh": "福建土楼"
+   }
+  },
+  {
+   "id": "pingyao",
+   "name": "Altstadt von Pingyao",
+   "name_chinesisch": "平遥古城",
+   "provinz": "Shanxi",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Eine komplette Stadtmauer umschließt Gassen mit grauen Ziegeln, roten Laternen und Handelshäusern mit Innenhöfen. Nachts brennt Licht in Papierlampen, tagsüber hallen Schritte auf altem Pflaster. Es fühlt sich an wie ein Filmset, nur ist alles echt.",
+   "aktivitaeten": [
+    "Auf der Stadtmauer entlanggehen",
+    "Alte Bankhäuser und Höfe besichtigen",
+    "Abends durch die beleuchteten Gassen schlendern",
+    "Vom Stadtturm über die Dächer schauen"
+   ],
+   "foto_tipp": "Abends und früh am Morgen, wenn die Gassen leer sind. September meist trocken und mild.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Pingyao",
+    "de": "Pingyao",
+    "zh": "平遥古城"
+   }
+  },
+  {
+   "id": "fenghuang",
+   "name": "Fenghuang",
+   "name_chinesisch": "凤凰古城",
+   "provinz": "Hunan",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Holzhäuser auf Stelzen stehen am Fluss Tuojiang, nachts spiegeln sich tausende Lichter im Wasser. Tagsüber hört man Wäscheklopfen und Händler, abends Musik von den Bars am Ufer. Die Stimmung ist touristisch, aber das Bild trägt.",
+   "aktivitaeten": [
+    "Am Fluss entlang spazieren und die Stelzenhäuser ansehen",
+    "Die Brücken und alte Stadttore besuchen",
+    "Eine Bootsfahrt auf dem Fluss machen",
+    "Abends die beleuchtete Altstadt erleben"
+   ],
+   "foto_tipp": "Blaue Stunde und Nacht für die Lichter; früh morgens ist der Ort ruhig. September warm, Regen möglich.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Fenghuang County",
+    "de": "Fenghuang (Xiangxi)",
+    "zh": "凤凰古城"
+   }
+  },
+  {
+   "id": "labrang",
+   "name": "Kloster Labrang",
+   "name_chinesisch": "拉卜楞寺",
+   "provinz": "Gansu",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Ein großes tibetisches Kloster in einem Tal am Rand des Plateaus, mit goldenen Dächern und roten Mauern. Pilger drehen Gebetsmühlen auf dem langen Umgang, Mönche in Weinrot eilen über die Höfe. Die Luft ist dünn und der Ort wirkt weniger touristisch als Lhasa.",
+   "aktivitaeten": [
+    "Den Umgang um das Kloster mit den Gebetsmühlen gehen",
+    "Hallen und Höfe mit den Mönchen ansehen",
+    "Die Debatte der Mönche beobachten, falls möglich",
+    "Auf die Hügel steigen und die Anlage von oben fotografieren"
+   ],
+   "foto_tipp": "Morgens und am späten Nachmittag; im September klar und kühl, oft sonnig.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Labrang Monastery",
+    "de": "Kloster Labrang",
+    "zh": "拉卜楞寺"
+   }
+  },
+  {
+   "id": "maijishan",
+   "name": "Maijishan-Grotten",
+   "name_chinesisch": "麦积山石窟",
+   "provinz": "Gansu",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Treppen und Holzstege winden sich an einer steilen Felswand hoch, in der Nischen und Höhlen mit Buddhas sitzen. Viele Figuren aus Lehm haben ein sanftes Lächeln, einige sind sehr alt. Rundum ist der Berg bewaldet und still.",
+   "aktivitaeten": [
+    "Die Stege entlang der Felswand begehen",
+    "Lächelnde Lehmfiguren in den Höhlen betrachten",
+    "Die Wand von unten und von der Seite fotografieren",
+    "Waldwege am Berg erkunden"
+   ],
+   "foto_tipp": "Vormittags, wenn die Wand beleuchtet ist; Zugang zu einigen Höhlen ist beschränkt. September meist grün und mild.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Maijishan Grottoes",
+    "de": "Maijishan",
+    "zh": "麦积山石窟"
+   }
+  },
+  {
+   "id": "wudang",
+   "name": "Wudang Shan",
+   "name_chinesisch": "武当山",
+   "provinz": "Hubei",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Daoistische Paläste und Tempel kleben an Gipfeln und Graten, oft im Nebel. Die Goldene Halle auf dem höchsten Punkt glänzt im Dunst. Treppen führen stundenlang durch Wald, dazwischen üben Priester Tai-Chi.",
+   "aktivitaeten": [
+    "Den Aufstieg zur Goldenen Halle machen",
+    "Kleine Tempel entlang der Pfade besuchen",
+    "Tai-Chi- und Kampfkunstschulen beobachten",
+    "Den Sonnenaufgang auf dem Gipfel erleben"
+   ],
+   "foto_tipp": "Früh am Morgen im Nebel oder bei Sonnenaufgang. September ist feucht, Dunst und Wolken sind wahrscheinlich.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Wudang Mountains",
+    "de": "Wudang Shan",
+    "zh": "武当山"
+   }
+  },
+  {
+   "id": "xijiang",
+   "name": "Xijiang, Miao-Dorf der tausend Häuser",
+   "name_chinesisch": "西江千户苗寨",
+   "provinz": "Guizhou",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Tausende Holzhäuser stapeln sich an einem Hang, wie eine Stadt aus Streichhölzern. Nachts sind alle Fenster beleuchtet, ein Lichtermeer im Tal. Die Miao tragen Silberschmuck und Tracht, Musik und Tanz gehören zum Alltag.",
+   "aktivitaeten": [
+    "Die Hangsiedlung vom Aussichtspunkt fotografieren",
+    "Durch die Gassen gehen und Silberschmiede besuchen",
+    "Eine Aufführung mit traditionellem Gesang und Tanz ansehen",
+    "Abends die beleuchtete Siedlung erleben"
+   ],
+   "foto_tipp": "Abends und nachts für das Lichtermeer. September grün, Dunst und Regen möglich.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Xijiang Qianhu Miao Village",
+    "de": null,
+    "zh": "西江千户苗寨"
+   }
+  },
+  {
+   "id": "suzhou-gaerten",
+   "name": "Gärten von Suzhou",
+   "name_chinesisch": "苏州园林",
+   "provinz": "Jiangsu",
+   "kategorie": "Kultur und Tempel",
+   "kurzbeschreibung": "Kleine Höfe mit Teichen, Felsen, Pavillons und Fenstern, die wie gerahmte Bilder wirken. Jeder Schritt öffnet eine neue Ansicht. Das Wasser ist still, die Mauern sind weiß, die Dächer grau, dazwischen tropft Grün.",
+   "aktivitaeten": [
+    "Mehrere klassische Gärten besuchen",
+    "Durch Mondtore und Gittersteinfenster fotografieren",
+    "Teehaus im Garten besuchen",
+    "Die Wasserstadt Suzhou und ihre Kanäle erkunden"
+   ],
+   "foto_tipp": "Früh am Morgen vor den Gruppen. September warm und feucht, Lotus ist meist schon verblüht.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Classical Gardens of Suzhou",
+    "de": "Klassische Gärten von Suzhou",
+    "zh": "苏州园林"
+   }
+  },
+  {
+   "id": "chongqing",
+   "name": "Chongqing: Hongyadong und die 8D-Stadt",
+   "name_chinesisch": "洪崖洞",
+   "provinz": "Chongqing",
+   "kategorie": "Städte und Futuristisches",
+   "kurzbeschreibung": "Hochhäuser, Brücken und Schnellstraßen stapeln sich an steilen Hängen über zwei Flüssen. Hongyadong leuchtet nachts als goldener Stelzenbau an der Felswand. Straßen kreuzen sich auf mehreren Ebenen, Bahnen fahren durch Wohnblöcke.",
+   "aktivitaeten": [
+    "Hongyadong abends vom Fluss und von der Brücke ansehen",
+    "Die Hochbahn durch ein Gebäude verfolgen (Liziba)",
+    "Von Aussichtspunkten über die Skyline schauen",
+    "Die Hotpot-Gassen und Treppen der Altstadt erkunden"
+   ],
+   "foto_tipp": "Nach Einbruch der Dunkelheit. September heiß und oft diesig, Regen möglich.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Hongyadong",
+    "de": "Chongqing",
+    "zh": "洪崖洞"
+   }
+  },
+  {
+   "id": "shanghai-skyline",
+   "name": "Bund und Lujiazui in Shanghai",
+   "name_chinesisch": "外滩 / 陆家嘴",
+   "provinz": "Shanghai",
+   "kategorie": "Städte und Futuristisches",
+   "kurzbeschreibung": "Auf der einen Seite des Huangpu die Kolonialbauten des Bund, auf der anderen die Glastürme von Lujiazui. Nachts leuchten beide Ufer, Schiffe ziehen durch das Licht. Die Wolkenkratzer wirken, als stünden sie auf einer Bühne.",
+   "aktivitaeten": [
+    "Abends auf der Uferpromenade des Bund gehen",
+    "Eine Flussfahrt auf dem Huangpu machen",
+    "Von einem Hochhaus in Lujiazui über die Stadt schauen",
+    "Die Fußgängerzone und Gassen der Altstadt erkunden"
+   ],
+   "foto_tipp": "Blaue Stunde und Nacht. September warm, feucht und häufig diesig.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "The Bund",
+    "de": "Bund (Shanghai)",
+    "zh": "外滩"
+   }
+  },
+  {
+   "id": "shenzhen-rad",
+   "name": "Shenzhen mit dem Fahrrad",
+   "name_chinesisch": "深圳湾公园",
+   "provinz": "Guangdong",
+   "kategorie": "Städte und Futuristisches",
+   "kurzbeschreibung": "Ein flacher Radweg läuft kilometerlang an der Bucht entlang, hinter einem die Hochhäuser von Shenzhen, über dem Wasser die Hügel und Wohntürme von Hongkongs Neuen Territorien. Jogger, Radler und Skater teilen sich den Weg. Der Kontrast aus Grün, Wasser und Stahl ist selbst ziemlich futuristisch.",
+   "aktivitaeten": [
+    "Mit dem Leihrad den Uferpark entlang fahren",
+    "Die Skyline vom Wasser fotografieren",
+    "Bei Sonnenuntergang auf der Promenade pausieren",
+    "Das Viertel Nanshan mit seinen modernen Bauten erkunden"
+   ],
+   "foto_tipp": "Spätnachmittag und Sonnenuntergang. September heiß, schwül und manchmal gewittrig.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Shenzhen Bay Park",
+    "de": "Shenzhen",
+    "zh": "深圳湾公园"
+   }
+  },
+  {
+   "id": "peking-hutongs",
+   "name": "Pekinger Hutongs mit dem Fahrrad",
+   "name_chinesisch": "北京胡同",
+   "provinz": "Beijing",
+   "kategorie": "Städte und Futuristisches",
+   "kurzbeschreibung": "Enge Gassen mit grauen Mauern, Innenhöfen und Fahrrädern an der Wand. Zwischen den Häusern wird gekocht, Mahjong gespielt, Vögel in Käfigen ausgeführt. Mit dem Rad rollt man durch ein altes Peking, das neben den Hochhäusern fast verschwunden ist.",
+   "aktivitaeten": [
+    "Mit dem Rad durch mehrere Hutongs fahren",
+    "In einem Innenhofhaus Tee trinken",
+    "Kleine Läden, Cafés und Imbisse erkunden",
+    "Zu den Seen Houhai und Shichahai fahren"
+   ],
+   "foto_tipp": "Vormittags und früher Abend, wenn Licht und Leben in den Gassen sind. September meist angenehm warm und klar.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Hutong",
+    "de": "Hutong",
+    "zh": "胡同"
+   }
+  },
+  {
+   "id": "hongkong",
+   "name": "Hongkong: Victoria Peak und Skyline",
+   "name_chinesisch": "太平山",
+   "provinz": "Hongkong",
+   "kategorie": "Städte und Futuristisches",
+   "kurzbeschreibung": "Von der Spitze des Victoria Peak fällt der Blick steil auf Wolkenkratzer, den Hafen und die Berge dahinter. Nachts leuchtet die Skyline in tausend Fenstern. Die Dichte der Hochhäuser zwischen grünen Hängen ist ungewöhnlich.",
+   "aktivitaeten": [
+    "Mit der Peak Tram hinauffahren",
+    "Den Rundweg auf dem Gipfel gehen",
+    "Skyline vom Hafen und von Kowloon aus fotografieren",
+    "Mit der Star Ferry über das Wasser fahren"
+   ],
+   "foto_tipp": "Sonnenuntergang und blaue Stunde. September heiß, schwül, Taifun- und Dunstrisiko.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Victoria Peak",
+    "de": "Victoria Peak",
+    "zh": "太平山 (香港)"
+   }
+  },
+  {
+   "id": "canton-tower",
+   "name": "Canton Tower und Perlfluss",
+   "name_chinesisch": "广州塔",
+   "provinz": "Guangdong",
+   "kategorie": "Städte und Futuristisches",
+   "kurzbeschreibung": "Der schlanke, gedrehte Turm steht am Perlfluss und wechselt abends die Farben. Rundum liegen moderne Hochhäuser, Parks und Brücken. Auf dem Wasser fahren beleuchtete Schiffe vorbei.",
+   "aktivitaeten": [
+    "Abends am Fluss spazieren und den Turm fotografieren",
+    "Eine Nachtfahrt auf dem Perlfluss machen",
+    "Von der Aussichtsplattform über Guangzhou schauen",
+    "Die Stadtviertel um den Turm erkunden"
+   ],
+   "foto_tipp": "Blaue Stunde und Nacht. September heiß und feucht, oft diesig.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Canton Tower",
+    "de": "Kanton-Turm",
+    "zh": "广州塔"
+   }
+  },
+  {
+   "id": "binhai-bibliothek",
+   "name": "Binhai-Bibliothek",
+   "name_chinesisch": "滨海图书馆",
+   "provinz": "Tianjin",
+   "kategorie": "Städte und Futuristisches",
+   "kurzbeschreibung": "Weiße Regalterrassen wellen sich vom Boden bis zur Decke um eine große leuchtende Kugel in der Mitte, das „Auge“ des Gebäudes. Die oberen Regale sind zum Teil nur Attrappen mit aufgedruckten Buchrücken. Die Halle fühlt sich an wie ein Raumschiff aus Büchern.",
+   "aktivitaeten": [
+    "Den zentralen Atrium-Raum betrachten",
+    "Treppenstufen und Regalwände fotografieren",
+    "Auf den oberen Ebenen lesen oder sitzen",
+    "Das umgebende Kulturviertel erkunden"
+   ],
+   "foto_tipp": "Vormittags bei Tageslicht; wenn es leer ist, wirkt der Raum am stärksten. September unabhängig vom Wetter, da innen.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Tianjin Binhai Library",
+    "de": "Tianjin Binhai Library",
+    "zh": "滨海图书馆"
+   }
+  },
+  {
+   "id": "harbin-oper",
+   "name": "Opernhaus Harbin",
+   "name_chinesisch": "哈尔滨大剧院",
+   "provinz": "Heilongjiang",
+   "kategorie": "Städte und Futuristisches",
+   "kurzbeschreibung": "Zwei geschwungene weiße Körper liegen wie Schneewehen am Rand des Songhua-Feuchtgebiets. Innen führen Holzwände und Schwünge durch hohe Räume. Das Gebäude wirkt weich, fast wie geformt vom Wind.",
+   "aktivitaeten": [
+    "Die Fassade von außen umrunden",
+    "Das Foyer mit den Holzflächen betrachten",
+    "Abends eine Aufführung erleben, falls es passt",
+    "Das umliegende Feuchtgebiet erkunden"
+   ],
+   "foto_tipp": "Bei Sonnenuntergang, wenn die Kurven Licht fangen. September meist mild und klar.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Harbin Opera House",
+    "de": "Opernhaus Harbin",
+    "zh": "哈尔滨大剧院"
+   }
+  },
+  {
+   "id": "datang-everbright",
+   "name": "Datang Everbright City (Nachtpromenade)",
+   "name_chinesisch": "大唐不夜城",
+   "provinz": "Shaanxi",
+   "kategorie": "Städte und Futuristisches",
+   "kurzbeschreibung": "Eine breite Fußgängermeile voller Lichter, Türme und Figuren im Tang-Stil. Abends gibt es Musik, Springbrunnen und Gaukler. Die Pagode im Hintergrund glüht golden, davor posieren Menschen in historischen Kostümen.",
+   "aktivitaeten": [
+    "Abends über die Promenade schlendern",
+    "Die Wildganspagode beleuchtet ansehen",
+    "Straßenkünstler und Inszenierungen beobachten",
+    "Menschen in Tang-Kostümen fotografieren"
+   ],
+   "foto_tipp": "Nach Einbruch der Dunkelheit. September mild und häufig klar.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Datang Everbright City",
+    "de": null,
+    "zh": "大唐不夜城"
+   }
+  },
+  {
+   "id": "meixihu",
+   "name": "Kulturzentrum Meixihu",
+   "name_chinesisch": "梅溪湖国际文化艺术中心",
+   "provinz": "Hunan",
+   "kategorie": "Städte und Futuristisches",
+   "kurzbeschreibung": "Weiße Bauten aus fließenden Linien liegen am See, als hätte Wasser den Beton geformt. Innen schwingen Treppen und Balkone durch helle Räume. Der Entwurf stammt von Zaha Hadid.",
+   "aktivitaeten": [
+    "Die Bauten von außen am See umrunden",
+    "Das Foyer und die geschwungenen Treppen ansehen",
+    "Abends die Beleuchtung erleben",
+    "Am Seeufer spazieren"
+   ],
+   "foto_tipp": "Spätnachmittag und Abend, wenn die Linien Licht fangen. September warm und feucht, Dunst möglich.",
+   "wow": 3,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Meixihu International Culture and Art Centre",
+    "de": null,
+    "zh": "梅溪湖国际文化艺术中心"
+   }
+  },
+  {
+   "id": "westsee",
+   "name": "Westsee in Hangzhou",
+   "name_chinesisch": "西湖",
+   "provinz": "Zhejiang",
+   "kategorie": "Städte und Futuristisches",
+   "kurzbeschreibung": "Ein stiller See mit Weiden, Pavillons, Brücken und Hügeln, die im Dunst verschwimmen. Boote gleiten durch die Lotusblätter. Die Stadt Hangzhou liegt am Ufer, wird aber vom Wasser fast verdrängt.",
+   "aktivitaeten": [
+    "Mit dem Boot auf dem See fahren",
+    "Auf den Dämmen Su Di und Bai Di spazieren",
+    "Pagoden und Tempel am Ufer besuchen",
+    "Abends die Musikfontäne am Ufer ansehen"
+   ],
+   "foto_tipp": "Früh am Morgen im Nebel oder am Abend. September warm, Lotus teils noch in Blüte.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "West Lake",
+    "de": "Westsee",
+    "zh": "西湖"
+   }
+  },
+  {
+   "id": "maglev",
+   "name": "Transrapid Shanghai",
+   "name_chinesisch": "上海磁浮示范运营线",
+   "provinz": "Shanghai",
+   "kategorie": "Städte und Futuristisches",
+   "kurzbeschreibung": "Ein weißer Zug schwebt knapp über dem Gleis und beschleunigt fast lautlos, bis die Landschaft verschwimmt. Auf der Anzeige steigen die Zahlen, draußen ziehen Felder und Hochhäuser vorbei. Die Fahrt dauert nur wenige Minuten, aber das Gefühl bleibt.",
+   "aktivitaeten": [
+    "Die Fahrt mit voller Geschwindigkeit erleben (heute meist bis 300 km/h)",
+    "Die Anzeige der Geschwindigkeit fotografieren",
+    "Den Bahnhof und die Strecke ansehen",
+    "Die Fahrt mit der Metro vergleichen"
+   ],
+   "foto_tipp": "Tageslicht für Aufnahmen aus dem Fenster; Spiegelungen beachten. Wetter fast egal, da kurze Fahrt.",
+   "wow": 3,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Shanghai maglev train",
+    "de": "Transrapid Shanghai",
+    "zh": "上海磁浮示范运营线"
+   }
+  }
+ ]
+}

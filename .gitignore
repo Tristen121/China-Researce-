@@ -1,0 +1,4 @@
+tools/cache/
+__pycache__/
+# Fotos erst committen, wenn das Repo privat ist (urheberrechtlich geschuetzte Bilder)
+img/

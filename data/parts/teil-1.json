@@ -1,0 +1,694 @@
+{
+ "orte": [
+  {
+   "id": "zhangjiajie",
+   "name": "Zhangjiajie-Nationalwaldpark (Avatar-Berge)",
+   "name_chinesisch": "张家界国家森林公园",
+   "provinz": "Hunan",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Tausende Sandsteinsäulen stehen wie Türme aus dem Wald, oft halb im Nebel. Die Luft ist feucht, Affen turnen am Wegrand, aus der Tiefe steigen Wolkenbänder. Es sieht aus wie eine Filmkulisse und ist echt.",
+   "aktivitaeten": [
+    "Auf Wegen und Aussichtsplattformen zwischen den Säulen laufen",
+    "Mit dem Aufzug an der Felswand hochfahren",
+    "Wanderwege durch Schluchten und unter Felsbögen",
+    "Affen beobachten"
+   ],
+   "foto_tipp": "Früher Morgen und nach Regen, wenn Nebel in den Säulen hängt. Im September oft wechselhaft, Nebel und Dunst sind wahrscheinlich, die Wälder sind grün.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Zhangjiajie National Forest Park",
+    "de": "Zhangjiajie",
+    "zh": "张家界国家森林公园"
+   }
+  },
+  {
+   "id": "tianmen",
+   "name": "Tianmen-Berg mit Himmelstor",
+   "name_chinesisch": "天门山",
+   "provinz": "Hunan",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Ein Berg mit einem riesigen natürlichen Loch im Fels, wie ein Tor zum Himmel. Die Straße schlängelt sich in vielen Kehren hoch, oben laufen Wege an der Felswand entlang. Wenn Wolken durch das Tor ziehen, wirkt alles unwirklich.",
+   "aktivitaeten": [
+    "Die Serpentinenstraße zum Himmelstor ansehen",
+    "Auf dem Glasweg an der Klippe gehen",
+    "Die Treppe zum Tor hinaufsteigen",
+    "Mit der Seilbahn über die Stadt gleiten"
+   ],
+   "foto_tipp": "Vormittag bei klarem Wetter oder wenn Wolken durchs Tor ziehen. Im September oft dunstig, aber grün und weniger heiß.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Tianmen Mountain",
+    "de": null,
+    "zh": "天门山 (张家界)"
+   }
+  },
+  {
+   "id": "li-fluss",
+   "name": "Li-Fluss zwischen Guilin und Yangshuo",
+   "name_chinesisch": "漓江",
+   "provinz": "Guangxi",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Grüne Karstkegel stehen wie Zuckerhüte am ruhigen Fluss. Bambusflöße gleiten vorbei, Kormorane sitzen auf den Booten, Wasserbüffel stehen im Flachwasser. Das Licht ist weich und die Hügel verschwimmen hintereinander im Dunst.",
+   "aktivitaeten": [
+    "Mit dem Boot oder Bambusfloß flussabwärts fahren",
+    "Radfahren zwischen den Karstkegeln bei Yangshuo",
+    "Kormoranfischer ansehen",
+    "Dorfwege am Ufer entlanggehen"
+   ],
+   "foto_tipp": "Früher Morgen mit Nebel zwischen den Hügeln. Im September grün und warm, Dunst ist häufig.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Li River (Guangxi)",
+    "de": "Li (Guangxi)",
+    "zh": "漓江"
+   }
+  },
+  {
+   "id": "jiuzhaigou",
+   "name": "Jiuzhaigou",
+   "name_chinesisch": "九寨沟",
+   "provinz": "Sichuan",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Seen in Türkis, Blau und Smaragdgrün liegen zwischen Bergwald und Wasserfällen. Das Wasser ist so klar, dass man versunkene Baumstämme am Grund sieht. Es riecht nach Kiefern, überall rauscht es.",
+   "aktivitaeten": [
+    "Den Tälern entlang von See zu See laufen",
+    "Wasserfälle und Holzstege ansehen",
+    "Spiegelungen in den Seen fotografieren",
+    "Tibetische Dörfer im Umfeld besuchen"
+   ],
+   "foto_tipp": "Früh am Morgen, bevor die Besucher kommen, bei Sonne für die Farben. Im September leuchten die Seen klar, die Herbstfärbung kommt meist erst im Oktober.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Jiuzhaigou",
+    "de": "Jiuzhaigou",
+    "zh": "九寨沟"
+   }
+  },
+  {
+   "id": "huanglong",
+   "name": "Huanglong (Kalksinterterrassen)",
+   "name_chinesisch": "黄龙",
+   "provinz": "Sichuan",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Treppenartige Becken aus Kalk ziehen sich wie goldene Drachenschuppen durch ein Hochtal. Das Wasser darin schimmert türkis, orange und gelb, die Luft ist dünn und kühl. Oben stehen ein kleiner Tempel und Schneeberge im Hintergrund.",
+   "aktivitaeten": [
+    "Auf Holzstegen entlang der Terrassen aufsteigen",
+    "Die Farben der Becken von oben ansehen",
+    "Den Tempel am oberen Ende besuchen",
+    "Bergblick auf die Schneegipfel genießen"
+   ],
+   "foto_tipp": "Vormittag bei Sonne, dann leuchten die Becken am stärksten. Im September meist gutes Wetter, aber dünne Luft beachten.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Huanglong",
+    "de": "Huanglong",
+    "zh": "黄龙风景名胜区"
+   }
+  },
+  {
+   "id": "zhangye-danxia",
+   "name": "Regenbogenberge von Zhangye",
+   "name_chinesisch": "张掖丹霞",
+   "provinz": "Gansu",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Hügel in Rot, Orange, Gelb und Grünlich liegen in Streifen übereinander, als hätte jemand die Erde bemalt. Der Wind ist trocken, die Landschaft völlig kahl. Bei tiefem Licht glüht alles.",
+   "aktivitaeten": [
+    "Von mehreren Aussichtsplattformen die Streifen fotografieren",
+    "Sonnenaufgang und Sonnenuntergang ansehen",
+    "Auf Stegen und Treppen zwischen den Hügeln gehen",
+    "Die Wüstenlandschaft des Hexi-Korridors erleben"
+   ],
+   "foto_tipp": "Sonnenaufgang und Sonnenuntergang, am besten kurz nach Regen. Im September meist trocken und klar, die Farben sind kräftig.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Zhangye National Geopark",
+    "de": "Zhangye Danxia",
+    "zh": "张掖丹霞地貌"
+   }
+  },
+  {
+   "id": "wulong",
+   "name": "Wulong-Karst mit den Drei Naturbrücken",
+   "name_chinesisch": "武隆天生三桥",
+   "provinz": "Chongqing",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Drei riesige Felsbrücken wölben sich über eine Schlucht, unten wächst dichter Wald. Man steigt in Karsthöhlen und Dolinen ab und steht dann winzig unter den Bögen. Ein Teil dieser Landschaft taucht in Filmen auf.",
+   "aktivitaeten": [
+    "Zu den Naturbrücken in die Schlucht absteigen",
+    "Durch die Doline und Höhle laufen",
+    "Aussichtspunkte an den Rändern ansehen",
+    "Das Karstplateau im Umland erkunden"
+   ],
+   "foto_tipp": "Vormittag, wenn Licht in die Schlucht fällt. Im September heiß und feucht, gelegentlich Regen, alles grün.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Wulong Karst",
+    "de": "Wulong",
+    "zh": "武隆喀斯特"
+   }
+  },
+  {
+   "id": "shilin",
+   "name": "Steinwald Shilin",
+   "name_chinesisch": "石林",
+   "provinz": "Yunnan",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Graue Kalksteinnadeln ragen aus dem Boden wie ein versteinerter Wald. Zwischen ihnen führen enge Gänge und Treppen, manche Felsen sind höher als Häuser. Das Gebiet gehört zur Kultur der Yi, die Sage von Ashima ist allgegenwärtig.",
+   "aktivitaeten": [
+    "Durch Felsgänge und über Stege laufen",
+    "Aussichtspunkt über dem Steinwald besuchen",
+    "Den kleineren, ruhigeren Teil des Gebiets erkunden",
+    "Yi-Kultur im Umfeld kennenlernen"
+   ],
+   "foto_tipp": "Später Nachmittag mit weichem Licht. Im September mild und grün, mit Regenschauern.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Stone Forest",
+    "de": "Steinwald von Shilin",
+    "zh": "石林彝族自治县"
+   }
+  },
+  {
+   "id": "detian",
+   "name": "Detian-Wasserfall",
+   "name_chinesisch": "德天瀑布",
+   "provinz": "Guangxi",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Breite Wasserstufen stürzen in mehreren Kaskaden ins Tal, mitten im grünen Karst an der Grenze zu Vietnam. Davor liegen Reisfelder und Bambus, die Gischt hängt in der Luft. Auf dem Fluss fahren Flöße bis nahe an den Wasserfall.",
+   "aktivitaeten": [
+    "Mit dem Floß nah an den Wasserfall fahren",
+    "Den Fall von mehreren Seiten ansehen",
+    "Durch Felder und Dörfer in der Grenzregion gehen",
+    "Den Grenzfluss und die Karstberge ansehen"
+   ],
+   "foto_tipp": "Vormittag bei Sonne für Regenbögen in der Gischt. Im September viel Wasser nach der Regenzeit, der Fall ist kräftig.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Ban Gioc–Detian Falls",
+    "de": null,
+    "zh": "德天瀑布"
+   }
+  },
+  {
+   "id": "huangguoshu",
+   "name": "Huangguoshu-Wasserfall",
+   "name_chinesisch": "黄果树瀑布",
+   "provinz": "Guizhou",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Ein breiter Vorhang aus Wasser donnert in ein Becken, die Gischt weht weit über die Besucher. Hinter dem Fall führt ein Gang durch den Fels, so dass man den Vorhang von innen sieht. Der Lärm übertönt jedes Gespräch.",
+   "aktivitaeten": [
+    "Den Fall von vorne und von der Seite ansehen",
+    "Durch den Wasservorhang-Gang hinter dem Fall gehen",
+    "Kleinere Fälle in der Umgebung besuchen",
+    "Dorf und Schluchten rund um den Karst erkunden"
+   ],
+   "foto_tipp": "Bei Sonne zeigen sich oft Regenbögen in der Gischt. Im September viel Wasser, der Fall ist kräftig.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Huangguoshu Waterfall",
+    "de": "Huangguoshu-Wasserfall",
+    "zh": "黄果树瀑布"
+   }
+  },
+  {
+   "id": "hukou",
+   "name": "Hukou-Wasserfall am Gelben Fluss",
+   "name_chinesisch": "壶口瀑布",
+   "provinz": "Shanxi / Shaanxi",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Der Gelbe Fluss presst sich in eine enge Rinne und stürzt als braune Masse in die Tiefe. Es dröhnt, Gischt steigt auf, der Boden vibriert. Das Wasser ist lehmfarben und sieht eher aus wie flüssige Erde.",
+   "aktivitaeten": [
+    "Am Rand der Schlucht den Sturz ansehen",
+    "Über das Felsbett nah an die Gischt gehen",
+    "Regenbogen in der Gischt fotografieren",
+    "Die Lösslandschaft am Ufer erkunden"
+   ],
+   "foto_tipp": "Vormittag bei Sonne für Regenbögen. Im September führt der Fluss viel Wasser, der Fall ist mächtig; bei Hochwasser werden Uferbereiche zeitweise gesperrt.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Hukou Waterfall",
+    "de": "Hukou-Wasserfall",
+    "zh": "壶口瀑布"
+   }
+  },
+  {
+   "id": "kanas",
+   "name": "Kanas-See",
+   "name_chinesisch": "喀纳斯湖",
+   "provinz": "Xinjiang",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Ein tiefgrüner See liegt zwischen Lärchenwäldern und Schneebergen im äußersten Nordwesten Chinas. In Dörfern nahe dem See leben Tuwiner und Kasachen in Holzhäusern. Die Luft ist kühl und klar, auf den Wiesen weiden Pferde.",
+   "aktivitaeten": [
+    "Vom Aussichtspunkt über den See und die Berge schauen",
+    "Dörfer der Tuwa besuchen",
+    "Am Seeufer und durch den Wald wandern",
+    "Herbstfarben in den Lärchenwäldern fotografieren"
+   ],
+   "foto_tipp": "Morgens, wenn Nebel über dem See steht. Die Lärchen färben sich meist ab Mitte September, am goldensten um Ende September; Anfang September ist noch vieles grün.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Kanas Lake",
+    "de": "Kanas-See",
+    "zh": "喀纳斯湖"
+   }
+  },
+  {
+   "id": "xiapu",
+   "name": "Watt von Xiapu",
+   "name_chinesisch": "霞浦滩涂",
+   "provinz": "Fujian",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Bei Ebbe liegen die Wattflächen wie gemalte Linien aus Schlamm, Netzen und Bambusgestellen. Fischer ziehen im Dunst durch das flache Wasser, die Sonne färbt alles golden. Die Bilder wirken wie Tuschezeichnungen.",
+   "aktivitaeten": [
+    "Bei Sonnenaufgang auf den Aussichtspunkten fotografieren",
+    "Fischerboote und Algenfarmen ansehen",
+    "Zwischen Wattflächen und Dörfern spazieren",
+    "Den Küstenabschnitt mit Stränden besuchen"
+   ],
+   "foto_tipp": "Sonnenaufgang bei Ebbe, auch Sonnenuntergang mit Gegenlicht. Im September warm und feucht, oft diesig.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Xiapu County",
+    "de": null,
+    "zh": "霞浦县"
+   }
+  },
+  {
+   "id": "wanfenglin",
+   "name": "Wanfenglin (Zehntausend Gipfel)",
+   "name_chinesisch": "万峰林",
+   "provinz": "Guizhou",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Tausende grüne Kegel stehen dicht an dicht in einem weiten Tal, dazwischen Felder und Dörfer. Von oben sieht es aus wie ein Meer aus Hügeln. Wenn Nebel in den Senken liegt, ragen nur die Spitzen heraus.",
+   "aktivitaeten": [
+    "Vom Aussichtspunkt über die Kegel schauen",
+    "Mit dem Rad oder zu Fuß durch die Täler fahren",
+    "Dörfer zwischen den Hügeln besuchen",
+    "Sonnenaufgang im Nebel beobachten"
+   ],
+   "foto_tipp": "Früher Morgen oder später Nachmittag. Im September grün, mit Dunst und gelegentlichem Regen.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Xingyi, Guizhou",
+    "de": "Xingyi",
+    "zh": "万峰林"
+   }
+  },
+  {
+   "id": "dongchuan",
+   "name": "Rote Erde von Dongchuan",
+   "name_chinesisch": "东川红土地",
+   "provinz": "Yunnan",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Rote und rotbraune Erde ist wie ein Patchwork über die Hügel gelegt. Dazwischen leuchten grüne und gelbe Felder und weiße Wolken. Bauern arbeiten auf den Terrassen, und die Farben sind so kräftig, dass sie unecht wirken.",
+   "aktivitaeten": [
+    "Aussichtspunkte über die Farbfelder ansteigen",
+    "Entlang der Dorfwege durch die Felder gehen",
+    "Sonnenuntergang über den roten Hängen ansehen",
+    "Mit Einheimischen über ihre Felder sprechen"
+   ],
+   "foto_tipp": "Später Nachmittag und früher Morgen. Im September klingt die Regenzeit aus, viele Felder sind bepflanzt und grün, die Erde leuchtet nach Regen besonders satt rot.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Dongchuan District",
+    "de": null,
+    "zh": "东川区"
+   }
+  },
+  {
+   "id": "fanjingshan",
+   "name": "Fanjingshan",
+   "name_chinesisch": "梵净山",
+   "provinz": "Guizhou",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Ein Berg im Nebelwald, auf dessen Gipfel ein Felsturm steht, oben in zwei Hälften gespalten, auf jeder ein kleiner Tempel, verbunden durch eine Brücke. Es ist feucht, moosig und still, im Wald leben seltene Goldstumpfnasen. Man steigt Stufen durch Wolken hinauf.",
+   "aktivitaeten": [
+    "Die Treppen auf den gespaltenen Felsturm hochsteigen",
+    "Den Pilzfelsen und die Tempel am Weg ansehen",
+    "Durch Nebelwald und Moos laufen",
+    "Mit Glück seltene Tiere im Schutzgebiet sehen"
+   ],
+   "foto_tipp": "Morgens bei Wolkenmeer und Sonne. Im September feucht, oft Nebel und Regen, der Wald ist üppig.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Fanjingshan",
+    "de": "Fanjingshan",
+    "zh": "梵净山"
+   }
+  },
+  {
+   "id": "panda-chengdu",
+   "name": "Panda-Zuchtstation Chengdu",
+   "name_chinesisch": "成都大熊猫繁育研究基地",
+   "provinz": "Sichuan",
+   "kategorie": "Natur und Landschaft",
+   "kurzbeschreibung": "Große Pandas liegen im Bambus, kauen bedächtig oder klettern auf Holzgerüsten. Die Anlage ist ein grüner Park mit Teichen und Wegen. Junge Pandas tapsen und purzeln dazwischen.",
+   "aktivitaeten": [
+    "Pandas beim Fressen und Klettern ansehen",
+    "Junge Tiere im Kindergarten beobachten",
+    "Rote Pandas und Schwäne im Park sehen",
+    "Den Park gemütlich durchlaufen"
+   ],
+   "foto_tipp": "Früh am Morgen zur Fütterung, wenn die Tiere aktiv sind. Im September warm und feucht, später Vormittag wird es ruhig.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Chengdu Research Base of Giant Panda Breeding",
+    "de": "Chengdu Research Base of Giant Panda Breeding",
+    "zh": "成都大熊猫繁育研究基地"
+   }
+  },
+  {
+   "id": "longji",
+   "name": "Reisterrassen von Longji",
+   "name_chinesisch": "龙脊梯田",
+   "provinz": "Guangxi",
+   "kategorie": "Wandern und Outdoor",
+   "kurzbeschreibung": "Terrassen ziehen in Hunderten Stufen um die Berge, wie Schuppen auf einem Drachenrücken. Kleine Holzhäuser der Yao und Zhuang kleben an den Hängen. Es riecht nach Reis, Rauch und feuchter Erde.",
+   "aktivitaeten": [
+    "Auf Wegen zwischen den Terrassen wandern",
+    "In Dörfern der Yao und Zhuang einkehren",
+    "Aussichtspunkte bei Sonnenaufgang besuchen",
+    "Frauen in Tracht und lange Haare der Yao erleben"
+   ],
+   "foto_tipp": "Früh am Morgen im Nebel. Anfang September ist der Reis noch grün, gegen Ende des Monats wird er golden; geerntet wird etwa Ende September bis Oktober.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Longji Rice Terraces",
+    "de": "Longsheng-Reisterrassen",
+    "zh": "龙脊梯田"
+   }
+  },
+  {
+   "id": "yuanyang",
+   "name": "Reisterrassen von Yuanyang",
+   "name_chinesisch": "元阳梯田",
+   "provinz": "Yunnan",
+   "kategorie": "Wandern und Outdoor",
+   "kurzbeschreibung": "Terrassen fallen wie riesige Treppen in den Dunst, im Winter spiegelt sich der Himmel in den gefluteten Becken. Hani-Dörfer mit pilzförmigen Strohdächern sitzen dazwischen. Morgens ziehen Nebel durch die Hänge.",
+   "aktivitaeten": [
+    "Aussichtspunkte bei Sonnenaufgang besuchen",
+    "Durch Hani-Dörfer wandern",
+    "Markt der Minderheiten ansehen",
+    "Terrassenwege am Hang gehen"
+   ],
+   "foto_tipp": "Sonnenaufgang im Nebel. Im September stehen die Terrassen grün bis gelb im Reis und sind nicht geflutet; die berühmten Spiegelungen gibt es etwa von Dezember bis März.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Honghe Hani Rice Terraces",
+    "de": "Reisterrassen von Yuanyang",
+    "zh": "红河哈尼梯田"
+   }
+  },
+  {
+   "id": "tigersprung",
+   "name": "Tigersprung-Schlucht",
+   "name_chinesisch": "虎跳峡",
+   "provinz": "Yunnan",
+   "kategorie": "Wandern und Outdoor",
+   "kurzbeschreibung": "Der Jangtse zwängt sich durch eine tiefe Schlucht zwischen zwei Schneebergen. Unten donnert das Wasser, oben laufen Pfade an steilen Hängen. Man blickt in eine gewaltige Tiefe.",
+   "aktivitaeten": [
+    "Auf dem Hochweg hoch über der Schlucht wandern",
+    "Zum Wasser am Fluss absteigen",
+    "Schneeberge im Hintergrund ansehen",
+    "Dörfer der Naxi und Yi am Weg besuchen"
+   ],
+   "foto_tipp": "Vormittag bei Sonne. Im September viel Wasser nach der Regenzeit, der Fluss tobt, Regenschauer und Steinschlag sind möglich.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Tiger Leaping Gorge",
+    "de": "Tigersprung-Schlucht",
+    "zh": "虎跳峡"
+   }
+  },
+  {
+   "id": "huangshan",
+   "name": "Huangshan (Gelbe Berge)",
+   "name_chinesisch": "黄山",
+   "provinz": "Anhui",
+   "kategorie": "Wandern und Outdoor",
+   "kurzbeschreibung": "Granitgipfel mit knorrigen Kiefern ragen aus einem Meer aus Wolken. Man steigt auf Steintreppen durch Nebel, plötzlich reißt es auf. Es sieht aus wie eine chinesische Tuschezeichnung.",
+   "aktivitaeten": [
+    "Auf Steintreppen zu den Gipfeln wandern",
+    "Sonnenaufgang über dem Wolkenmeer ansehen",
+    "Berühmte Kiefern und Felsformen suchen",
+    "Auf dem Berg übernachten"
+   ],
+   "foto_tipp": "Sonnenaufgang oder nach Regen für das Wolkenmeer. Im September oft Nebel, häufig auch klare Tage.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Huangshan",
+    "de": "Huang Shan",
+    "zh": "黄山"
+   }
+  },
+  {
+   "id": "yading",
+   "name": "Yading",
+   "name_chinesisch": "稻城亚丁",
+   "provinz": "Sichuan",
+   "kategorie": "Wandern und Outdoor",
+   "kurzbeschreibung": "Drei heilige Schneegipfel ragen über Hochtälern, Seen und Weiden. Die Luft ist dünn und das Licht klar. Tibetische Gebetsfahnen flattern an Pässen.",
+   "aktivitaeten": [
+    "Zum Perlsee und zum Milchsee wandern",
+    "Die drei heiligen Gipfel ansehen",
+    "Gebetsfahnen und Mani-Steine am Weg entdecken",
+    "Auf Hochweiden wandern"
+   ],
+   "foto_tipp": "Früher Morgen für klare Sicht auf die Gipfel. Im September wird das Wetter stabiler, gegen Ende des Monats beginnen die Herbstfarben; kalte Nächte.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Yading Nature Reserve",
+    "de": "Yading",
+    "zh": "稻城亚丁"
+   }
+  },
+  {
+   "id": "sanqingshan",
+   "name": "Sanqingshan",
+   "name_chinesisch": "三清山",
+   "provinz": "Jiangxi",
+   "kategorie": "Wandern und Outdoor",
+   "kurzbeschreibung": "Felsnadeln und Gipfel in Form von Gestalten stehen im Nebel, dazwischen kleben Kiefern an Felswänden. Holzstege hängen an senkrechten Wänden. Wenn die Wolken aufreißen, tauchen Figuren auf.",
+   "aktivitaeten": [
+    "Auf den Holzstegen an den Klippen entlanggehen",
+    "Felsformen wie die Göttin und den Pythonberg suchen",
+    "Sonnenaufgang vom Gipfel beobachten",
+    "Daoistische Stätten am Berg besuchen"
+   ],
+   "foto_tipp": "Früh am Morgen und nach Regen. Im September oft Nebel, die Wälder sind grün.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Mount Sanqing",
+    "de": "Sanqing Shan",
+    "zh": "三清山"
+   }
+  },
+  {
+   "id": "emeishan",
+   "name": "Emei Shan",
+   "name_chinesisch": "峨眉山",
+   "provinz": "Sichuan",
+   "kategorie": "Wandern und Outdoor",
+   "kurzbeschreibung": "Ein heiliger Berg mit Tempeln im Nebelwald, Stufen führen durch Wolken nach oben. Affen warten am Wegrand auf Futter. Der Gipfel liegt oft über den Wolken.",
+   "aktivitaeten": [
+    "Bergwege und Treppen zu den Tempeln steigen",
+    "Die goldene Samantabhadra-Statue am Gipfel ansehen",
+    "Affen im Wald beobachten",
+    "Mönchsklöster am Weg besuchen"
+   ],
+   "foto_tipp": "Sonnenaufgang auf dem Gipfel, oft mit Wolkenmeer. Im September feucht, Nebel und Regen sind häufig.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Mount Emei",
+    "de": "Emei Shan",
+    "zh": "峨眉山"
+   }
+  },
+  {
+   "id": "siguniang",
+   "name": "Siguniang-Berg",
+   "name_chinesisch": "四姑娘山",
+   "provinz": "Sichuan",
+   "kategorie": "Wandern und Outdoor",
+   "kurzbeschreibung": "Vier Schneegipfel erheben sich über grünen Tälern, Wiesen und Wald. Yaks grasen, tibetische Dörfer liegen am Weg. Die Luft ist dünn und kühl.",
+   "aktivitaeten": [
+    "Im Shuangqiao-Tal wandern",
+    "Wiesen und Seen am Fuß der Berge ansehen",
+    "Auf Pferden durch das Tal reiten",
+    "Tibetische Dörfer besuchen"
+   ],
+   "foto_tipp": "Früher Morgen für klare Gipfel. Im September oft schönes Wetter, gegen Ende des Monats erste Herbstfarben.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Mount Siguniang",
+    "de": "Siguniang",
+    "zh": "四姑娘山"
+   }
+  },
+  {
+   "id": "enshi",
+   "name": "Grand Canyon von Enshi",
+   "name_chinesisch": "恩施大峡谷",
+   "provinz": "Hubei",
+   "kategorie": "Wandern und Outdoor",
+   "kurzbeschreibung": "Steile Felswände und Säulen bilden eine Schlucht mit Wald, in der Wolken hängen. Stege führen an den Wänden entlang, unten schlängelt sich ein Bach. Die Felsen stehen wie Türme.",
+   "aktivitaeten": [
+    "Auf Stegen und Treppen durch die Schlucht gehen",
+    "Mit der Seilbahn oder zu Fuß zu den Felssäulen",
+    "Aussichtspunkte über die Wände besuchen",
+    "Dorf der Tujia in der Region erleben"
+   ],
+   "foto_tipp": "Vormittag, wenn Licht in die Schlucht fällt. Im September grün, oft Dunst und Regen.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Enshi Grand Canyon",
+    "de": null,
+    "zh": "恩施大峡谷"
+   }
+  },
+  {
+   "id": "taishan",
+   "name": "Tai Shan",
+   "name_chinesisch": "泰山",
+   "provinz": "Shandong",
+   "kategorie": "Wandern und Outdoor",
+   "kurzbeschreibung": "Ein uralter heiliger Berg, den Kaiser bestiegen haben. Tausende Steinstufen führen zwischen Kiefern und Inschriften nach oben. Pilger steigen nachts hoch, um den Sonnenaufgang zu sehen.",
+   "aktivitaeten": [
+    "Die Steintreppe zum Gipfel steigen",
+    "Inschriften und Tempel am Weg ansehen",
+    "Sonnenaufgang vom Gipfel erleben",
+    "Mit den Pilgern ins Gespräch kommen"
+   ],
+   "foto_tipp": "Sonnenaufgang auf dem Gipfel, bei klarer Sicht. Im September meist gutes Wetter und Sicht.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Mount Tai",
+    "de": "Tai Shan",
+    "zh": "泰山"
+   }
+  },
+  {
+   "id": "wuyishan",
+   "name": "Wuyi Shan",
+   "name_chinesisch": "武夷山",
+   "provinz": "Fujian",
+   "kategorie": "Wandern und Outdoor",
+   "kurzbeschreibung": "Ein Fluss schlängelt sich in Windungen durch rote Felswände und Teeplantagen. Bambusflöße gleiten still über das grüne Wasser. Der berühmte Dahongpao-Tee wächst an den Felsen.",
+   "aktivitaeten": [
+    "Mit dem Bambusfloß den Fluss hinabfahren",
+    "Auf Wegen zum Gipfel des Tianyou wandern",
+    "Teeplantagen und Teehäuser besuchen",
+    "Felswände und Höhlen ansehen"
+   ],
+   "foto_tipp": "Früher Morgen mit Nebel am Fluss. Im September warm und feucht, grün, Regen möglich.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Wuyi Mountains",
+    "de": "Wuyi Shan",
+    "zh": "武夷山"
+   }
+  },
+  {
+   "id": "jinshanling",
+   "name": "Große Mauer bei Jinshanling",
+   "name_chinesisch": "金山岭长城",
+   "provinz": "Hebei",
+   "kategorie": "Wandern und Outdoor",
+   "kurzbeschreibung": "Die Große Mauer läuft in Wellen über Bergrücken, viele Türme stehen eng nebeneinander. Teile sind restauriert, andere zerbröckeln im Gras. Die Aussicht reicht weit über die Hügel.",
+   "aktivitaeten": [
+    "Auf der Mauer zwischen Türmen entlangwandern",
+    "Zwischen restaurierten und verfallenen Abschnitten wechseln",
+    "Sonnenaufgang oder Sonnenuntergang fotografieren",
+    "Verfallene Abschnitte ansehen"
+   ],
+   "foto_tipp": "Früher Morgen oder später Nachmittag. Im September meist mild, oft klarer als im Sommer, die Hänge sind noch grün.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Jinshanling",
+    "de": "Jinshanling",
+    "zh": "金山岭长城"
+   }
+  },
+  {
+   "id": "yubeng",
+   "name": "Yubeng am Meili-Schneeberg",
+   "name_chinesisch": "雨崩村",
+   "provinz": "Yunnan",
+   "kategorie": "Wandern und Outdoor",
+   "kurzbeschreibung": "Ein abgelegenes Dorf liegt unter dem Meili-Schneeberg, bisher meist nur zu Fuß erreichbar, eine Straße ist im Bau. Der Weg führt durch Wald, Weiden und Pässe, Gebetsfahnen hängen im Wind. Dann steht ein Gletscher im Blick.",
+   "aktivitaeten": [
+    "Zu Fuß ins Dorf wandern",
+    "Zum Heiligen Wasserfall gehen",
+    "Zum Gletscher am Berg wandern",
+    "In einem Gasthaus im Dorf übernachten"
+   ],
+   "foto_tipp": "Früher Morgen für klare Gipfel. Im September oft Wolken und Regen, die Gipfel zeigen sich selten; gegen Ende des Monats wird die Sicht meist besser.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Meili Snow Mountains",
+    "de": "Meili-Schneeberge",
+    "zh": "梅里雪山"
+   }
+  }
+ ]
+}

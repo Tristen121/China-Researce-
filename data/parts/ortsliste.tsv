@@ -1,0 +1,96 @@
+teil	id	name	name_chinesisch	provinz	kategorie	wow	geheimtipp
+1	zhangjiajie	Zhangjiajie-Nationalwaldpark (Avatar-Berge)	张家界国家森林公园	Hunan	Natur und Landschaft	5	false
+1	tianmen	Tianmen-Berg mit Himmelstor	天门山	Hunan	Natur und Landschaft	5	false
+1	li-fluss	Li-Fluss zwischen Guilin und Yangshuo	漓江	Guangxi	Natur und Landschaft	5	false
+1	jiuzhaigou	Jiuzhaigou	九寨沟	Sichuan	Natur und Landschaft	5	false
+1	huanglong	Huanglong (Kalksinterterrassen)	黄龙	Sichuan	Natur und Landschaft	5	false
+1	zhangye-danxia	Regenbogenberge von Zhangye	张掖丹霞	Gansu	Natur und Landschaft	5	false
+1	wulong	Wulong-Karst mit den Drei Naturbrücken	武隆天生三桥	Chongqing	Natur und Landschaft	5	false
+1	shilin	Steinwald Shilin	石林	Yunnan	Natur und Landschaft	4	false
+1	detian	Detian-Wasserfall	德天瀑布	Guangxi	Natur und Landschaft	4	false
+1	huangguoshu	Huangguoshu-Wasserfall	黄果树瀑布	Guizhou	Natur und Landschaft	4	false
+1	hukou	Hukou-Wasserfall am Gelben Fluss	壶口瀑布	Shanxi / Shaanxi	Natur und Landschaft	4	true
+1	kanas	Kanas-See	喀纳斯湖	Xinjiang	Natur und Landschaft	5	true
+1	xiapu	Watt von Xiapu	霞浦滩涂	Fujian	Natur und Landschaft	4	true
+1	wanfenglin	Wanfenglin (Zehntausend Gipfel)	万峰林	Guizhou	Natur und Landschaft	4	true
+1	dongchuan	Rote Erde von Dongchuan	东川红土地	Yunnan	Natur und Landschaft	4	true
+1	fanjingshan	Fanjingshan	梵净山	Guizhou	Natur und Landschaft	5	true
+1	panda-chengdu	Panda-Zuchtstation Chengdu	成都大熊猫繁育研究基地	Sichuan	Natur und Landschaft	4	false
+1	longji	Reisterrassen von Longji	龙脊梯田	Guangxi	Wandern und Outdoor	5	false
+1	yuanyang	Reisterrassen von Yuanyang	元阳梯田	Yunnan	Wandern und Outdoor	5	false
+1	tigersprung	Tigersprung-Schlucht	虎跳峡	Yunnan	Wandern und Outdoor	5	false
+1	huangshan	Huangshan (Gelbe Berge)	黄山	Anhui	Wandern und Outdoor	5	false
+1	yading	Yading	稻城亚丁	Sichuan	Wandern und Outdoor	5	true
+1	sanqingshan	Sanqingshan	三清山	Jiangxi	Wandern und Outdoor	4	true
+1	emeishan	Emei Shan	峨眉山	Sichuan	Wandern und Outdoor	4	false
+1	siguniang	Siguniang-Berg	四姑娘山	Sichuan	Wandern und Outdoor	4	true
+1	enshi	Grand Canyon von Enshi	恩施大峡谷	Hubei	Wandern und Outdoor	4	true
+1	taishan	Tai Shan	泰山	Shandong	Wandern und Outdoor	4	false
+1	wuyishan	Wuyi Shan	武夷山	Fujian	Wandern und Outdoor	4	false
+1	jinshanling	Große Mauer bei Jinshanling	金山岭长城	Hebei	Wandern und Outdoor	5	false
+1	yubeng	Yubeng am Meili-Schneeberg	雨崩村	Yunnan	Wandern und Outdoor	5	true
+2	sonne-mond-pagoden	Sonne-und-Mond-Pagoden in Guilin	日月双塔	Guangxi	Kultur und Tempel	3	false
+2	verbotene-stadt	Verbotene Stadt	故宫	Beijing	Kultur und Tempel	5	false
+2	himmelstempel	Himmelstempel	天坛	Beijing	Kultur und Tempel	4	false
+2	terrakotta	Terrakotta-Armee	兵马俑	Shaanxi	Kultur und Tempel	5	false
+2	haengendes-kloster	Hängendes Kloster	悬空寺	Shanxi	Kultur und Tempel	5	false
+2	leshan	Großer Buddha von Leshan	乐山大佛	Sichuan	Kultur und Tempel	5	false
+2	longmen	Longmen-Grotten	龙门石窟	Henan	Kultur und Tempel	4	false
+2	mogao	Mogao-Grotten	莫高窟	Gansu	Kultur und Tempel	4	false
+2	potala	Potala-Palast	布达拉宫	Tibet	Kultur und Tempel	5	false
+2	shaolin	Shaolin-Kloster	少林寺	Henan	Kultur und Tempel	3	false
+2	tulou	Tulou-Rundhäuser	福建土楼	Fujian	Kultur und Tempel	4	false
+2	pingyao	Altstadt von Pingyao	平遥古城	Shanxi	Kultur und Tempel	4	false
+2	fenghuang	Fenghuang	凤凰古城	Hunan	Kultur und Tempel	4	false
+2	labrang	Kloster Labrang	拉卜楞寺	Gansu	Kultur und Tempel	4	true
+2	maijishan	Maijishan-Grotten	麦积山石窟	Gansu	Kultur und Tempel	5	true
+2	wudang	Wudang Shan	武当山	Hubei	Kultur und Tempel	4	false
+2	xijiang	Xijiang, Miao-Dorf der tausend Häuser	西江千户苗寨	Guizhou	Kultur und Tempel	5	true
+2	suzhou-gaerten	Gärten von Suzhou	苏州园林	Jiangsu	Kultur und Tempel	4	false
+2	chongqing	Chongqing: Hongyadong und die 8D-Stadt	洪崖洞	Chongqing	Städte und Futuristisches	5	false
+2	shanghai-skyline	Bund und Lujiazui in Shanghai	外滩 / 陆家嘴	Shanghai	Städte und Futuristisches	5	false
+2	shenzhen-rad	Shenzhen mit dem Fahrrad	深圳湾公园	Guangdong	Städte und Futuristisches	4	false
+2	peking-hutongs	Pekinger Hutongs mit dem Fahrrad	北京胡同	Beijing	Städte und Futuristisches	4	false
+2	hongkong	Hongkong: Victoria Peak und Skyline	太平山	Hongkong	Städte und Futuristisches	5	false
+2	canton-tower	Canton Tower und Perlfluss	广州塔	Guangdong	Städte und Futuristisches	4	false
+2	binhai-bibliothek	Binhai-Bibliothek	滨海图书馆	Tianjin	Städte und Futuristisches	4	true
+2	harbin-oper	Opernhaus Harbin	哈尔滨大剧院	Heilongjiang	Städte und Futuristisches	4	true
+2	datang-everbright	Datang Everbright City (Nachtpromenade)	大唐不夜城	Shaanxi	Städte und Futuristisches	4	false
+2	meixihu	Kulturzentrum Meixihu	梅溪湖国际文化艺术中心	Hunan	Städte und Futuristisches	3	true
+2	westsee	Westsee in Hangzhou	西湖	Zhejiang	Städte und Futuristisches	4	false
+2	maglev	Transrapid Shanghai	上海磁浮示范运营线	Shanghai	Städte und Futuristisches	3	false
+3	muslimviertel	Muslimisches Viertel in Xi'an	回民街	Shaanxi	Essen und Märkte	4	false
+3	wenheyou	Wenheyou in Changsha	文和友	Hunan	Essen und Märkte	4	true
+3	mushuihua	Wildpilzmarkt Mushuihua	木水花野生菌交易市场	Yunnan	Essen und Märkte	4	true
+3	kashgar-basar	Viehmarkt und Basar von Kashgar	喀什牲畜交易市场	Xinjiang	Essen und Märkte	5	true
+3	chengdu-teehaus	Heming-Teehaus im Volkspark Chengdu	人民公园鹤鸣茶社	Sichuan	Essen und Märkte	3	false
+3	yumcha-guangzhou	Morgentee (Yum Cha) im Panxi-Restaurant	泮溪酒家	Guangdong	Essen und Märkte	3	false
+3	pekingente	Pekingente	北京烤鸭	Beijing	Essen und Märkte	3	false
+3	longjing	Teedorf Longjing	龙井村	Zhejiang	Essen und Märkte	4	false
+3	shaxi	Shaxi mit Freitagsmarkt	沙溪古镇	Yunnan	Essen und Märkte	4	true
+3	yiwu	Yiwu International Trade City	义乌国际商贸城	Zhejiang	Essen und Märkte	4	true
+3	nanxiang	Xiaolongbao am Yu-Garten	南翔馒头店	Shanghai	Essen und Märkte	3	false
+3	hubu-gasse	Frühstücksgasse Hubu Xiang	户部巷	Hubei	Essen und Märkte	3	false
+3	shunde	Shunde	顺德	Guangdong	Essen und Märkte	3	true
+3	huashan	Huashan mit Plankenweg	华山长空栈道	Shaanxi	Abenteuer	5	false
+3	jiankou	Große Mauer bei Jiankou (Trekking und Zelt)	箭扣长城	Beijing	Abenteuer	5	true
+3	glasbruecke	Glasbrücke über den Grand Canyon von Zhangjiajie	张家界大峡谷玻璃桥	Hunan	Abenteuer	4	false
+3	badain-jaran	Wüste Badain Jaran	巴丹吉林沙漠	Innere Mongolei	Abenteuer	5	true
+3	yangshuo	Yangshuo: Rad, Bambusfloß, Klettern	遇龙河	Guangxi	Abenteuer	4	false
+3	duku	Duku-Highway	独库公路	Xinjiang	Abenteuer	5	true
+3	hulunbuir	Grasland von Hulunbuir	呼伦贝尔草原	Innere Mongolei	Abenteuer	4	true
+3	shennongjia	Shennongjia	神农架	Hubei	Abenteuer	4	true
+3	everest-bc	Everest-Basislager (Nordseite)	珠峰大本营	Tibet	Abenteuer	5	false
+3	haba	Haba-Schneeberg	哈巴雪山	Yunnan	Abenteuer	5	true
+3	liziba	Station Liziba (Bahn durchs Wohnhaus)	李子坝站	Chongqing	Ungewöhnliches	4	true
+3	bailong	Bailong-Aufzug	百龙天梯	Hunan	Ungewöhnliches	4	false
+3	chaka	Salzsee Chaka	茶卡盐湖	Qinghai	Ungewöhnliches	5	true
+3	longhushan	Hängende Särge am Longhushan	龙虎山	Jiangxi	Ungewöhnliches	4	true
+3	tianducheng	Tianducheng (Klein-Paris)	天都城	Zhejiang	Ungewöhnliches	3	true
+3	kangbashi	Kangbashi (Geisterstadt)	康巴什	Innere Mongolei	Ungewöhnliches	3	true
+3	houtouwan	Houtouwan (Efeu-Geisterdorf)	后头湾	Zhejiang	Ungewöhnliches	5	true
+3	guoliang	Guoliang-Tunnelstraße	郭亮挂壁公路	Henan	Ungewöhnliches	5	true
+3	qiantang	Flutwelle des Qiantang	钱塘江大潮	Zhejiang	Ungewöhnliches	5	true
+3	panjin	Roter Strand von Panjin	红海滩	Liaoning	Ungewöhnliches	4	true
+3	kaiping	Diaolou von Kaiping	开平碉楼	Guangdong	Ungewöhnliches	4	true
+3	dafen	Ölgemälde-Dorf Dafen	大芬油画村	Guangdong	Ungewöhnliches	3	true

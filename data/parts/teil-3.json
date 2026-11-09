@@ -1,0 +1,778 @@
+{
+ "orte": [
+  {
+   "id": "muslimviertel",
+   "name": "Muslimisches Viertel in Xi'an",
+   "name_chinesisch": "回民街",
+   "provinz": "Shaanxi",
+   "kategorie": "Essen und Märkte",
+   "kurzbeschreibung": "Enge Gassen hinter dem Trommelturm, Rauch von Fleischspießen, Rufe der Händler. Auf dem Boden dampfen Pfannen, an den Wänden hängen Neonschilder in Arabisch und Chinesisch. Es riecht nach Kreuzkümmel, Holzkohle und süßem Gebäck.",
+   "aktivitaeten": [
+    "Lammspieße und Fladenbrot an den Ständen probieren",
+    "Durch die Nebengassen zur Großen Moschee laufen",
+    "Händlern beim Backen und Klopfen von Süßwaren zusehen",
+    "Abends die Lichter und den Rauch fotografieren"
+   ],
+   "foto_tipp": "Abends, wenn die Neonschilder an sind und der Rauch im Licht steht. Im September warm, viel Betrieb bis spät.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Muslim Quarter, Xi'an",
+    "de": null,
+    "zh": "回民街"
+   }
+  },
+  {
+   "id": "wenheyou",
+   "name": "Wenheyou in Changsha",
+   "name_chinesisch": "文和友",
+   "provinz": "Hunan",
+   "kategorie": "Essen und Märkte",
+   "kurzbeschreibung": "Ein Food-Komplex, der wie eine nachgebaute Altstadt der 1980er wirkt: Backsteinfassaden, Neonröhren, Wäscheleinen, Kramläden. Zwischen den Ständen steht Hunan-Küche mit viel Chili. Alles ist dicht, laut und bewusst nostalgisch.",
+   "aktivitaeten": [
+    "Hunan-Spezialitäten wie scharfe Krebse und Stinktofu probieren",
+    "Die nachgebaute Straßenszenerie erkunden",
+    "Nachts die Neonfassaden fotografieren"
+   ],
+   "foto_tipp": "Nach Einbruch der Dunkelheit, wenn Neon und Lampions leuchten. Im September mild und feucht.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": true,
+   "_wiki": {
+    "en": "Changsha",
+    "de": "Changsha",
+    "zh": "长沙市"
+   }
+  },
+  {
+   "id": "mushuihua",
+   "name": "Wildpilzmarkt Mushuihua",
+   "name_chinesisch": "木水花野生菌交易市场",
+   "provinz": "Yunnan",
+   "kategorie": "Essen und Märkte",
+   "kurzbeschreibung": "Ein großer Markt in Kunming, auf dem in der Saison Berge von Wildpilzen liegen: Steinpilze, Matsutake, Pfifferlinge, Termitenpilze und Pilze, deren Namen man nicht kennt. Käufer prüfen Ware an der Nase, Händler wiegen in Eile. Der Geruch von Erde und Wald hängt in der Halle.",
+   "aktivitaeten": [
+    "Das Sortiment an Wildpilzen anschauen",
+    "Händlern beim Sortieren und Handeln zusehen",
+    "Pilzgerichte in der Umgebung essen"
+   ],
+   "foto_tipp": "Früh am Morgen, wenn frische Ware ankommt. Der September liegt in der Pilzsaison Yunnans, das Angebot ist groß.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Kunming",
+    "de": "Kunming",
+    "zh": "昆明市"
+   }
+  },
+  {
+   "id": "kashgar-basar",
+   "name": "Viehmarkt und Basar von Kashgar",
+   "name_chinesisch": "喀什牲畜交易市场",
+   "provinz": "Xinjiang",
+   "kategorie": "Essen und Märkte",
+   "kurzbeschreibung": "Am Rand der Oase Kashgar treffen sich jeden Sonntag Bauern und Händler zum Tiermarkt. Schafe, Ziegen, Esel und Rinder wechseln den Besitzer, Männer mit Doppa-Kappen feilschen mit Handschlag. Staub, Gebrüll und Rauch von Spießen füllen die Luft. Es fühlt sich an wie Zentralasien.",
+   "aktivitaeten": [
+    "Am Sonntag das Treiben auf dem Tiermarkt beobachten",
+    "Durch den Basar der Altstadt mit Teppichen und Kupferwaren gehen",
+    "Naan und Samsa frisch aus dem Lehmofen essen"
+   ],
+   "foto_tipp": "Früh am Morgen, wenn der Handel am dichtesten ist. Im September trocken, heiß am Tag, helles hartes Licht.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Kashgar",
+    "de": "Kaschgar",
+    "zh": "喀什市"
+   }
+  },
+  {
+   "id": "chengdu-teehaus",
+   "name": "Heming-Teehaus im Volkspark Chengdu",
+   "name_chinesisch": "人民公园鹤鸣茶社",
+   "provinz": "Sichuan",
+   "kategorie": "Essen und Märkte",
+   "kurzbeschreibung": "Im Volkspark stehen Bambusstühle unter Bäumen, Teetassen mit Deckel klirren. Alte Leute spielen Mahjong, ein Ohrenreiniger zieht mit Metallwerkzeug durch die Reihen. Man sitzt Stunden da und nichts muss passieren.",
+   "aktivitaeten": [
+    "Tee aus der Deckeltasse trinken",
+    "Mahjong- und Kartenrunden beobachten",
+    "Sich von einem Ohrenreiniger bedienen lassen",
+    "Die Parkbesucher beim Tanzen und Singen sehen"
+   ],
+   "foto_tipp": "Vormittags im gefleckten Licht unter den Bäumen. Im September mild und feucht, oft diesig.",
+   "wow": 3,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "People's Park, Chengdu",
+    "de": null,
+    "zh": "人民公园 (成都)"
+   }
+  },
+  {
+   "id": "yumcha-guangzhou",
+   "name": "Morgentee (Yum Cha) im Panxi-Restaurant",
+   "name_chinesisch": "泮溪酒家",
+   "provinz": "Guangdong",
+   "kategorie": "Essen und Märkte",
+   "kurzbeschreibung": "Ein Gartenrestaurant am Liwan-See mit Pavillons, Brücken und Teichen. Dim Sum kommen in Bambuskörbchen auf den Tisch, dazu gibt es Kännchen mit Tee. Morgens sitzen ganze Familien am runden Tisch und reden laut.",
+   "aktivitaeten": [
+    "Dim Sum aus den Dämpfkörben probieren",
+    "Kännchentee mit Nachschenken genießen",
+    "Durch den Garten am See laufen"
+   ],
+   "foto_tipp": "Morgens, wenn das Restaurant voll ist und das Licht flach über den Teich fällt. Im September heiß und schwül.",
+   "wow": 3,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Guangzhou",
+    "de": "Guangzhou",
+    "zh": "广州市"
+   }
+  },
+  {
+   "id": "pekingente",
+   "name": "Pekingente",
+   "name_chinesisch": "北京烤鸭",
+   "provinz": "Beijing",
+   "kategorie": "Essen und Märkte",
+   "kurzbeschreibung": "Ein ganzes Tier kommt auf dem Rollwagen an, die Haut lackbraun und glänzend. Der Koch schneidet vor dem Tisch dünne Scheiben. Man wickelt sie mit Sauce und Frühlingszwiebeln in zarte Pfannkuchen. Die Haut knackt, das Fett schmilzt.",
+   "aktivitaeten": [
+    "Die Ente am Tisch tranchieren sehen",
+    "In Pfannkuchen wickeln und essen",
+    "Die Zubereitung im Holzofen ansehen, wo es angeboten wird"
+   ],
+   "foto_tipp": "Drinnen bei warmem Licht, die Ente im Moment des Schneidens. September ist unkritisch, das Essen ist ganzjährig.",
+   "wow": 3,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Peking duck",
+    "de": "Peking-Ente",
+    "zh": "北京烤鸭"
+   }
+  },
+  {
+   "id": "longjing",
+   "name": "Teedorf Longjing",
+   "name_chinesisch": "龙井村",
+   "provinz": "Zhejiang",
+   "kategorie": "Essen und Märkte",
+   "kurzbeschreibung": "Hügel voller Teesträucher in ordentlichen Reihen, dazwischen kleine Höfe und Teehäuser. In den Höfen stehen die Pfannen, in denen der Tee von Hand geröstet wird. Man sitzt bei einem Glas Tee, in dem die Blätter langsam sinken.",
+   "aktivitaeten": [
+    "Zwischen den Teefeldern wandern",
+    "Sich das Rösten in der Pfanne zeigen lassen (frisch geröstet wird vor allem im Frühjahr)",
+    "Frischen Grüntee im Hof trinken"
+   ],
+   "foto_tipp": "Früh morgens, wenn Dunst über den Reihen liegt. Im September sind die Sträucher dicht grün, die Hauptpflückzeit des Frühlings ist vorbei.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Longjing tea",
+    "de": "Longjing-Tee",
+    "zh": "龙井村"
+   }
+  },
+  {
+   "id": "shaxi",
+   "name": "Shaxi mit Freitagsmarkt",
+   "name_chinesisch": "沙溪古镇",
+   "provinz": "Yunnan",
+   "kategorie": "Essen und Märkte",
+   "kurzbeschreibung": "Ein alter Marktflecken an der früheren Teepferde-Route, mit Steinplatten, Holzhäusern und einem Dorfplatz mit Bühne. Am Freitag kommen Bauern der Bai- und Yi-Minderheiten in Tracht zum Markt. Dazwischen laufen Kühe und Hühner.",
+   "aktivitaeten": [
+    "Den Freitagsmarkt mit Händlern in Tracht besuchen",
+    "Über den alten Platz und die steinerne Brücke gehen",
+    "Auf den Feldern ringsum Rad fahren"
+   ],
+   "foto_tipp": "Früh am Markttag und am späten Nachmittag im goldenen Licht. Im September grün, Reis kurz vor der Ernte, gelegentlich Regen.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Shaxi",
+    "de": null,
+    "zh": "沙溪镇"
+   }
+  },
+  {
+   "id": "yiwu",
+   "name": "Yiwu International Trade City",
+   "name_chinesisch": "义乌国际商贸城",
+   "provinz": "Zhejiang",
+   "kategorie": "Essen und Märkte",
+   "kurzbeschreibung": "Hallen über Hallen mit Spielzeug, Lichterketten, Plastikblumen und Weihnachtsdeko, alles in Massen. Gänge ohne Ende, Händler aus aller Welt und Muster in jeder Farbe. Man spürt, woher viele Dinge der Welt kommen.",
+   "aktivitaeten": [
+    "Durch die Hallen mit Spielzeug und Deko laufen",
+    "Die Mengen und Farben fotografieren",
+    "Händler aus aller Welt beim Verhandeln beobachten"
+   ],
+   "foto_tipp": "Zu jeder Tageszeit drinnen, kein Wetter nötig. Im September wird schon Weihnachtsware gezeigt.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Yiwu",
+    "de": "Yiwu",
+    "zh": "义乌国际商贸城"
+   }
+  },
+  {
+   "id": "nanxiang",
+   "name": "Xiaolongbao am Yu-Garten",
+   "name_chinesisch": "南翔馒头店",
+   "provinz": "Shanghai",
+   "kategorie": "Essen und Märkte",
+   "kurzbeschreibung": "Vor dem Laden steht eine lange Schlange. Hinter Glas falten Köchinnen mit flinken Fingern kleine Teigtaschen und stapeln Dämpfkörbe. Beim Biss läuft heiße Brühe heraus. Das Haus im alten Stil steht mitten im Basarviertel am Yu-Garten.",
+   "aktivitaeten": [
+    "Xiaolongbao im Dämpfkorb essen",
+    "Den Köchinnen beim Falten zusehen",
+    "Durch die Basargassen am Yu-Garten laufen"
+   ],
+   "foto_tipp": "Früh am Tag, bevor die Schlange lang wird. Im September heiß und feucht.",
+   "wow": 3,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Xiaolongbao",
+    "de": "Xiaolongbao",
+    "zh": "小笼包"
+   }
+  },
+  {
+   "id": "hubu-gasse",
+   "name": "Frühstücksgasse Hubu Xiang",
+   "name_chinesisch": "户部巷",
+   "provinz": "Hubei",
+   "kategorie": "Essen und Märkte",
+   "kurzbeschreibung": "Eine schmale Gasse voll Frühstücksstände, in der Wuhan morgens in Schlangen steht. Aus Woks kommen heiße Nudeln mit Sesampaste, Teigtaschen und Doupi, Klebreis in Tofuhaut. Dampf, Fett und Gewürze hängen im Gang.",
+   "aktivitaeten": [
+    "Re Gan Mian, Wuhans Nudeln mit Sesamsauce, probieren",
+    "Verschiedene Teigtaschen an den Ständen essen",
+    "Das Gedränge am Morgen beobachten"
+   ],
+   "foto_tipp": "Früh am Morgen im Dampf und im Gegenlicht. Im September warm und feucht.",
+   "wow": 3,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Wuhan",
+    "de": "Wuhan",
+    "zh": "户部巷"
+   }
+  },
+  {
+   "id": "shunde",
+   "name": "Shunde",
+   "name_chinesisch": "顺德",
+   "provinz": "Guangdong",
+   "kategorie": "Essen und Märkte",
+   "kurzbeschreibung": "Ein Bezirk von Foshan, der in ganz China für seine Küche berühmt ist. In Garküchen und Restaurants gibt es Fisch auf viele Arten, Büffelmilch-Pudding und gedämpfte Gerichte. Kanäle und alte Häuser gehören zum Rahmen.",
+   "aktivitaeten": [
+    "Fischgerichte und Milchpudding probieren",
+    "Durch Altstadtgassen und an Kanälen laufen",
+    "Garküchen in Seitenstraßen aufsuchen"
+   ],
+   "foto_tipp": "Vormittags und am späten Nachmittag. Im September heiß und schwül, oft Gewitter am Nachmittag.",
+   "wow": 3,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Shunde District",
+    "de": "Shunde",
+    "zh": "顺德区"
+   }
+  },
+  {
+   "id": "huashan",
+   "name": "Huashan mit Plankenweg",
+   "name_chinesisch": "华山长空栈道",
+   "provinz": "Shaanxi",
+   "kategorie": "Abenteuer",
+   "kurzbeschreibung": "Ein Granitberg, der steil wie eine Wand aufragt. Am Südgipfel führt ein Pfad aus schmalen Brettern an einer senkrechten Felswand entlang, nur mit Gurt gesichert, unter den Füßen ein tiefer Abgrund. Man hört den Wind und den eigenen Atem.",
+   "aktivitaeten": [
+    "Den Plankenweg mit Sicherungsgurt gehen",
+    "Die Steintreppen zu den Gipfeln steigen",
+    "Den Sonnenaufgang vom Gipfel erleben"
+   ],
+   "foto_tipp": "Früh am Morgen, wenn die Gipfel über den Wolken stehen. Im September oft klar und frisch, aber auch Nebel möglich.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Mount Hua",
+    "de": "Hua Shan",
+    "zh": "华山"
+   }
+  },
+  {
+   "id": "jiankou",
+   "name": "Große Mauer bei Jiankou (Trekking und Zelt)",
+   "name_chinesisch": "箭扣长城",
+   "provinz": "Beijing",
+   "kategorie": "Abenteuer",
+   "kurzbeschreibung": "Ein Stück Große Mauer, das nicht restauriert wurde. Zinnen bröckeln, Steine liegen lose, der Grat läuft steil über Bergkämme. Wer hier zeltet, sieht abends die Mauer im Dunst verschwinden und morgens im Licht wieder auftauchen. Offiziell ist der Abschnitt nicht für Besucher freigegeben, es drohen Bußgelder.",
+   "aktivitaeten": [
+    "Auf der unrestaurierten Mauer wandern (geführte Touren, z. B. bis Mutianyu)",
+    "Über Dorfbewohner organisiert auf der Mauer zelten",
+    "Den Sonnenaufgang auf der Mauer fotografieren"
+   ],
+   "foto_tipp": "Sonnenaufgang und Abendlicht. Im September meist klar, Herbstfarben beginnen erst später.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": true,
+   "_wiki": {
+    "en": "Jiankou",
+    "de": "Jiankou",
+    "zh": "箭扣长城"
+   }
+  },
+  {
+   "id": "glasbruecke",
+   "name": "Glasbrücke über den Grand Canyon von Zhangjiajie",
+   "name_chinesisch": "张家界大峡谷玻璃桥",
+   "provinz": "Hunan",
+   "kategorie": "Abenteuer",
+   "kurzbeschreibung": "Eine Brücke aus Glas spannt eine tiefe Schlucht. Unter den Sohlen sieht man den Abgrund, bei jedem Schritt wackeln die Knie. Ringsum Felswände und Nebel.",
+   "aktivitaeten": [
+    "Über den Glasboden laufen",
+    "Die Schlucht von der Brücke fotografieren",
+    "Zum Bungee oder Rutschen am Rand schauen"
+   ],
+   "foto_tipp": "Vormittags bei klarem Licht, bei Nebel wirkt die Schlucht unwirklich. Im September grün, Regen möglich; um Mondfest und Nationalfeiertag sehr voll.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Zhangjiajie Grand Canyon Glass Bridge",
+    "de": null,
+    "zh": "张家界大峡谷玻璃桥"
+   }
+  },
+  {
+   "id": "badain-jaran",
+   "name": "Wüste Badain Jaran",
+   "name_chinesisch": "巴丹吉林沙漠",
+   "provinz": "Innere Mongolei",
+   "kategorie": "Abenteuer",
+   "kurzbeschreibung": "Dünen, höher als Hochhäuser, mit Seen in den Senken. Der Sand ist goldgelb, an manchen Hängen brummt er beim Abrutschen. Es ist still, weit und leer.",
+   "aktivitaeten": [
+    "Auf die Dünen steigen",
+    "Zu den Seen zwischen den Dünen laufen",
+    "Nachts den Sternenhimmel ansehen",
+    "Auf Dünen zelten"
+   ],
+   "foto_tipp": "Sonnenaufgang und Sonnenuntergang, wenn die Dünen Kanten werfen. Im September warm am Tag, kühl nachts.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Badain Jaran Desert",
+    "de": "Badain Jaran",
+    "zh": "巴丹吉林沙漠"
+   }
+  },
+  {
+   "id": "yangshuo",
+   "name": "Yangshuo: Rad, Bambusfloß, Klettern",
+   "name_chinesisch": "阳朔遇龙河",
+   "provinz": "Guangxi",
+   "kategorie": "Abenteuer",
+   "kurzbeschreibung": "Kegelförmige Karstberge, ein ruhiger Fluss, Bauern auf Bambusflößen. Man fährt auf Feldwegen am Fluss, schaut Kormoranfischern zu und klettert an Kalkfelsen. Der Dunst macht alles weich.",
+   "aktivitaeten": [
+    "Mit dem Rad am Yulong-Fluss entlangfahren",
+    "Auf einem Bambusfloß treiben",
+    "An den Kalkfelsen klettern",
+    "Abends auf dem Li-Fluss die Kormoranfischer sehen"
+   ],
+   "foto_tipp": "Früh morgens im Dunst und am späten Nachmittag. Im September heiß und feucht, die Reisfelder sind grün.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Yangshuo County",
+    "de": "Yangshuo",
+    "zh": "阳朔县"
+   }
+  },
+  {
+   "id": "duku",
+   "name": "Duku-Highway",
+   "name_chinesisch": "独库公路",
+   "provinz": "Xinjiang",
+   "kategorie": "Abenteuer",
+   "kurzbeschreibung": "Eine Passstraße durch das Tianshan, die zwischen Weiden, Gletscherbergen und Schluchten hindurchführt. Auf einer Seite grün, auf der anderen Fels. Schafherden queren die Straße, Wolken ziehen tief.",
+   "aktivitaeten": [
+    "Die Straße durch das Tianshan fahren",
+    "An Aussichtspunkten halten und fotografieren",
+    "Auf Weiden Schafherden und Jurten sehen"
+   ],
+   "foto_tipp": "Morgens und spätnachmittags. Im September ist die Straße meist noch offen, die Hänge sind grün bis gold, oben kann Schnee fallen.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Duku Highway",
+    "de": null,
+    "zh": "独库公路"
+   }
+  },
+  {
+   "id": "hulunbuir",
+   "name": "Grasland von Hulunbuir",
+   "name_chinesisch": "呼伦贝尔草原",
+   "provinz": "Innere Mongolei",
+   "kategorie": "Abenteuer",
+   "kurzbeschreibung": "Grasland, das bis zum Horizont reicht. Herden von Pferden und Schafen, einzelne Jurten, Flüsse in weiten Schlingen. Der Himmel ist groß, die Luft klar.",
+   "aktivitaeten": [
+    "Über das Grasland reiten",
+    "In einer Jurte übernachten",
+    "Flussbögen vom Hügel fotografieren"
+   ],
+   "foto_tipp": "Sonnenaufgang und Abendlicht. Im September wird das Gras gelb, die grünste Zeit ist der Hochsommer.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Hulunbuir",
+    "de": "Hulun Buir",
+    "zh": "呼伦贝尔市"
+   }
+  },
+  {
+   "id": "shennongjia",
+   "name": "Shennongjia",
+   "name_chinesisch": "神农架",
+   "provinz": "Hubei",
+   "kategorie": "Abenteuer",
+   "kurzbeschreibung": "Ein Waldgebirge mit Nebelschleiern, alten Bäumen und Hochmooren. Seit Jahrzehnten erzählt man von einem Wildmenschen. Auf den Wegen hört man Vögel und Wasser.",
+   "aktivitaeten": [
+    "Durch Wälder und Hochmoore wandern",
+    "Auf Aussichtsgipfel steigen",
+    "Dorfmärkte der Umgebung besuchen"
+   ],
+   "foto_tipp": "Früh am Morgen im Nebel. Im September grün, Herbstfärbung beginnt auf den Höhen.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Shennongjia",
+    "de": "Shennongjia",
+    "zh": "神农架林区"
+   }
+  },
+  {
+   "id": "everest-bc",
+   "name": "Everest-Basislager (Nordseite)",
+   "name_chinesisch": "珠峰大本营",
+   "provinz": "Tibet",
+   "kategorie": "Abenteuer",
+   "kurzbeschreibung": "Eine staubige Hochebene unter der Nordwand des höchsten Berges der Welt. Der Himmel ist tiefblau, die Luft dünn, der Berg wirkt greifbar nah. Touristen kommen nur bis zum Besucherlager beim Kloster Rongbuk, und nur mit Tibet-Genehmigung und organisierter Tour.",
+   "aktivitaeten": [
+    "Zum Besucherlager fahren und die Nordwand ansehen",
+    "Das Kloster Rongbuk besuchen",
+    "Abends den Sternenhimmel betrachten"
+   ],
+   "foto_tipp": "Morgens, wenn der Gipfel frei ist. Anfang September oft noch Monsunwolken, gegen Ende des Monats meist klarer; nachts kalt.",
+   "wow": 5,
+   "geheimtipp": false,
+   "unsicher": true,
+   "_wiki": {
+    "en": "Mount Everest",
+    "de": "Mount Everest",
+    "zh": "珠穆朗玛峰"
+   }
+  },
+  {
+   "id": "haba",
+   "name": "Haba-Schneeberg",
+   "name_chinesisch": "哈巴雪山",
+   "provinz": "Yunnan",
+   "kategorie": "Abenteuer",
+   "kurzbeschreibung": "Ein Berg mit Gletscherhängen über der Tigersprungschlucht. Der Aufstieg ist lang und kalt, die Luft wird dünn; für den Gipfel braucht man Bergführer und Genehmigung. Oben liegen Eis und Fels, unten die Täler Yunnans.",
+   "aktivitaeten": [
+    "Den Berg besteigen oder zumindest Basislager besuchen",
+    "Wanderwege rund um die Schlucht gehen",
+    "Gipfelblicke und Gletscher fotografieren"
+   ],
+   "foto_tipp": "Früh am Morgen im klaren Licht. Im September klingt die Regenzeit aus, Wolken sind noch häufig.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": true,
+   "_wiki": {
+    "en": "Haba Snow Mountain",
+    "de": "Haba Xueshan",
+    "zh": "哈巴雪山"
+   }
+  },
+  {
+   "id": "liziba",
+   "name": "Station Liziba (Bahn durchs Wohnhaus)",
+   "name_chinesisch": "李子坝站",
+   "provinz": "Chongqing",
+   "kategorie": "Ungewöhnliches",
+   "kurzbeschreibung": "Mitten in Chongqing fährt die Hochbahn durch ein Wohnhochhaus. Man steht auf der Straße und sieht den Zug aus dem Haus kommen. Das Bild passt zu einer Stadt, die an Hängen aus Beton wächst.",
+   "aktivitaeten": [
+    "Den Zug beim Durchfahren des Hauses beobachten",
+    "Vom Aussichtsplatz fotografieren",
+    "Eine Fahrt auf der Linie machen"
+   ],
+   "foto_tipp": "Zeitlich egal, der Zug fährt oft. Abends wirken die Lichter. Im September heiß und diesig.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Liziba station",
+    "de": null,
+    "zh": "李子坝站"
+   }
+  },
+  {
+   "id": "bailong",
+   "name": "Bailong-Aufzug",
+   "name_chinesisch": "百龙天梯",
+   "provinz": "Hunan",
+   "kategorie": "Ungewöhnliches",
+   "kurzbeschreibung": "Ein gläserner Aufzug klebt an einer senkrechten Felswand. In wenigen Minuten steigt man weit über die Wipfel, und die Sandsteinsäulen stehen im Blick. Der Kopf sagt: viel zu hoch.",
+   "aktivitaeten": [
+    "Mit dem Aufzug die Felswand hinauffahren",
+    "Von oben die Säulen ansehen",
+    "Zum Plateau mit Aussichtspunkten gehen"
+   ],
+   "foto_tipp": "Vormittags bei klarer Sicht, Nebel möglich. Im September grün und feucht.",
+   "wow": 4,
+   "geheimtipp": false,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Bailong Elevator",
+    "de": "Bailong-Aufzug",
+    "zh": "百龙天梯"
+   }
+  },
+  {
+   "id": "chaka",
+   "name": "Salzsee Chaka",
+   "name_chinesisch": "茶卡盐湖",
+   "provinz": "Qinghai",
+   "kategorie": "Ungewöhnliches",
+   "kurzbeschreibung": "Ein flacher Salzsee, in dem sich der Himmel spiegelt. Wolken liegen auf dem Wasser, Menschen stehen wie auf einem Spiegel. Rundum hohe, kahle Berge.",
+   "aktivitaeten": [
+    "Auf den Salzflächen laufen und fotografieren",
+    "Den Sonnenuntergang im Wasserspiegel ansehen",
+    "Salzskulpturen am Ufer betrachten"
+   ],
+   "foto_tipp": "Windstill bei klarem Himmel für die Spiegelung. Im September oft klar, kühl.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Chaka Salt Lake",
+    "de": "Chaka-Salzsee",
+    "zh": "茶卡盐湖"
+   }
+  },
+  {
+   "id": "longhushan",
+   "name": "Hängende Särge am Longhushan",
+   "name_chinesisch": "龙虎山",
+   "provinz": "Jiangxi",
+   "kategorie": "Ungewöhnliches",
+   "kurzbeschreibung": "Rote Felswände über einem Fluss. In Höhlen hoch in der Wand liegen alte Särge, deren Herkunft bis heute Rätsel aufgibt. Man fährt auf einem Floß unter ihnen durch.",
+   "aktivitaeten": [
+    "Auf dem Floß unter den Särgen durchfahren",
+    "Die roten Felsen zu Fuß erkunden",
+    "Daoistische Tempel der Gegend ansehen"
+   ],
+   "foto_tipp": "Vormittags im Schräglicht. Im September grün, Wasserstand wechselnd.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Mount Longhu",
+    "de": "Longhu Shan",
+    "zh": "龙虎山"
+   }
+  },
+  {
+   "id": "tianducheng",
+   "name": "Tianducheng (Klein-Paris)",
+   "name_chinesisch": "天都城",
+   "provinz": "Zhejiang",
+   "kategorie": "Ungewöhnliches",
+   "kurzbeschreibung": "Ein Wohnviertel, das Paris nachahmt: ein Eiffelturm-Nachbau, Haussmann-Fassaden, Springbrunnen. Die Straßen sind breit und ruhig. Zwischen den Hochhäusern wirkt die Kulisse leicht fremd.",
+   "aktivitaeten": [
+    "Den Nachbau des Eiffelturms ansehen",
+    "Durch das Viertel laufen",
+    "Hochzeitspaare beim Fotografieren beobachten"
+   ],
+   "foto_tipp": "Spätnachmittags im warmen Licht. Im September heiß, oft diesig.",
+   "wow": 3,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Tianducheng",
+    "de": "Tianducheng",
+    "zh": "天都城"
+   }
+  },
+  {
+   "id": "kangbashi",
+   "name": "Kangbashi (Geisterstadt)",
+   "name_chinesisch": "康巴什",
+   "provinz": "Innere Mongolei",
+   "kategorie": "Ungewöhnliches",
+   "kurzbeschreibung": "Eine Neustadt mit breiten Alleen, Museen und Theatern in kühner Form, in der zeitweise nur wenige Menschen unterwegs waren. Heute sind die Straßen belebter, doch die Weite bleibt. Die Skyline steht auf einer leeren Ebene.",
+   "aktivitaeten": [
+    "Die Architektur von Museum und Theater ansehen",
+    "Über die weiten Plätze laufen",
+    "Die Skyline am Abend fotografieren"
+   ],
+   "foto_tipp": "Morgens und abends bei flachem Licht. Im September mild und trocken.",
+   "wow": 3,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Kangbashi District",
+    "de": "Kangbashi",
+    "zh": "康巴什区"
+   }
+  },
+  {
+   "id": "houtouwan",
+   "name": "Houtouwan (Efeu-Geisterdorf)",
+   "name_chinesisch": "后头湾",
+   "provinz": "Zhejiang",
+   "kategorie": "Ungewöhnliches",
+   "kurzbeschreibung": "Ein verlassenes Fischerdorf auf der Insel Shengshan. Kletterpflanzen überziehen die Steinhäuser, Fenster sind leer, Wege ins Grün gewachsen. Es ist still bis auf Wind und Wellen.",
+   "aktivitaeten": [
+    "Zwischen den bewachsenen Ruinen laufen",
+    "Die Häuser von Aussichtspunkten fotografieren",
+    "Die Insel und die Küste erkunden"
+   ],
+   "foto_tipp": "Vormittags bei weichem Licht, Nebel möglich. Im September ist das Grün noch dicht; Taifune können die Fähren ausfallen lassen.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Houtouwan",
+    "de": null,
+    "zh": "后头湾村"
+   }
+  },
+  {
+   "id": "guoliang",
+   "name": "Guoliang-Tunnelstraße",
+   "name_chinesisch": "郭亮挂壁公路",
+   "provinz": "Henan",
+   "kategorie": "Ungewöhnliches",
+   "kurzbeschreibung": "Ein Tunnel, der von Hand in eine Felswand getrieben wurde. Seitliche Fensteröffnungen blicken in den Abgrund. Man geht oder fährt im Halbdunkel und sieht Licht und Tiefe.",
+   "aktivitaeten": [
+    "Den Tunnel zu Fuß durchqueren",
+    "Aus den Fenstern in die Schlucht schauen",
+    "Rund um das Bergdorf wandern"
+   ],
+   "foto_tipp": "Vormittags, wenn Licht durch die Fenster fällt. Im September grün, Regen möglich.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Guoliang Tunnel",
+    "de": null,
+    "zh": "郭亮村"
+   }
+  },
+  {
+   "id": "qiantang",
+   "name": "Flutwelle des Qiantang",
+   "name_chinesisch": "钱塘江大潮",
+   "provinz": "Zhejiang",
+   "kategorie": "Ungewöhnliches",
+   "kurzbeschreibung": "Die Flut drückt mit lautem Grollen flussaufwärts. Eine weiße Wand schiebt sich über die Breite des Flusses. Am Ufer rufen Menschen, sobald sie näher kommt. Am stärksten ist sie um den 18. Tag des achten Mondmonats.",
+   "aktivitaeten": [
+    "Die Flutwelle vom Ufer beobachten, etwa bei Yanguan",
+    "Die Wellenfront fotografieren",
+    "Mit Glück Surfer auf der Welle sehen"
+   ],
+   "foto_tipp": "Zur Flutzeit, die vom Mondkalender abhängt. 2027 fällt das Mondfest auf den 15. September, die stärksten Fluten sind etwa um den 18. September, also mitten in der Reise.",
+   "wow": 5,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Qiantang River",
+    "de": "Qiantang",
+    "zh": "钱塘江"
+   }
+  },
+  {
+   "id": "panjin",
+   "name": "Roter Strand von Panjin",
+   "name_chinesisch": "红海滩",
+   "provinz": "Liaoning",
+   "kategorie": "Ungewöhnliches",
+   "kurzbeschreibung": "Ein Feuchtgebiet, in dem Salzkraut im Herbst leuchtend rot wird. Stege führen durch ein Meer aus Rot, dazu Schilf und Kraniche. Der Boden ist flach, der Himmel groß.",
+   "aktivitaeten": [
+    "Über die Stege durch das rote Salzkraut laufen",
+    "Vögel und Kraniche beobachten",
+    "Sonnenuntergang am Wasser ansehen"
+   ],
+   "foto_tipp": "Morgens und abends. Ab Mitte September färbt sich das Salzkraut kräftig rot, Anfang September ist es eher rötlich-grün.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Red Beach (Panjin)",
+    "de": null,
+    "zh": "红海滩"
+   }
+  },
+  {
+   "id": "kaiping",
+   "name": "Diaolou von Kaiping",
+   "name_chinesisch": "开平碉楼",
+   "provinz": "Guangdong",
+   "kategorie": "Ungewöhnliches",
+   "kurzbeschreibung": "Wehrtürme aus Beton und Stein ragen zwischen Reisfeldern auf, mit Balkonen, Kuppeln und Zinnen aus dem Westen. Sie wurden von Auswanderern gebaut, die mit Geld aus Übersee zurückkamen. Das Bild ist eine Mischung aus Dorf und Fantasieschloss.",
+   "aktivitaeten": [
+    "Die Türme im Dorf erkunden",
+    "Durch die Reisfelder gehen",
+    "Dorfbilder bei Sonnenuntergang fotografieren"
+   ],
+   "foto_tipp": "Frühmorgens und spätnachmittags. Im September grüne Felder, schwül.",
+   "wow": 4,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Kaiping Diaolou and Villages",
+    "de": "Kaiping Diaolou",
+    "zh": "开平碉楼与村落"
+   }
+  },
+  {
+   "id": "dafen",
+   "name": "Ölgemälde-Dorf Dafen",
+   "name_chinesisch": "大芬油画村",
+   "provinz": "Guangdong",
+   "kategorie": "Ungewöhnliches",
+   "kurzbeschreibung": "Ein Dorf in Shenzhen, in dem Hunderte Maler Ölbilder malen. Ateliers in Reihe, Staffeleien auf der Straße, Kopien von Van Gogh und Mona Lisa im Akkord. Der Geruch von Farbe liegt in der Luft.",
+   "aktivitaeten": [
+    "Maler bei der Arbeit beobachten",
+    "Durch die Galerien und Ateliers laufen",
+    "Ein Bild nach eigenem Foto malen lassen"
+   ],
+   "foto_tipp": "Nachmittags bei Tageslicht in den Läden. Im September heiß, das Drinnen ist angenehm.",
+   "wow": 3,
+   "geheimtipp": true,
+   "unsicher": false,
+   "_wiki": {
+    "en": "Dafen Oil Painting Village",
+    "de": null,
+    "zh": "大芬油画村"
+   }
+  }
+ ]
+}

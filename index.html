@@ -1,0 +1,432 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>China-Ideen-Atlas</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Figtree:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: Nachthimmel-Atlas. Kopf mit Karte, darunter eine Filterleiste, darunter ein Raster grosser Fotokacheln. */
+:root {
+  color-scheme: dark;
+  --ink: #0d1117;          /* Hintergrund: Tusche, leicht blau */
+  --ink-2: #151b24;        /* Kachelgrund */
+  --ink-3: #1f2733;        /* Linien, Felder */
+  --paper: #e9e6df;        /* Text */
+  --muted: #9aa3ad;        /* Nebentext */
+  --jade: #7fcfb0;         /* Akzent: Seladon */
+  --gold: #e6b65c;         /* Wow-Sterne, Geheimtipp */
+  --no: #c98b8b;           /* Aussortiert */
+  --display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+  --body: "Figtree", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --cjk: "PingFang SC", "Hiragino Sans GB", "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", sans-serif;
+  --r: 14px;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html, body { margin: 0; }
+body {
+  background: var(--ink);
+  color: var(--paper);
+  font: 15px/1.55 var(--body);
+  -webkit-font-smoothing: antialiased;
+}
+.wrap {
+  max-width: 1440px; margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+a { color: var(--jade); }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--jade); outline-offset: 2px; }
+
+/* Kopf */
+header.top { padding-block: 40px 24px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); gap: 32px; align-items: center; }
+.eyebrow { font: 500 12px/1 var(--mono); letter-spacing: .14em; text-transform: uppercase; color: var(--jade); }
+h1 { font: 800 clamp(40px, 6.4vw, 84px)/.95 var(--display); letter-spacing: -.02em; margin: 14px 0 16px; text-wrap: balance; }
+h1 .zh { display: block; font: 400 .42em/1.2 var(--cjk); letter-spacing: .3em; color: var(--muted); margin-top: 10px; }
+.lead { max-width: 52ch; color: var(--muted); margin: 0 0 20px; }
+.stats { display: flex; flex-wrap: wrap; gap: 10px 22px; font: 500 13px/1.3 var(--mono); color: var(--muted); font-variant-numeric: tabular-nums; }
+.stats b { color: var(--paper); font-weight: 500; font-size: 20px; display: block; }
+.stats .ja b { color: var(--jade); }
+.stats .nein b { color: var(--no); }
+
+/* Karte */
+.map { position: relative; min-width: 0; }
+.map svg { width: 100%; height: auto; display: block; }
+.map .land { fill: var(--ink-2); stroke: var(--ink-3); stroke-width: 1.5; }
+.map .dot { cursor: pointer; transition: r .15s; }
+.map .dot circle { fill: var(--muted); stroke: var(--ink); stroke-width: 2; }
+.map .dot.st-ja circle { fill: var(--jade); }
+.map .dot.st-nein circle { fill: var(--no); opacity: .55; }
+.map .dot.gt circle { stroke: var(--gold); }
+.map .dot.off { display: none; }
+.map .dot:hover circle, .map .dot:focus circle { fill: var(--paper); }
+.map-tip { position: absolute; pointer-events: none; background: var(--paper); color: var(--ink); font: 600 12px/1.3 var(--body); padding: 5px 9px; border-radius: 6px; transform: translate(-50%, -130%); white-space: nowrap; }
+.map-note { font: 400 11px/1.4 var(--mono); color: var(--muted); margin-top: 6px; }
+
+/* Filterleiste */
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: color-mix(in srgb, var(--ink) 92%, transparent); backdrop-filter: blur(10px); border-bottom: 1px solid var(--ink-3); }
+.bar .wrap { padding-block: 10px; display: grid; gap: 8px; }
+.row1 { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.bar .chips { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; min-width: 0; padding-bottom: 2px; }
+.bar .chips::-webkit-scrollbar { display: none; }
+.kats { display: contents; }
+.chip { white-space: nowrap; flex: none; }
+.sep { width: 1px; background: var(--ink-3); flex: none; margin: 4px 4px; }
+.seg { display: inline-flex; background: var(--ink-2); border: 1px solid var(--ink-3); border-radius: 999px; padding: 3px; min-width: 0; overflow-x: auto; scrollbar-width: none; }
+.seg button { white-space: nowrap; border: 0; background: transparent; padding: 6px 12px; border-radius: 999px; cursor: pointer; font-size: 13px; color: var(--muted); }
+.seg button[aria-pressed="true"] { background: var(--paper); color: var(--ink); font-weight: 600; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { border: 1px solid var(--ink-3); background: transparent; border-radius: 999px; padding: 5px 11px; font-size: 13px; cursor: pointer; color: var(--muted); }
+.chip[aria-pressed="true"] { border-color: var(--jade); color: var(--paper); background: color-mix(in srgb, var(--jade) 16%, transparent); }
+.chip.gold[aria-pressed="true"] { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 16%, transparent); }
+.spacer { flex: 1; }
+.count { font: 500 13px var(--mono); color: var(--muted); font-variant-numeric: tabular-nums; }
+.btn { border: 1px solid var(--ink-3); background: var(--ink-2); border-radius: 10px; padding: 7px 12px; cursor: pointer; font-size: 13px; }
+.btn:hover { border-color: var(--muted); }
+
+/* Raster */
+main { padding-block: 24px 64px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 400px), 1fr)); gap: 22px; }
+.card { background: var(--ink-2); border-radius: var(--r); overflow: hidden; display: flex; flex-direction: column; min-width: 0; scroll-margin-top: 90px; transition: opacity .2s, box-shadow .3s; }
+.card.st-nein { opacity: .45; }
+.card.flash { box-shadow: 0 0 0 2px var(--jade); }
+.gal { position: relative; aspect-ratio: 4 / 3; background: var(--ink-3); overflow: hidden; max-width: 100%; }
+.gal img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity .35s; }
+.gal img.on { opacity: 1; }
+.gal .ph { position: absolute; inset: 0; display: grid; place-items: center; font: 400 44px/1.1 var(--cjk); color: var(--ink-3); text-align: center; padding: 20px; background: linear-gradient(160deg, var(--ink-2), var(--ink-3)); color: var(--muted); }
+.gal .nav { position: absolute; top: 50%; transform: translateY(-50%); width: 40px; height: 40px; border-radius: 50%; border: 0; background: rgb(13 17 23 / .55); color: #fff; cursor: pointer; font-size: 18px; display: grid; place-items: center; }
+.gal .prev { left: 10px; } .gal .next { right: 10px; }
+.gal .dots { position: absolute; bottom: 10px; left: 0; right: 0; display: flex; justify-content: center; gap: 6px; }
+.gal .dots i { width: 7px; height: 7px; border-radius: 50%; background: rgb(255 255 255 / .45); }
+.gal .dots i.on { background: #fff; }
+.gal .badges { position: absolute; top: 10px; left: 10px; display: flex; gap: 6px; flex-wrap: wrap; }
+.badge { font: 500 11px/1 var(--mono); letter-spacing: .06em; text-transform: uppercase; padding: 6px 8px; border-radius: 6px; background: rgb(13 17 23 / .7); color: #fff; }
+.badge.gt { background: var(--gold); color: #1d1405; }
+.credit { font: 400 11px/1.35 var(--mono); color: var(--muted); padding: 6px 16px 0; min-height: 21px; overflow-wrap: anywhere; }
+.credit a { color: var(--muted); }
+.body { padding: 12px 16px 16px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+.head { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; }
+.head h2 { font: 700 22px/1.15 var(--display); margin: 0; text-wrap: balance; }
+.head .zh { font: 400 15px/1.3 var(--cjk); color: var(--muted); margin-top: 4px; }
+.wow { font: 500 15px/1 var(--mono); color: var(--gold); white-space: nowrap; letter-spacing: 1px; }
+.wow s { text-decoration: none; color: var(--ink-3); }
+.meta { font: 500 12px/1.3 var(--mono); color: var(--muted); letter-spacing: .03em; }
+.meta .k { color: var(--jade); }
+.desc { margin: 0; }
+.acts { margin: 0; padding-left: 18px; color: var(--paper); }
+.acts li { margin: 2px 0; }
+.foto { font-size: 14px; color: var(--muted); border-left: 2px solid var(--gold); padding-left: 10px; }
+.foto b { color: var(--paper); font-weight: 600; }
+.warn { font-size: 12px; color: var(--gold); }
+.src { font: 400 12px/1.4 var(--mono); }
+.src a { margin-right: 10px; }
+.vote { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: auto; padding-top: 6px; }
+.vote button { border: 1px solid var(--ink-3); background: transparent; border-radius: 10px; padding: 10px; cursor: pointer; font-weight: 600; font-size: 14px; color: var(--muted); }
+.vote .ja[aria-pressed="true"] { background: var(--jade); border-color: var(--jade); color: #0b231a; }
+.vote .nein[aria-pressed="true"] { background: var(--no); border-color: var(--no); color: #2a1212; }
+.empty { text-align: center; color: var(--muted); padding: 60px 0; }
+
+/* Lade-Hinweis bei file:// */
+.loadbox { max-width: 640px; margin: 40px auto; background: var(--ink-2); border-radius: var(--r); padding: 24px; }
+.loadbox code { font-family: var(--mono); background: var(--ink-3); padding: 2px 6px; border-radius: 5px; }
+
+/* Export-Dialog */
+.sheet { position: fixed; inset: 0; background: rgb(0 0 0 / .6); display: grid; place-items: center; z-index: 20; padding: 16px; }
+.sheet > div { background: var(--ink-2); border-radius: var(--r); padding: 20px; width: min(640px, 100%); display: grid; gap: 12px; }
+.sheet textarea { width: 100%; height: 240px; background: var(--ink); color: var(--paper); border: 1px solid var(--ink-3); border-radius: 8px; font: 12px/1.4 var(--mono); padding: 10px; }
+.sheet .row { display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+
+@media (max-width: 860px) {
+  .count { display: none; }
+  .seg button { padding: 6px 9px; }
+  header.top { grid-template-columns: minmax(0, 1fr); padding-block: 28px 12px; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<header class="wrap top">
+  <div>
+    <div class="eyebrow">September 2027 · drei Wochen · Breite vor Tiefe</div>
+    <h1>China-Ideen-Atlas<span class="zh">中国灵感地图</span></h1>
+    <p class="lead">Orte mit Wow-Faktor quer durch China. Klick auf „Interessiert mich“ oder „Nicht interessant“. Deine Auswahl bleibt in diesem Browser gespeichert und lässt sich als <code>bewertungen.json</code> exportieren.</p>
+    <div class="stats" id="stats"></div>
+  </div>
+  <div class="map" id="map">
+    <svg viewBox="0 0 1000 760" role="img" aria-label="China-Karte mit allen Orten">
+      <path class="land" d="M782 469L776 467L773 465L772 463L775 463L777 466L781 467ZM789 500L787 500L784 498L786 497L789 498ZM749 594L748 592L748 590L749 593ZM637 675L635 673L637 671L637 675ZM560 677L557 674L554 674L552 675L548 672L545 671L544 669L542 667L540 666L539 663L538 661L537 659L537 656L538 654L540 651L538 648L535 648L532 648L531 646L528 646L525 647L523 645L521 644L520 642L518 639L515 640L512 641L510 643L509 645L508 648L505 649L502 652L500 650L497 651L496 654L490 650L488 654L486 651L483 653L481 656L479 657L477 654L474 652L472 651L470 653L469 655L467 658L464 657L461 658L460 656L458 658L457 661L457 663L457 665L459 669L460 671L460 675L460 679L460 681L460 684L457 683L455 682L453 683L451 681L451 679L451 676L450 672L445 673L443 677L441 678L438 677L435 677L433 675L433 673L431 670L431 667L429 665L425 664L422 664L420 664L419 660L421 656L421 652L422 649L423 647L423 645L421 643L417 643L414 641L414 639L414 636L413 632L413 630L411 628L411 625L413 623L409 623L406 622L403 622L400 623L397 625L395 627L393 625L395 622L395 618L394 616L392 612L393 609L396 607L395 604L396 601L399 599L401 597L402 592L405 592L406 590L407 587L410 587L409 583L409 581L411 579L411 577L411 574L412 571L412 568L412 565L411 561L411 558L411 553L410 550L408 549L406 550L404 548L402 542L402 538L399 535L396 534L395 532L393 531L391 534L390 536L386 534L384 534L381 534L378 532L375 533L372 533L373 530L377 525L376 521L374 520L371 522L370 519L372 517L374 515L371 515L370 513L366 512L363 514L360 516L359 518L356 520L354 518L352 517L348 517L347 514L343 516L341 518L339 519L336 521L334 525L332 526L326 528L323 529L323 531L321 535L318 537L315 538L315 541L313 544L311 545L308 545L306 545L304 547L301 547L298 546L298 543L296 542L293 540L290 541L288 542L283 540L280 540L277 539L278 537L276 536L272 535L269 536L266 538L264 540L262 542L260 545L259 547L258 550L255 553L254 556L252 553L253 546L253 543L252 541L250 539L248 541L244 542L242 543L239 544L235 545L231 545L229 545L226 545L224 543L221 541L220 540L217 540L216 542L213 542L211 539L209 541L207 543L205 539L204 537L199 536L195 535L193 534L194 531L195 529L190 530L187 529L183 526L181 523L179 520L178 517L176 515L173 516L169 517L167 514L166 511L164 509L160 508L158 506L154 503L152 501L148 498L146 496L145 493L142 492L138 492L135 493L132 498L130 499L128 496L126 494L124 492L122 490L119 489L116 488L115 485L114 483L111 481L109 480L105 480L102 478L100 474L98 471L96 472L93 473L92 470L92 467L92 465L91 462L92 459L88 454L87 450L86 447L88 446L91 446L92 448L93 450L96 450L98 448L99 446L100 443L99 441L99 438L98 436L98 434L96 431L95 429L93 427L93 424L93 420L92 416L95 412L95 410L94 408L91 406L88 405L85 404L84 400L83 397L81 393L80 390L81 386L78 386L76 386L73 386L69 385L65 384L62 383L60 381L57 380L57 377L54 378L52 379L50 376L47 374L47 372L48 367L47 364L45 361L43 359L39 360L38 356L34 355L31 355L28 354L26 353L22 351L25 349L28 348L29 349L32 348L34 346L32 343L31 340L31 337L30 335L29 332L28 329L29 325L28 323L24 321L20 319L18 319L16 322L14 321L12 319L11 316L13 314L12 311L10 308L10 304L13 302L15 300L14 297L14 295L15 292L17 290L20 290L23 289L26 286L28 285L29 282L32 282L36 281L40 278L42 281L43 285L46 285L48 284L51 284L53 284L56 282L57 279L58 276L61 271L64 270L67 270L73 271L76 270L79 270L82 269L86 265L87 262L92 259L98 256L101 254L104 254L108 252L109 250L115 249L115 246L115 242L115 239L115 237L115 235L119 232L121 231L118 230L120 227L124 227L124 223L123 220L122 217L121 215L120 210L118 207L118 205L118 201L117 199L118 197L118 195L119 193L116 191L112 192L110 190L113 187L116 187L119 186L122 185L124 185L129 184L133 182L138 181L140 181L142 184L146 183L148 183L150 184L153 184L154 181L154 179L151 178L149 177L150 173L151 170L152 166L153 163L155 159L157 154L160 146L160 143L163 142L167 143L170 145L173 146L176 146L179 146L184 146L187 147L189 149L192 148L196 145L200 144L201 142L203 139L201 135L201 130L200 127L201 124L202 121L203 118L205 116L209 116L212 115L216 114L219 112L220 107L220 104L222 102L225 102L228 102L231 102L233 101L236 101L237 103L236 106L237 108L240 110L240 112L243 114L245 115L248 117L249 120L253 123L256 124L258 125L261 124L264 124L266 127L268 129L271 127L273 129L275 131L277 132L278 134L279 137L280 140L282 144L283 146L286 147L288 151L288 154L288 158L287 161L288 164L287 167L286 169L283 172L283 175L283 178L284 180L286 182L289 183L292 184L295 185L297 186L300 186L304 186L307 187L311 187L313 187L317 187L325 188L328 189L331 189L334 193L339 195L342 197L344 198L347 201L350 202L353 203L358 202L357 206L360 209L361 210L363 215L365 221L366 223L369 227L371 229L373 231L374 234L378 234L381 234L387 233L395 235L404 236L411 237L415 237L423 238L428 237L432 236L440 237L444 238L449 238L453 239L456 239L459 239L462 244L464 245L467 247L473 248L477 249L481 250L484 251L487 253L491 255L496 254L501 253L504 252L504 257L508 257L512 258L514 257L517 255L520 253L526 250L533 247L536 245L539 244L542 243L545 243L549 243L556 242L561 241L565 241L569 241L571 241L574 241L578 241L581 241L586 239L590 237L593 236L595 235L598 234L600 231L602 229L604 227L605 225L608 222L611 221L615 219L618 217L620 215L623 214L622 211L619 207L616 204L615 202L616 198L617 194L618 191L620 188L622 186L626 186L629 186L632 187L634 189L641 191L643 192L647 192L650 192L654 190L656 189L659 186L661 185L663 183L664 181L666 179L671 180L675 179L679 179L683 178L685 176L687 174L690 173L692 171L692 167L694 165L696 162L698 160L701 159L704 159L706 159L709 159L710 155L713 154L715 156L717 155L719 154L721 153L725 152L729 152L732 152L733 151L736 152L739 153L741 154L744 154L746 154L750 153L750 150L750 148L748 145L747 143L746 141L742 138L741 136L739 135L737 132L735 131L732 130L729 126L724 125L721 125L717 125L715 127L713 129L710 132L707 130L705 129L702 128L700 128L696 128L693 128L689 129L686 131L683 129L681 126L680 122L685 120L685 115L685 113L687 111L688 109L690 105L691 103L692 101L694 96L697 90L699 87L702 89L704 90L708 91L712 91L715 93L718 93L723 90L727 87L732 84L736 84L738 83L741 80L742 77L739 75L740 73L741 70L744 67L745 64L747 62L748 59L751 54L753 50L756 47L760 45L763 42L764 40L764 37L763 35L763 31L760 29L758 29L755 29L753 27L755 24L759 21L763 17L768 15L774 14L780 13L785 11L789 11L792 11L796 11L799 10L802 9L805 9L808 10L812 10L816 12L818 13L821 14L823 16L826 16L829 18L832 17L836 17L839 19L842 20L843 22L846 23L848 26L848 28L851 30L852 32L853 34L854 37L855 41L856 43L858 46L859 50L861 52L862 55L862 57L863 60L864 63L867 66L869 69L870 72L869 74L870 77L873 79L872 82L872 86L874 88L877 91L880 92L884 92L888 92L891 92L892 94L895 95L897 96L900 96L903 96L905 98L909 100L913 105L915 106L918 107L921 107L921 111L922 113L924 116L925 120L923 122L924 125L926 126L927 130L930 131L933 131L935 131L941 132L946 131L950 131L953 130L954 127L956 126L960 124L965 123L968 123L971 121L974 119L979 117L983 118L987 120L986 122L985 124L986 128L988 131L986 135L984 136L981 137L980 138L979 142L978 144L977 147L976 152L975 154L974 156L974 159L974 161L972 163L971 165L970 168L968 169L968 172L967 174L966 175L963 177L962 181L962 185L959 187L956 186L953 185L950 184L947 183L944 182L942 181L940 182L938 185L936 187L932 189L929 189L927 192L929 194L930 198L932 207L931 214L931 217L932 219L932 222L931 226L929 228L929 231L927 232L925 232L921 233L919 234L921 237L918 237L916 234L916 232L914 230L912 230L909 231L908 234L908 237L907 240L905 242L903 241L900 242L899 245L897 247L895 248L892 249L887 250L883 250L880 251L881 253L883 256L885 258L883 262L881 262L879 261L875 262L872 261L868 260L866 259L865 256L863 255L861 256L858 257L857 260L856 263L853 266L850 269L849 271L846 273L844 273L842 275L839 278L835 279L832 281L830 282L828 284L824 288L822 289L820 293L818 295L812 295L810 295L808 296L806 296L804 298L801 298L797 300L789 305L788 307L786 309L784 311L782 312L779 312L779 315L776 316L773 316L771 318L770 314L772 313L779 310L778 308L780 305L776 305L774 304L773 302L774 299L776 297L781 293L782 291L784 289L787 284L788 281L787 279L782 274L781 271L780 273L778 274L771 273L768 276L765 278L760 287L750 292L745 294L742 297L740 301L740 304L737 308L735 309L732 309L728 310L725 311L722 308L718 308L714 315L713 319L714 324L716 327L720 329L729 331L733 331L735 332L736 335L737 338L737 340L735 344L735 347L738 350L741 351L743 351L748 351L750 349L755 344L757 341L764 337L769 339L771 341L774 342L776 343L778 344L781 344L783 345L785 343L787 344L789 346L792 345L795 346L793 347L793 350L791 353L792 355L789 357L788 356L785 355L779 357L775 359L770 361L768 362L765 362L766 364L766 366L763 366L763 371L760 373L758 374L758 371L755 371L754 372L755 374L753 378L752 380L750 382L748 383L746 386L744 388L742 393L739 395L739 399L742 401L745 404L748 406L751 407L755 410L757 413L759 419L760 422L762 427L764 432L766 437L766 441L766 444L768 446L773 449L774 450L774 454L776 456L779 457L781 460L782 464L779 464L774 461L770 461L768 461L765 457L763 456L760 456L755 459L753 459L755 460L758 459L760 458L763 458L765 462L767 463L771 466L774 469L779 472L781 475L781 478L782 481L779 482L776 482L773 485L768 488L766 492L762 492L759 492L756 494L760 493L762 497L766 496L771 493L773 494L779 500L781 501L783 502L785 502L782 504L779 508L776 510L779 510L781 508L783 510L783 518L781 516L777 516L775 518L779 520L777 522L779 524L777 526L776 528L777 531L778 534L774 537L771 534L769 538L767 541L765 541L765 544L763 547L763 549L762 552L761 556L758 559L754 565L754 567L753 569L752 571L750 569L749 566L747 568L745 567L746 569L749 572L749 574L749 577L745 580L743 582L741 582L738 580L740 584L743 584L746 583L746 587L745 589L745 592L746 595L743 594L740 594L738 595L740 597L736 599L735 601L735 604L733 606L731 607L730 612L727 612L723 612L720 613L718 615L720 617L721 620L718 622L717 624L715 626L714 628L711 628L711 633L709 631L706 633L703 632L702 636L700 638L699 640L697 641L696 645L694 647L691 647L689 648L686 650L682 649L681 650L678 651L675 649L672 652L670 653L668 653L667 651L665 653L665 655L663 654L660 655L658 655L655 655L653 654L652 651L650 648L650 646L649 644L647 644L647 647L646 648L647 651L649 654L649 658L649 660L648 662L645 663L642 665L641 662L640 664L640 668L637 667L635 669L632 670L631 668L630 670L627 671L624 670L622 672L619 673L618 675L614 676L612 677L609 676L606 679L602 681L600 683L599 680L598 684L595 686L595 690L598 690L597 693L600 697L599 701L594 702L591 702L590 699L589 695L588 692L587 690L587 686L588 682L589 680L591 679L589 677L587 676L586 673L585 676L582 678L578 678L578 676L576 674L574 674L571 672L569 670L568 668L568 672L568 674L566 673L564 675L561 676ZM606 708L608 710L608 713L608 715L605 717L602 723L601 725L600 729L600 733L598 735L596 736L594 738L593 739L589 741L587 744L584 745L582 744L579 743L576 742L571 738L571 734L570 732L570 723L573 720L574 719L577 716L579 715L580 713L580 710L583 710L585 709L591 709L593 708L595 707L598 708L601 708L602 706L604 707L606 708ZM656 656L659 655L661 657L661 660L658 659L655 659L656 656ZM656 662L654 662L657 659L656 662Z"></path>
+      <g id="dots"></g>
+    </svg>
+    <div class="map-tip" id="tip" hidden></div>
+    <div class="map-note">Punkt anklicken springt zur Kachel. Goldener Rand: Geheimtipp. Umriss: Natural Earth.</div>
+  </div>
+</header>
+
+<div class="bar">
+  <div class="wrap">
+    <div class="row1">
+      <div class="seg" id="f-status" role="group" aria-label="Bewertung">
+        <button data-v="alle" aria-pressed="true">Alle</button>
+        <button data-v="ja" aria-pressed="false">Interessant</button>
+        <button data-v="nein" aria-pressed="false">Aussortiert</button>
+        <button data-v="offen" aria-pressed="false">Unbewertet</button>
+      </div>
+      <span class="spacer"></span>
+      <span class="count" id="count"></span>
+      <button class="btn" id="export">Export</button>
+    </div>
+    <div class="chips" role="group" aria-label="Filter">
+      <button class="chip gold" id="f-gt" aria-pressed="false">Nur Geheimtipps</button>
+      <button class="chip" id="f-wow" aria-pressed="false">Wow: alle</button>
+      <span class="sep" aria-hidden="true"></span>
+      <span id="f-kat" class="kats" role="group" aria-label="Kategorie"></span>
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="grid" id="grid"></div>
+  <p class="empty" id="empty" hidden>Keine Orte für diese Filter.</p>
+</main>
+
+<div class="sheet" id="sheet" hidden>
+  <div>
+    <strong>bewertungen.json</strong>
+    <p id="sheet-msg" style="margin:0;color:var(--muted)">Die Datei wurde heruntergeladen. Falls nicht: Text kopieren und als <code>bewertungen.json</code> ins Repo legen.</p>
+    <textarea id="sheet-text" readonly></textarea>
+    <div class="row">
+      <button class="btn" id="sheet-copy">Text kopieren</button>
+      <button class="btn" id="sheet-close">Schließen</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(() => {
+  const KEY = "china-atlas-bewertungen";
+  const KATS = ["Natur und Landschaft", "Wandern und Outdoor", "Kultur und Tempel", "Städte und Futuristisches", "Essen und Märkte", "Abenteuer", "Ungewöhnliches"];
+  const MAP = { W: 1000, H: 760, lon0: 73, lon1: 135.5, lat0: 17.5, lat1: 54 };
+  const WOW_STEPS = [0, 4, 5];
+  let orte = [];
+  let votes = {};
+  const f = { status: "alle", kat: new Set(), gt: false, wow: 0 };
+
+  try { votes = JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) { votes = {}; }
+  const save = () => { try { localStorage.setItem(KEY, JSON.stringify(votes)); } catch (e) {} };
+  const $ = (s, el = document) => el.querySelector(s);
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const st = id => votes[id]?.urteil === "interessiert" ? "ja" : votes[id]?.urteil === "nicht_interessant" ? "nein" : "offen";
+
+  function host(u) { try { return new URL(u).hostname.replace(/^www\./, ""); } catch (e) { return "Quelle"; } }
+
+  function cardHTML(o) {
+    const imgs = (o.bilder || []);
+    const cr = o.bild_credits || [];
+    const stars = "★".repeat(o.wow) + `<s>${"★".repeat(5 - o.wow)}</s>`;
+    return `
+    <article class="card st-${st(o.id)}" id="o-${esc(o.id)}" data-id="${esc(o.id)}">
+      <div class="gal" data-i="0">
+        <div class="ph">${esc(o.name_chinesisch)}</div>
+        ${imgs.map((u, i) => `<img ${i === 0 ? "" : "data-"}src="${esc(u)}" alt="${esc(o.name)}, Foto ${i + 1}" loading="lazy" referrerpolicy="no-referrer"${i === 0 ? ' class="on"' : ""}>`).join("")}
+        <div class="badges"><span class="badge">${esc(o.kategorie)}</span>${o.geheimtipp ? '<span class="badge gt">Geheimtipp</span>' : ""}</div>
+        ${imgs.length > 1 ? `<button class="nav prev" aria-label="Vorheriges Foto">‹</button><button class="nav next" aria-label="Nächstes Foto">›</button><div class="dots">${imgs.map((_, i) => `<i class="${i ? "" : "on"}"></i>`).join("")}</div>` : ""}
+      </div>
+      <div class="credit">${creditHTML(cr[0])}</div>
+      <div class="body">
+        <div class="head">
+          <div><h2>${esc(o.name)}</h2><div class="zh">${esc(o.name_chinesisch)}</div></div>
+          <div class="wow" title="Wow ${o.wow} von 5">${stars}</div>
+        </div>
+        <div class="meta"><span class="k">${esc(o.provinz)}</span></div>
+        <p class="desc">${esc(o.kurzbeschreibung)}</p>
+        <ul class="acts">${(o.aktivitaeten || []).map(a => `<li>${esc(a)}</li>`).join("")}</ul>
+        <div class="foto"><b>Foto-Tipp:</b> ${esc(o.foto_tipp)}</div>
+        ${o.unsicher ? '<div class="warn">Einzelne Angaben unsicher, bitte vor Ort oder online prüfen.</div>' : ""}
+        <div class="src">${(o.quellen || []).map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))}</a>`).join("")}</div>
+        <div class="vote">
+          <button class="ja" aria-pressed="${st(o.id) === "ja"}">Interessiert mich</button>
+          <button class="nein" aria-pressed="${st(o.id) === "nein"}">Nicht interessant</button>
+        </div>
+      </div>
+    </article>`;
+  }
+  function creditHTML(c) {
+    if (!c) return "";
+    const who = c.autor ? esc(c.autor) : host(c.seite || "");
+    const link = c.seite ? ` · <a href="${esc(c.seite)}" target="_blank" rel="noopener">Quelle</a>` : "";
+    return `Foto: ${who}${c.lizenz ? " · " + esc(c.lizenz) : ""}${link}`;
+  }
+
+  function setupGallery(card, o) {
+    const gal = $(".gal", card);
+    const imgs = [...gal.querySelectorAll("img")];
+    const dots = [...gal.querySelectorAll(".dots i")];
+    const credit = $(".credit", card);
+    imgs.forEach(img => img.addEventListener("error", () => { img.dataset.bad = "1"; img.classList.remove("on"); if (img === imgs[+gal.dataset.i]) show(+gal.dataset.i + 1, 1); }));
+    function show(i, dir) {
+      const n = imgs.length; if (!n) return;
+      for (let k = 0; k < n; k++) {
+        const j = ((i + k * dir) % n + n) % n;
+        if (!imgs[j].dataset.bad) { i = j; break; }
+        if (k === n - 1) { imgs.forEach(x => x.classList.remove("on")); credit.innerHTML = ""; return; }
+      }
+      const img = imgs[i];
+      if (img.dataset.src) { img.src = img.dataset.src; img.removeAttribute("data-src"); }
+      imgs.forEach((x, k) => x.classList.toggle("on", k === i));
+      dots.forEach((x, k) => x.classList.toggle("on", k === i));
+      gal.dataset.i = i;
+      credit.innerHTML = creditHTML((o.bild_credits || [])[i]);
+    }
+    $(".prev", gal)?.addEventListener("click", () => show(+gal.dataset.i - 1, -1));
+    $(".next", gal)?.addEventListener("click", () => show(+gal.dataset.i + 1, 1));
+    let x0 = null;
+    gal.addEventListener("touchstart", e => { x0 = e.touches[0].clientX; }, { passive: true });
+    gal.addEventListener("touchend", e => { if (x0 === null) return; const dx = e.changedTouches[0].clientX - x0; if (Math.abs(dx) > 40) show(+gal.dataset.i + (dx < 0 ? 1 : -1), dx < 0 ? 1 : -1); x0 = null; });
+  }
+
+  function vote(id, v) {
+    const o = orte.find(x => x.id === id);
+    const cur = st(id);
+    if (cur === v) delete votes[id];
+    else votes[id] = { urteil: v === "ja" ? "interessiert" : "nicht_interessant", name: o.name, kategorie: o.kategorie, provinz: o.provinz, wow: o.wow, geheimtipp: !!o.geheimtipp, am: new Date().toISOString().slice(0, 10) };
+    save();
+    const card = document.getElementById("o-" + id);
+    const s = st(id);
+    card.className = "card st-" + s;
+    $(".vote .ja", card).setAttribute("aria-pressed", s === "ja");
+    $(".vote .nein", card).setAttribute("aria-pressed", s === "nein");
+    const dot = document.getElementById("d-" + id);
+    if (dot) dot.setAttribute("class", dotClass(o));
+    stats(); apply(false);
+  }
+
+  function dotClass(o) { return `dot st-${st(o.id)}${o.geheimtipp ? " gt" : ""}`; }
+
+  function visible(o) {
+    const s = st(o.id);
+    if (f.status !== "alle" && s !== f.status) return false;
+    if (f.kat.size && !f.kat.has(o.kategorie)) return false;
+    if (f.gt && !o.geheimtipp) return false;
+    if (o.wow < f.wow) return false;
+    return true;
+  }
+
+  function apply(scroll) {
+    let n = 0;
+    for (const o of orte) {
+      const v = visible(o);
+      document.getElementById("o-" + o.id).hidden = !v;
+      const d = document.getElementById("d-" + o.id);
+      if (d) d.classList.toggle("off", !v);
+      if (v) n++;
+    }
+    $("#count").textContent = `${n} von ${orte.length}`;
+    $("#empty").hidden = n > 0;
+  }
+
+  function stats() {
+    const ja = orte.filter(o => st(o.id) === "ja").length;
+    const nein = orte.filter(o => st(o.id) === "nein").length;
+    const gt = orte.filter(o => o.geheimtipp).length;
+    const prov = new Set(orte.map(o => o.provinz)).size;
+    $("#stats").innerHTML = `<span><b>${orte.length}</b>Orte</span><span><b>${prov}</b>Provinzen</span><span><b>${gt}</b>Geheimtipps</span><span class="ja"><b>${ja}</b>interessant</span><span class="nein"><b>${nein}</b>aussortiert</span>`;
+  }
+
+  function drawMap() {
+    const g = $("#dots"); const tip = $("#tip"); const box = $("#map");
+    const ns = "http://www.w3.org/2000/svg";
+    for (const o of orte) {
+      if (typeof o.lat !== "number" || typeof o.lon !== "number") continue;
+      const x = (o.lon - MAP.lon0) / (MAP.lon1 - MAP.lon0) * MAP.W;
+      const y = (MAP.lat1 - o.lat) / (MAP.lat1 - MAP.lat0) * MAP.H;
+      const a = document.createElementNS(ns, "g");
+      a.setAttribute("id", "d-" + o.id); a.setAttribute("class", dotClass(o)); a.setAttribute("tabindex", "0");
+      a.setAttribute("role", "button"); a.setAttribute("aria-label", o.name);
+      const c = document.createElementNS(ns, "circle");
+      c.setAttribute("cx", x.toFixed(1)); c.setAttribute("cy", y.toFixed(1)); c.setAttribute("r", o.wow >= 5 ? 9 : 7);
+      a.appendChild(c); g.appendChild(a);
+      const go = () => { const card = document.getElementById("o-" + o.id); if (card.hidden) { resetFilters(); } card.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" }); card.classList.add("flash"); setTimeout(() => card.classList.remove("flash"), 1600); };
+      a.addEventListener("click", go);
+      a.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); go(); } });
+      a.addEventListener("mouseenter", () => { const r = box.getBoundingClientRect(), s = c.getBoundingClientRect(); tip.textContent = o.name; tip.style.left = (s.left + s.width / 2 - r.left) + "px"; tip.style.top = (s.top - r.top) + "px"; tip.hidden = false; });
+      a.addEventListener("mouseleave", () => { tip.hidden = true; });
+    }
+  }
+
+  function resetFilters() {
+    f.status = "alle"; f.kat.clear(); f.gt = false; f.wow = 0;
+    syncControls(); apply();
+  }
+  function syncControls() {
+    document.querySelectorAll("#f-status button").forEach(b => b.setAttribute("aria-pressed", b.dataset.v === f.status));
+    document.querySelectorAll("#f-kat .chip").forEach(b => b.setAttribute("aria-pressed", f.kat.has(b.dataset.k)));
+    $("#f-gt").setAttribute("aria-pressed", f.gt);
+    const w = $("#f-wow"); w.setAttribute("aria-pressed", f.wow > 0); w.textContent = f.wow ? `Wow: ab ${f.wow}` : "Wow: alle";
+  }
+
+  function exportJSON() {
+    const data = { exportiert: new Date().toISOString(), anzahl_orte: orte.length, bewertungen: votes };
+    const text = JSON.stringify(data, null, 2);
+    let downloaded = false;
+    try {
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(new Blob([text], { type: "application/json" }));
+      a.download = "bewertungen.json"; document.body.appendChild(a); a.click(); a.remove();
+      downloaded = true;
+    } catch (e) {}
+    $("#sheet-text").value = text;
+    $("#sheet-msg").textContent = downloaded
+      ? "Der Download wurde gestartet. Falls keine Datei ankommt: Text kopieren und als bewertungen.json ins Repo legen."
+      : "Text kopieren und als bewertungen.json ins Repo legen.";
+    $("#sheet").hidden = false;
+  }
+
+  function init(data) {
+    orte = (data.orte || []).slice().sort((a, b) => KATS.indexOf(a.kategorie) - KATS.indexOf(b.kategorie) || b.wow - a.wow);
+    $("#f-kat").innerHTML = KATS.filter(k => orte.some(o => o.kategorie === k)).map(k => `<button class="chip" data-k="${esc(k)}" aria-pressed="false">${esc(k)}</button>`).join("");
+    const grid = $("#grid");
+    grid.innerHTML = orte.map(cardHTML).join("");
+    for (const o of orte) {
+      const card = document.getElementById("o-" + o.id);
+      setupGallery(card, o);
+      $(".vote .ja", card).addEventListener("click", () => vote(o.id, "ja"));
+      $(".vote .nein", card).addEventListener("click", () => vote(o.id, "nein"));
+    }
+    document.querySelectorAll("#f-status button").forEach(b => b.addEventListener("click", () => { f.status = b.dataset.v; syncControls(); apply(); }));
+    document.querySelectorAll("#f-kat .chip").forEach(b => b.addEventListener("click", () => { const k = b.dataset.k; f.kat.has(k) ? f.kat.delete(k) : f.kat.add(k); syncControls(); apply(); }));
+    $("#f-gt").addEventListener("click", () => { f.gt = !f.gt; syncControls(); apply(); });
+    $("#f-wow").addEventListener("click", () => { f.wow = WOW_STEPS[(WOW_STEPS.indexOf(f.wow) + 1) % WOW_STEPS.length]; syncControls(); apply(); });
+    $("#export").addEventListener("click", exportJSON);
+    $("#sheet-close").addEventListener("click", () => { $("#sheet").hidden = true; });
+    $("#sheet-copy").addEventListener("click", () => {
+      const t = $("#sheet-text");
+      navigator.clipboard?.writeText(t.value).then(() => { $("#sheet-copy").textContent = "Kopiert"; }, () => { t.select(); });
+      if (!navigator.clipboard) t.select();
+    });
+    drawMap(); stats(); apply();
+  }
+
+  function showLoadHelp() {
+    $("#grid").innerHTML = `<div class="loadbox">
+      <h2 style="margin-top:0;font-family:var(--display)">Daten konnten nicht geladen werden</h2>
+      <p>Browser blockieren das Laden von <code>data/orte.json</code>, wenn die Seite direkt als Datei geöffnet wird. Zwei Wege:</p>
+      <p>1. Im Repo-Ordner <code>python3 -m http.server</code> starten und <a href="http://localhost:8000">localhost:8000</a> öffnen.</p>
+      <p>2. Oder die Datei hier auswählen: <input type="file" id="pick" accept=".json,application/json"></p>
+    </div>`;
+    $("#pick").addEventListener("change", e => {
+      const file = e.target.files[0]; if (!file) return;
+      const r = new FileReader(); r.onload = () => { try { init(JSON.parse(r.result)); } catch (err) { e.target.insertAdjacentText("afterend", " Keine gültige orte.json."); } }; r.readAsText(file);
+    });
+  }
+
+  fetch("data/orte.json").then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(init).catch(showLoadHelp);
+})();
+</script>
+</body>
+</html>
