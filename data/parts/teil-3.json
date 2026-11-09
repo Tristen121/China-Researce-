@@ -32,7 +32,7 @@
    "kategorie": "Essen und Märkte",
    "kurzbeschreibung": "Ein Food-Komplex, der wie eine nachgebaute Altstadt der 1980er wirkt: Backsteinfassaden, Neonröhren, Wäscheleinen, Kramläden. Zwischen den Ständen steht Hunan-Küche mit viel Chili. Alles ist dicht, laut und bewusst nostalgisch.",
    "aktivitaeten": [
-    "Scharfe Krebse (Xiaolongxia) an den Ständen essen",
+    "Scharfe Flusskrebse (Xiaolongxia) an den Ständen essen",
     "Gebratenen Stinktofu (Chou Doufu) probieren",
     "Hunan-Schmorschweinefleisch (Hongshao Rou) mit viel Chili bestellen",
     "Durch die nachgebaute Straße mit Kramläden und Wäscheleinen laufen",
@@ -345,7 +345,7 @@
    "kurzbeschreibung": "Ein Stück Große Mauer, das nicht restauriert wurde. Zinnen bröckeln, Steine liegen lose, der Grat läuft steil über Bergkämme. Wer hier zeltet, sieht abends die Mauer im Dunst verschwinden und morgens im Licht wieder auftauchen. Offiziell ist der Abschnitt nicht für Besucher freigegeben, es drohen Bußgelder.",
    "aktivitaeten": [
     "Jiankou ist offiziell gesperrt: der Grat nur mit ortskundigem Führer und auf eigenes Risiko, Bußgeld möglich",
-    "Auf dem offenen Abschnitt von Jinshanling nach Simatai wandern, wo die Mauer teils unrestauriert ist",
+    "Ersatzweise in Jinshanling oder von Gubeikou nach Jinshanling auf der Mauer wandern",
     "In Mutianyu mit dem Sessellift hoch und auf der Rodelbahn hinunter fahren",
     "In einem Dorf-Gästehaus am Fuß der Mauer übernachten",
     "Den Sonnenaufgang auf der Mauer dort erleben, wo der Zutritt erlaubt ist"
@@ -369,7 +369,7 @@
    "kurzbeschreibung": "Eine Brücke aus Glas spannt eine tiefe Schlucht. Unter den Sohlen sieht man den Abgrund, bei jedem Schritt wackeln die Knie. Ringsum Felswände und Nebel.",
    "aktivitaeten": [
     "Über den Glasboden der Brücke gehen",
-    "Wer sich traut, den Bungee-Sprung von der Brücke wagen",
+    "Wer sich traut und es angeboten wird, den Bungee-Sprung von der Brücke wagen",
     "Die Rutsche am Rand der Schlucht ausprobieren",
     "Auf den Wegen in der Schlucht wandern",
     "Im Gebiet Wulingyuan übernachten und am nächsten Tag die Sandsteinsäulen erkunden"
@@ -491,9 +491,9 @@
    "kurzbeschreibung": "Ein Waldgebirge mit Nebelschleiern, alten Bäumen und Hochmooren. Seit Jahrzehnten erzählt man von einem Wildmenschen. Auf den Wegen hört man Vögel und Wasser.",
    "aktivitaeten": [
     "Durch das Hochmoor von Dajiuhu wandern",
-    "Den Gipfel Shennongding besteigen, den höchsten Punkt des Gebirges",
+    "Im Gebiet Shennongding durch das Shennong-Tal (Shennonggu) wandern",
     "Zum Aussichtsfelsen Banbiyan gehen",
-    "Im Naturreservat nach Goldstumpfnasenaffen Ausschau halten",
+    "An der Forschungsstation Dalongtan nach Goldstumpfnasenaffen Ausschau halten",
     "In einem Gästehaus am Dajiuhu übernachten"
    ],
    "foto_tipp": "Früh am Morgen im Nebel. Im September grün, Herbstfärbung beginnt auf den Höhen.",
@@ -682,7 +682,7 @@
    "aktivitaeten": [
     "Das Ordos-Museum mit seiner kühnen Form besuchen",
     "Mit dem Rad durch die weiten Alleen fahren",
-    "Einen Ausflug zur Wüste Kubuqi unternehmen und dort Sandboarden",
+    "Einen Ausflug nach Xiangshawan in der Kubuqi-Wüste machen und Sand rutschen",
     "Das Mausoleum Dschingis Khans im Süden von Ordos besuchen",
     "Die Skyline am Abend fotografieren"
    ],
@@ -800,8 +800,8 @@
    "aktivitaeten": [
     "Im Dorf Majianglong die Wehrtürme zu Fuß erkunden",
     "Im Li-Garten (Liyuan) durch Gärten und Villa gehen",
-    "Mit dem Leihrad zwischen den Dörfern durch die Reisfelder fahren",
-    "Auf einen der Türme steigen und das Dorf von oben ansehen",
+    "Mit dem Rad oder Shuttlebus zwischen den Dörfern durch die Reisfelder fahren",
+    "In Zili einen der begehbaren Wehrtürme von innen erkunden",
     "Dorfbilder bei Sonnenuntergang fotografieren"
    ],
    "foto_tipp": "Frühmorgens und spätnachmittags. Im September grüne Felder, schwül.",
@@ -826,7 +826,7 @@
     "Ein Porträt nach eigenem Foto malen lassen",
     "Wo angeboten, einen Malworkshop ausprobieren",
     "Im Dafen-Kunstmuseum die Entwicklung des Dorfs ansehen",
-    "Abends mit dem Leihrad am Shenzhen Bay Park entlangfahren"
+    "Ein fertiges Bild im Atelier aussuchen und um den Preis verhandeln"
    ],
    "foto_tipp": "Nachmittags bei Tageslicht in den Läden. Im September heiß, das Drinnen ist angenehm.",
    "wow": 3,

@@ -59,5 +59,7 @@ Wenn `bewertungen.json` im Repo liegt: lies sie, erkenne Muster in dem, was ich 
 - An jedem Ort braucht man Dinge, die man dort **machen** kann. `aktivitaeten`: 4–6 konkrete Punkte, mindestens 2 zum Selbermachen (Wanderroute, Bootsfahrt, Rad, Gericht, Kurs, Nachtmarkt, Übernachtung …), höchstens 1 reines Fotografieren. Details: `data/parts/AKTIVITAETEN-AUFTRAG.md`.
 
 ## Stand
-- Quellen kommen aus `data/parts/quellen.json` (Websuche), Koordinaten aus `data/parts/koordinaten.json` (Nominatim, ungenaue Treffer mit `koordinaten_ungefaehr`).
-- 2026-11-09: Erster Durchlauf, 95 Orte in 7 Kategorien. Texte von Sonnet-Agenten, Faktenprüfung durch einen Opus-Agenten (`data/parts/review.md`).
+- 2026-11-09: Erster Durchlauf, 95 Orte in 7 Kategorien, 30 Provinzen, 40 Geheimtipps (42 %). Texte von Sonnet-Agenten, Faktenprüfung durch Opus (`data/parts/review.md`), Aktivitäten neu geschrieben und geprüft (`data/parts/review-aktivitaeten.md`). 284 Fotos (2–3 pro Ort), bei 13 Orten nur Symbolfotos (`foto_hinweis`).
+- Ansehen mit allen Fotos: privates Artifact https://claude.ai/artifact/FPDLBwEgCSQmwQRSHX5Hfv (beim Aktualisieren `data/orte.json` und neue Fotos dorthin mitveröffentlichen).
+- Offen: Repo ist noch öffentlich, deshalb ist `img/` in `.gitignore` und die Fotos fehlen im Repo. Sobald Tristan es auf privat stellt: `img/` aus `.gitignore` nehmen, Fotos committen. Die Fotos liegen bis dahin nur in der Cloud-Sitzung und im Artifact.
+- Noch keine `bewertungen.json`, also noch keine Lernschleife.

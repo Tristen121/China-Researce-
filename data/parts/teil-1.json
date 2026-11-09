@@ -56,10 +56,10 @@
    "kategorie": "Natur und Landschaft",
    "kurzbeschreibung": "Grüne Karstkegel stehen wie Zuckerhüte am ruhigen Fluss. Bambusflöße gleiten vorbei, Kormorane sitzen auf den Booten, Wasserbüffel stehen im Flachwasser. Das Licht ist weich und die Hügel verschwimmen hintereinander im Dunst.",
    "aktivitaeten": [
-    "Mit dem Bambusfloß auf dem Li-Fluss bei Yangshuo fahren",
+    "Mit dem Bambusfloß auf dem Li-Fluss zwischen Yangdi und Xingping fahren",
     "Am Yulong-Fluss mit dem Fahrrad zwischen den Karstkegeln fahren",
     "Bei Xingping auf den Laozhai-Berg oder Xianggong-Berg steigen",
-    "Auf dem Flussweg von Xingping nach Yangshuo wandern",
+    "Auf dem Uferweg von Yangdi nach Xingping am Li-Fluss wandern",
     "Abends in Yangshuo Bierfisch essen und über die West Street bummeln"
    ],
    "foto_tipp": "Früher Morgen mit Nebel zwischen den Hügeln. Im September grün und warm, Dunst ist häufig.",
@@ -82,7 +82,7 @@
    "aktivitaeten": [
     "Vom Nuorilang-Wasserfall zum Fünf-Blumen-See wandern",
     "Am Panda-See und Pfeilbambus-See die Holzstege entlanggehen",
-    "Den Wasserfall Zhaghana vom Steg aus erleben",
+    "Am Perlenstrand (Zhenzhutan) über die Stege zum Wasserfall hinabgehen",
     "In einem tibetischen Dorf bei Buttertee und Yak-Fleisch einkehren",
     "Die Spiegelungen der Seen am frühen Morgen fotografieren"
    ],
@@ -156,7 +156,7 @@
     "Unter Tianlong-, Qinglong- und Heilong-Brücke hindurchlaufen",
     "Die Schlucht Longshuixia mit Aufzug und Pfad erkunden",
     "Die Furong-Höhle auf dem Rundgang durch die Tropfsteine besichtigen",
-    "Abends in Chongqing Feuertopf essen"
+    "Auf dem Feenberg (Xiannüshan) über die Hochwiesen wandern"
    ],
    "foto_tipp": "Vormittag, wenn Licht in die Schlucht fällt. Im September heiß und feucht, gelegentlich Regen, alles grün.",
    "wow": 5,
@@ -177,7 +177,7 @@
    "kurzbeschreibung": "Graue Kalksteinnadeln ragen aus dem Boden wie ein versteinerter Wald. Zwischen ihnen führen enge Gänge und Treppen, manche Felsen sind höher als Häuser. Das Gebiet gehört zur Kultur der Yi, die Sage von Ashima ist allgegenwärtig.",
    "aktivitaeten": [
     "Durch die engen Felsgassen im Großen Steinwald laufen",
-    "Vom Pavillon Linfeng Ting über den Steinwald blicken",
+    "Zum Pavillon Wangfeng Ting hinaufsteigen und über den Steinwald blicken",
     "Den Kleinen Steinwald und den Naigu-Steinwald zu Fuß erkunden",
     "Beim Tanz der Sani mitmachen, wo Vorführungen stattfinden",
     "Über-die-Brücke-Nudeln (Guoqiao Mixian) essen"
@@ -200,11 +200,11 @@
    "kategorie": "Natur und Landschaft",
    "kurzbeschreibung": "Breite Wasserstufen stürzen in mehreren Kaskaden ins Tal, mitten im grünen Karst an der Grenze zu Vietnam. Davor liegen Reisfelder und Bambus, die Gischt hängt in der Luft. Auf dem Fluss fahren Flöße bis nahe an den Wasserfall.",
    "aktivitaeten": [
-    "Mit dem Bambusfloß nah an die Wasserfälle heranfahren",
-    "Am Guichun-Fluss entlang zum Grenzstein 53 spazieren",
+    "Mit dem Bambusfloß nah an die Wasserfälle heranfahren, wenn der Wasserstand es erlaubt",
+    "Auf dem Uferweg am Guichun-Fluss entlang der Grenze zu Vietnam spazieren",
     "Zwischen Reisfeldern und Karstkegeln im Umland wandern",
-    "In einem Gästehaus in Daxin übernachten",
-    "Die Wasserfälle in Ruhe von den Aussichtsstufen erkunden"
+    "In einem Gästehaus im Dorf Detian übernachten",
+    "Im Tal von Mingshi mit dem Bambusfloß zwischen Karstkegeln treiben"
    ],
    "foto_tipp": "Vormittag bei Sonne für Regenbögen in der Gischt. Im September viel Wasser nach der Regenzeit, der Fall ist kräftig.",
    "wow": 4,
@@ -271,8 +271,8 @@
    "kategorie": "Natur und Landschaft",
    "kurzbeschreibung": "Ein tiefgrüner See liegt zwischen Lärchenwäldern und Schneebergen im äußersten Nordwesten Chinas. In Dörfern nahe dem See leben Tuwiner und Kasachen in Holzhäusern. Die Luft ist kühl und klar, auf den Wiesen weiden Pferde.",
    "aktivitaeten": [
-    "Auf den Fischerpavillon-Hügel über dem Kanas-See steigen",
-    "Am Seeufer entlang durch Lärchenwald wandern",
+    "Die rund 1000 Stufen zum Guanyu-Pavillon (Fischschau-Pavillon) über dem See steigen",
+    "Auf dem Holzsteg am Kanas-Fluss von der Wolong-Bucht zur Mondbucht wandern",
     "Im Tuwa-Dorf Hemu in einem Holzgästehaus übernachten",
     "Die Birkenwälder und Wiesen um Hemu zu Fuß durchstreifen",
     "Beim Tuwa-Abendessen mit Fladen und Milchtee einkehren"
@@ -345,7 +345,7 @@
    "aktivitaeten": [
     "Zum Aussichtspunkt Luoxiagou hinaufsteigen",
     "Die Dorfwege zwischen den roten Feldern entlangwandern",
-    "Zum Sonnenuntergang den Aussichtspunkt Huashitou erreichen",
+    "Zum Sonnenaufgang einen zweiten Aussichtspunkt über den Feldern ansteuern",
     "In einer Dorfküche Kartoffelgerichte der Region essen",
     "Bei den Bauern die Feldarbeit im Vorbeigehen beobachten"
    ],
@@ -369,9 +369,9 @@
    "aktivitaeten": [
     "Die rund 8000 Stufen zum Roten-Wolken-Goldgipfel hinaufsteigen",
     "Den Pilzfelsen auf dem Weg ansehen",
-    "Zu den Tempeln auf dem Alten Goldgipfel aufsteigen",
+    "Die Tempel auf dem Gipfelplateau besuchen",
     "Den Nebelwald auf dem Wanderweg erkunden",
-    "Nach Guizhou-Stumpfnasenaffen Ausschau halten"
+    "Nach den seltenen Guizhou-Stumpfnasenaffen Ausschau halten, Sichtung unwahrscheinlich"
    ],
    "foto_tipp": "Morgens bei Wolkenmeer und Sonne. Im September feucht, oft Nebel und Regen, der Wald ist üppig.",
    "wow": 5,
@@ -419,7 +419,7 @@
     "Von Ping'an nach Dazhai über die Dörfer wandern",
     "In einem Holzhaus der Zhuang oder Yao übernachten",
     "Bambusreis in Bambusrohr gegart probieren",
-    "Im Dorf Dazhai die Haarwasch-Tradition der Yao-Frauen kennenlernen"
+    "Im Yao-Dorf Huangluo die Langhaar-Tradition der Yao-Frauen kennenlernen"
    ],
    "foto_tipp": "Früh am Morgen im Nebel. Anfang September ist der Reis noch grün, gegen Ende des Monats wird er golden; geerntet wird etwa Ende September bis Oktober.",
    "wow": 5,
@@ -439,7 +439,7 @@
    "kategorie": "Wandern und Outdoor",
    "kurzbeschreibung": "Terrassen fallen wie riesige Treppen in den Dunst, im Winter spiegelt sich der Himmel in den gefluteten Becken. Hani-Dörfer mit pilzförmigen Strohdächern sitzen dazwischen. Morgens ziehen Nebel durch die Hänge.",
    "aktivitaeten": [
-    "Zu den Aussichtspunkten Duoyishu und Laohuzui zum Sonnenaufgang fahren",
+    "Zum Sonnenaufgang nach Duoyishu, zum Sonnenuntergang nach Laohuzui fahren",
     "Durch die Dörfer der Hani zwischen den Terrassen wandern",
     "Den Markt in Xinjie besuchen",
     "In einem Gasthaus der Hani übernachten",
@@ -487,7 +487,7 @@
    "kurzbeschreibung": "Granitgipfel mit knorrigen Kiefern ragen aus einem Meer aus Wolken. Man steigt auf Steintreppen durch Nebel, plötzlich reißt es auf. Es sieht aus wie eine chinesische Tuschezeichnung.",
    "aktivitaeten": [
     "Den Ostweg von Yungu zum Beihai-Gipfel zu Fuß steigen",
-    "Lotusgipfel und Himmelskapitalgipfel besteigen",
+    "Den Himmelskapitalgipfel (Tiandu Feng) besteigen, der Lotusgipfel ruht bis etwa 2029",
     "Im Berghotel am Beihai übernachten",
     "Zum Sonnenaufgang am Löwengipfel oder Shixin-Gipfel aufbrechen",
     "Die Willkommenskiefer auf dem Weg suchen"
@@ -512,9 +512,9 @@
    "aktivitaeten": [
     "Den Weg zum Milchsee (Niunaihai) und Fünf-Farben-See (Wusehai) wandern",
     "Zum Perlensee (Zhuoma La Cuo) hochlaufen",
-    "Den Pilgerweg um das Kloster Chonggu gehen",
+    "Vom Kloster Chonggu über die Luorong-Weide (Luorong Niuchang) laufen",
     "In einem tibetischen Gasthaus in Dorfnähe übernachten",
-    "Langsam akklimatisieren, da der Weg über 4000 Meter führt"
+    "Langsam akklimatisieren: Milchsee und Fünf-Farben-See liegen bei etwa 4600 bis 4700 Metern"
    ],
    "foto_tipp": "Früher Morgen für klare Sicht auf die Gipfel. Im September wird das Wetter stabiler, gegen Ende des Monats beginnen die Herbstfarben; kalte Nächte.",
    "wow": 5,
@@ -559,7 +559,7 @@
    "kurzbeschreibung": "Ein heiliger Berg mit Tempeln im Nebelwald, Stufen führen durch Wolken nach oben. Affen warten am Wegrand auf Futter. Der Gipfel liegt oft über den Wolken.",
    "aktivitaeten": [
     "Vom Wannian-Kloster zum Goldenen Gipfel zu Fuß wandern",
-    "Im Kloster Xixiang Chi übernachten",
+    "Im Kloster Xixiang Chi übernachten, vorher klären, ob Ausländer aufgenommen werden",
     "Die goldenen Statuen auf dem Gipfel besuchen",
     "Vegetarisches Klostermahl probieren",
     "Die Affen am Weg beobachten, aber Essen versteckt halten"
@@ -676,9 +676,9 @@
    "kategorie": "Wandern und Outdoor",
    "kurzbeschreibung": "Die Große Mauer läuft in Wellen über Bergrücken, viele Türme stehen eng nebeneinander. Teile sind restauriert, andere zerbröckeln im Gras. Die Aussicht reicht weit über die Hügel.",
    "aktivitaeten": [
-    "Von Jinshanling nach Simatai auf der Mauer wandern",
-    "Zum Wangjing-Turm für den Sonnenaufgang aufsteigen",
-    "Zwischen restaurierten und verfallenen Abschnitten wechseln",
+    "Den Mauerkamm von Jinshanling von Turm zu Turm ablaufen, der Übergang nach Simatai ist gesperrt",
+    "Zum Sonnenaufgang auf einen der hohen Wachtürme steigen",
+    "Mit ortskundigem Anbieter von Gubeikou nach Jinshanling auf der Mauer wandern",
     "Abends in einem Gästehaus im Dorf am Fuß der Mauer übernachten"
    ],
    "foto_tipp": "Früher Morgen oder später Nachmittag. Im September meist mild, oft klarer als im Sommer, die Hänge sind noch grün.",
