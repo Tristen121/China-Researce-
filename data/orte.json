@@ -17,11 +17,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/zhangjiajie-1.jpg",
+    "img/zhangjiajie-2.jpg",
+    "img/zhangjiajie-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 29.0503,
+   "lon": 110.4786,
+   "bild_credits": [
+    {
+     "autor": "Robynne O / Unsplash",
+     "seite": "https://unsplash.com/photos/sandstone-pillars-in-zhangjiajie-national-park-CRvaC071ZXo"
+    },
+    {
+     "autor": "Robynne O / Unsplash",
+     "seite": "https://unsplash.com/photos/aerial-photo-of-rock-formations-pjsrHjXGnVs"
+    },
+    {
+     "autor": "Zidan Ab / Unsplash",
+     "seite": "https://unsplash.com/photos/tall-narrow-rock-formations-covered-in-green-trees-yVsuwOmKEvw"
+    }
+   ]
   },
   {
    "id": "tianmen",
@@ -40,11 +57,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/tianmen-1.jpg",
+    "img/tianmen-2.jpg",
+    "img/tianmen-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 29.0499,
+   "lon": 110.4789,
+   "bild_credits": [
+    {
+     "autor": "Zheng XUE / Unsplash",
+     "seite": "https://unsplash.com/photos/a-very-tall-mountain-with-a-bridge-going-through-it-_qS4Ek7lkOg"
+    },
+    {
+     "autor": "Emanuele Bono / Unsplash",
+     "seite": "https://unsplash.com/photos/road-leading-through-a-mountain-with-a-natural-arch-kotSeDzmw9w"
+    },
+    {
+     "autor": "chenyang1912 / Unsplash",
+     "seite": "https://unsplash.com/photos/an-aerial-view-of-a-winding-mountain-road-hjf36LEHXy8"
+    }
+   ]
   },
   {
    "id": "li-fluss",
@@ -63,11 +97,29 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/li-fluss-1.jpg",
+    "img/li-fluss-2.jpg",
+    "img/li-fluss-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 25.0918,
+   "lon": 110.43,
+   "bild_credits": [
+    {
+     "autor": "Bowen Wang / Unsplash",
+     "seite": "https://unsplash.com/photos/a-river-with-mountains-in-the-background--K8KTjtfsu8"
+    },
+    {
+     "autor": "Sergio Li / Unsplash",
+     "seite": "https://unsplash.com/photos/a-person-looking-out-over-li-river-HljGrgrrvxc"
+    },
+    {
+     "autor": "Mikey / Unsplash",
+     "seite": "https://unsplash.com/photos/body-of-water-near-mountain-during-daytime-uEgMBRhJ0eQ"
+    }
+   ],
+   "koordinaten_ungefaehr": true
   },
   {
    "id": "jiuzhaigou",
@@ -86,11 +138,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/jiuzhaigou-1.jpg",
+    "img/jiuzhaigou-2.jpg",
+    "img/jiuzhaigou-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 33.1184,
+   "lon": 103.8839,
+   "bild_credits": [
+    {
+     "autor": "Yueliang Sun / Unsplash",
+     "seite": "https://unsplash.com/photos/fLKVm_ES0ZI"
+    },
+    {
+     "autor": "Russ Lee / Unsplash",
+     "seite": "https://unsplash.com/photos/OZCv2DKjb0g"
+    },
+    {
+     "autor": "Felix Feng / Unsplash",
+     "seite": "https://unsplash.com/photos/Dcr69VX0n_w"
+    }
+   ]
   },
   {
    "id": "huanglong",
@@ -109,11 +178,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/huanglong-1.jpg",
+    "img/huanglong-2.jpg",
+    "img/huanglong-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 32.7806,
+   "lon": 103.9282,
+   "bild_credits": [
+    {
+     "autor": "Zhu Ai / Unsplash",
+     "seite": "https://unsplash.com/photos/_KDCrNLZQG0"
+    },
+    {
+     "autor": "Xuedi Liu / Unsplash",
+     "seite": "https://unsplash.com/photos/JFeN-qYRDmU"
+    },
+    {
+     "autor": "Zhu Ai / Unsplash",
+     "seite": "https://unsplash.com/photos/turquoise-terraced-pools-in-huanglong-ccb9CFCBJhY"
+    }
+   ]
   },
   {
    "id": "zhangye-danxia",
@@ -132,11 +218,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/zhangye-danxia-1.jpg",
+    "img/zhangye-danxia-2.jpg",
+    "img/zhangye-danxia-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 39.0987,
+   "lon": 100.1618,
+   "bild_credits": [
+    {
+     "autor": "feilingyujing / Unsplash",
+     "seite": "https://unsplash.com/photos/1gOi55PLHjc"
+    },
+    {
+     "autor": "Sun J.W / Unsplash",
+     "seite": "https://unsplash.com/photos/sexZX4iVmX0"
+    },
+    {
+     "autor": "Yisong Dong / Unsplash",
+     "seite": "https://unsplash.com/photos/fo3BkPSsISc"
+    }
+   ]
   },
   {
    "id": "wulong",
@@ -155,11 +258,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/wulong-1.jpg",
+    "img/wulong-2.jpg",
+    "img/wulong-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 29.4399,
+   "lon": 107.7863,
+   "bild_credits": [
+    {
+     "autor": "Luna Wang / Unsplash",
+     "seite": "https://unsplash.com/photos/a-man-standing-on-the-side-of-a-cliff-next-to-a-river-SrjoG56j8ZU"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/hikers-walking-under-a-natural-arch-8622312/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/spectacular-view-of-wulong-karst-in-chongqing-china-37343129/"
+    }
+   ]
   },
   {
    "id": "shilin",
@@ -178,11 +298,29 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/shilin-1.jpg",
+    "img/shilin-2.jpg",
+    "img/shilin-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 24.7612,
+   "lon": 103.4269,
+   "bild_credits": [
+    {
+     "autor": "Falco Negenman / Unsplash",
+     "seite": "https://unsplash.com/photos/unique-karst-rock-formations-amidst-dense-green-foliage-HUt4enWnajY"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/ancient-architecture-in-a-temple-5505096/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/stunning-karst-landscapes-of-stone-forest-36907620/"
+    }
+   ],
+   "koordinaten_ungefaehr": true
   },
   {
    "id": "detian",
@@ -201,11 +339,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/detian-1.jpg",
+    "img/detian-2.jpg",
+    "img/detian-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 22.8559,
+   "lon": 106.7232,
+   "bild_credits": [
+    {
+     "autor": "gabriel xu / Unsplash",
+     "seite": "https://unsplash.com/photos/majestic-multi-tiered-waterfall-cascading-through-lush-green-mountains-G4gO4_R01rs"
+    },
+    {
+     "autor": "gabriel xu / Unsplash",
+     "seite": "https://unsplash.com/photos/a-body-of-water-with-a-group-of-waterfalls-and-trees-around-it-T83XoGlv-h4"
+    },
+    {
+     "autor": "gabriel xu / Unsplash",
+     "seite": "https://unsplash.com/photos/majestic-waterfall-cascading-into-a-wide-muddy-river-VbWcPbS-8PU"
+    }
+   ]
   },
   {
    "id": "huangguoshu",
@@ -224,11 +379,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/huangguoshu-1.jpg",
+    "img/huangguoshu-2.jpg",
+    "img/huangguoshu-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 25.9924,
+   "lon": 105.6662,
+   "bild_credits": [
+    {
+     "autor": "Xiao Huya / Unsplash",
+     "seite": "https://unsplash.com/photos/KsC-asfOIsU"
+    },
+    {
+     "autor": "Zhe ZHANG / Unsplash",
+     "seite": "https://unsplash.com/photos/xmLS6SLjaJA"
+    },
+    {
+     "autor": "Garry RY / Unsplash",
+     "seite": "https://unsplash.com/photos/aYFpuPpCWxs"
+    }
+   ]
   },
   {
    "id": "hukou",
@@ -247,11 +419,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/hukou-1.jpg",
+    "img/hukou-2.jpg",
+    "img/hukou-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 36.1487,
+   "lon": 110.4439,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/spectacular-view-of-hukou-waterfall-in-china-40325653/"
+    },
+    {
+     "autor": "CFP / CGTN",
+     "seite": "https://news.cgtn.com/news/2024-02-28/Hukou-Waterfall-A-spectacle-of-nature-s-power-in-Shaanxi-1ryUW4eXmj6/index.html"
+    },
+    {
+     "autor": "CFP / CGTN",
+     "seite": "https://news.cgtn.com/news/2024-02-28/Hukou-Waterfall-A-spectacle-of-nature-s-power-in-Shaanxi-1ryUW4eXmj6/index.html"
+    }
+   ]
   },
   {
    "id": "kanas",
@@ -270,11 +459,28 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/kanas-1.jpg",
+    "img/kanas-2.jpg",
+    "img/kanas-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 48.7995,
+   "lon": 87.0273,
+   "bild_credits": [
+    {
+     "autor": "Yang Song / Unsplash",
+     "seite": "https://unsplash.com/photos/an-aerial-view-of-a-lake-surrounded-by-mountains-kk7tnPkQzDA"
+    },
+    {
+     "autor": "Yu Gui / Unsplash",
+     "seite": "https://unsplash.com/photos/a-body-of-water-with-hills-around-it-IxWC1OzKGek"
+    },
+    {
+     "autor": "darmau / Unsplash",
+     "seite": "https://unsplash.com/photos/aerial-photography-of-lake-AA0p0lIIvC0"
+    }
+   ]
   },
   {
    "id": "xiapu",
@@ -293,11 +499,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/xiapu-1.jpg",
+    "img/xiapu-2.jpg",
+    "img/xiapu-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 26.8318,
+   "lon": 119.9857,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/serene-fishing-boat-in-xiapu-bamboo-fields-38986390/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/black-and-white-aerial-view-of-ningde-tidal-flats-38986394/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/aerial-view-of-fujian-oyster-farms-at-twilight-38986389/"
+    }
+   ]
   },
   {
    "id": "wanfenglin",
@@ -316,11 +539,29 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/wanfenglin-1.jpg",
+    "img/wanfenglin-2.jpg",
+    "img/wanfenglin-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 25.017,
+   "lon": 104.9211,
+   "bild_credits": [
+    {
+     "autor": "VCG / CGTN",
+     "seite": "https://news.cgtn.com/news/3d3d674e7863444e32457a6333566d54/index.html"
+    },
+    {
+     "autor": "VCG / CGTN",
+     "seite": "https://news.cgtn.com/news/3d3d674e7863444e32457a6333566d54/index.html"
+    },
+    {
+     "autor": "VCG / CGTN",
+     "seite": "https://news.cgtn.com/news/3d3d674e7863444e32457a6333566d54/index.html"
+    }
+   ],
+   "koordinaten_ungefaehr": true
   },
   {
    "id": "dongchuan",
@@ -339,11 +580,23 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/dongchuan-1.jpg",
+    "img/dongchuan-2.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 25.9371,
+   "lon": 103.0789,
+   "bild_credits": [
+    {
+     "autor": "DH Tang / Pexels",
+     "seite": "https://www.pexels.com/photo/scenic-rural-road-winding-through-terraced-fields-30235385/"
+    },
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2023-07-31/Colorful-Yunnan-Stunning-Dongchuan-Red-Land-1lT6RlOexxK/index.html"
+    }
+   ]
   },
   {
    "id": "fanjingshan",
@@ -362,11 +615,28 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/fanjingshan-1.jpg",
+    "img/fanjingshan-2.jpg",
+    "img/fanjingshan-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 27.9194,
+   "lon": 108.6921,
+   "bild_credits": [
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2023-09-12/Mount-Fanjing-in-the-rain-1n2ra7Jeghy/index.html"
+    },
+    {
+     "autor": "Costfoto / Barcroft Media via Amusing Planet",
+     "seite": "https://www.amusingplanet.com/2019/04/the-temples-of-mount-fanjing.html"
+    },
+    {
+     "autor": "VCG via Amusing Planet",
+     "seite": "https://www.amusingplanet.com/2019/04/the-temples-of-mount-fanjing.html"
+    }
+   ]
   },
   {
    "id": "panda-chengdu",
@@ -385,11 +655,29 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/panda-chengdu-1.jpg",
+    "img/panda-chengdu-2.jpg",
+    "img/panda-chengdu-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 30.7432,
+   "lon": 104.1329,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/giant-panda-relaxing-and-eating-bamboo-in-lush-habitat-30356870/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/close-up-of-a-panda-on-the-rock-13565352/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/giant-panda-relaxing-on-rocks-in-zoo-enclosure-29619569/"
+    }
+   ],
+   "foto_hinweis": "Pandafotos, nicht sicher in Chengdu aufgenommen."
   },
   {
    "id": "longji",
@@ -408,11 +696,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/longji-1.jpg",
+    "img/longji-2.jpg",
+    "img/longji-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 25.7274,
+   "lon": 110.0675,
+   "bild_credits": [
+    {
+     "autor": "Quang Nguyen Vinh / Pexels",
+     "seite": "https://www.pexels.com/photo/landscape-of-longsheng-rice-terraces-guilin-china-6713735/"
+    },
+    {
+     "autor": "Gary Yip / Pexels",
+     "seite": "https://www.pexels.com/photo/scenic-rice-terraces-in-longsheng-20370780/"
+    },
+    {
+     "autor": "Willian Justen / Pexels",
+     "seite": "https://www.pexels.com/photo/stunning-terraced-fields-in-longsheng-china-39452376/"
+    }
+   ]
   },
   {
    "id": "yuanyang",
@@ -431,11 +736,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/yuanyang-1.jpg",
+    "img/yuanyang-2.jpg",
+    "img/yuanyang-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 23.0975,
+   "lon": 102.7845,
+   "bild_credits": [
+    {
+     "autor": "Sandra Mosconi / Pexels",
+     "seite": "https://www.pexels.com/photo/stunning-aerial-view-of-yuanyang-rice-terraces-33378927/"
+    },
+    {
+     "autor": "unfushan / Pexels",
+     "seite": "https://www.pexels.com/photo/aerial-view-of-yuanyang-rice-terraces-in-china-s-yunnan-province-37169881/"
+    },
+    {
+     "autor": "unfushan / Pexels",
+     "seite": "https://www.pexels.com/photo/aerial-view-of-yuanyang-rice-terraces-in-spring-37134938/"
+    }
+   ]
   },
   {
    "id": "tigersprung",
@@ -454,11 +776,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/tigersprung-1.jpg",
+    "img/tigersprung-2.jpg",
+    "img/tigersprung-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 27.2044,
+   "lon": 100.1206,
+   "bild_credits": [
+    {
+     "autor": "Lian Sun (EGU imaggeo)",
+     "seite": "https://imaggeo.egu.eu/view/14141/"
+    },
+    {
+     "autor": "Yereth Jansen / GoKunming",
+     "seite": "https://www.gokunming.com/en/blog/item/4102/tiger_leaping_gorge_yunnans_classic_trek"
+    },
+    {
+     "autor": "Yereth Jansen / GoKunming",
+     "seite": "https://www.gokunming.com/en/blog/item/4102/tiger_leaping_gorge_yunnans_classic_trek"
+    }
+   ]
   },
   {
    "id": "huangshan",
@@ -477,11 +816,29 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/huangshan-1.jpg",
+    "img/huangshan-2.jpg",
+    "img/huangshan-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 29.7173,
+   "lon": 118.3325,
+   "bild_credits": [
+    {
+     "autor": "David Magalhães / Unsplash",
+     "seite": "https://unsplash.com/photos/a-view-of-the-mountains-from-a-high-point-of-view-uTV5T7LL4Tg"
+    },
+    {
+     "autor": "WeChat cnhsta / China Daily",
+     "seite": "https://www.chinaservicesinfo.com/s/202210/13/WS65011904498ed2d7b7e9ae47/magnificent-sea-of-clouds-adorns-huangshan-mountain.html"
+    },
+    {
+     "autor": "WeChat cnhsta / China Daily",
+     "seite": "https://www.chinaservicesinfo.com/s/202210/13/WS65011904498ed2d7b7e9ae47/magnificent-sea-of-clouds-adorns-huangshan-mountain.html"
+    }
+   ],
+   "koordinaten_ungefaehr": true
   },
   {
    "id": "yading",
@@ -500,11 +857,28 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/yading-1.jpg",
+    "img/yading-2.jpg",
+    "img/yading-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 28.5049,
+   "lon": 100.2603,
+   "bild_credits": [
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2023-11-21/Daocheng-Yading-Nature-Reserve-a-paradise-on-the-southwestern-plateau-1oUIvx7bKve/p.html"
+    },
+    {
+     "autor": "Peter Zhang / GoKunming",
+     "seite": "https://www.gokunming.com/cn/blog/item/3687/yading-nature-reserve-a-hidden-gem-in-southwest-china"
+    },
+    {
+     "autor": "Peter Zhang / GoKunming",
+     "seite": "https://www.gokunming.com/cn/blog/item/3687/yading-nature-reserve-a-hidden-gem-in-southwest-china"
+    }
+   ]
   },
   {
    "id": "sanqingshan",
@@ -523,11 +897,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/sanqingshan-1.jpg",
+    "img/sanqingshan-2.jpg",
+    "img/sanqingshan-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 29.0954,
+   "lon": 118.0164,
+   "bild_credits": [
+    {
+     "autor": "VCG / CGTN",
+     "seite": "https://news.cgtn.com/news/2021-07-24/Treasure-of-Nature-Giant-park-with-peculiar-shaped-peaks-and-pillars-129FLyrYeWI/index.html"
+    },
+    {
+     "autor": "VCG / CGTN",
+     "seite": "https://news.cgtn.com/news/2021-07-24/Treasure-of-Nature-Giant-park-with-peculiar-shaped-peaks-and-pillars-129FLyrYeWI/index.html"
+    },
+    {
+     "autor": "VCG / CGTN",
+     "seite": "https://news.cgtn.com/news/2021-07-24/Treasure-of-Nature-Giant-park-with-peculiar-shaped-peaks-and-pillars-129FLyrYeWI/index.html"
+    }
+   ]
   },
   {
    "id": "emeishan",
@@ -546,11 +937,29 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/emeishan-1.jpg",
+    "img/emeishan-2.jpg",
+    "img/emeishan-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 29.5227,
+   "lon": 103.3369,
+   "bild_credits": [
+    {
+     "autor": "CFP / CGTN",
+     "seite": "https://news.cgtn.com/news/2023-11-10/Stunning-view-of-Mount-Emei-in-a-sea-of-clouds-1oChq9pDBSw/p.html"
+    },
+    {
+     "autor": "CFP / CGTN",
+     "seite": "https://news.cgtn.com/news/2023-11-10/Stunning-view-of-Mount-Emei-in-a-sea-of-clouds-1oChq9pDBSw/p.html"
+    },
+    {
+     "autor": "CFP / CGTN",
+     "seite": "https://news.cgtn.com/news/2023-11-10/Stunning-view-of-Mount-Emei-in-a-sea-of-clouds-1oChq9pDBSw/p.html"
+    }
+   ],
+   "koordinaten_ungefaehr": true
   },
   {
    "id": "siguniang",
@@ -569,11 +978,29 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/siguniang-1.jpg",
+    "img/siguniang-2.jpg",
+    "img/siguniang-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 30.9956,
+   "lon": 102.8309,
+   "bild_credits": [
+    {
+     "autor": "CFP / CGTN",
+     "seite": "https://news.cgtn.com/news/2024-01-14/Mountains-as-beautiful-as-maidens-1qm7CupdDsQ/p.html"
+    },
+    {
+     "autor": "China Xi'an Tour",
+     "seite": "https://www.chinaxiantour.com/mount-siguniang-travel-guide"
+    },
+    {
+     "autor": "IC / China Daily",
+     "seite": "https://govt.chinadaily.com.cn/s/202210/11/WS6344db69498ea274927a5539/mount-siguniang-covered-by-snow-in-autumn.html"
+    }
+   ],
+   "koordinaten_ungefaehr": true
   },
   {
    "id": "enshi",
@@ -592,11 +1019,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/enshi-1.jpg",
+    "img/enshi-2.jpg",
+    "img/enshi-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 30.4242,
+   "lon": 109.1747,
+   "bild_credits": [
+    {
+     "autor": "VCG / CGTN",
+     "seite": "https://news.cgtn.com/news/2020-06-12/Magnificent-Enshi-Grand-Canyon-immersed-in-cloud-in-central-China-RfYGKjquf6/index.html"
+    },
+    {
+     "autor": "VCG / CGTN",
+     "seite": "https://news.cgtn.com/news/2020-06-12/Magnificent-Enshi-Grand-Canyon-immersed-in-cloud-in-central-China-RfYGKjquf6/index.html"
+    },
+    {
+     "autor": "Into Travel China",
+     "seite": "https://intotravelchina.com/en/attractions/enshi_attraction/enshi-grand-canyon.html"
+    }
+   ]
   },
   {
    "id": "taishan",
@@ -615,11 +1059,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/taishan-1.jpg",
+    "img/taishan-2.jpg",
+    "img/taishan-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 36.2088,
+   "lon": 117.1223,
+   "bild_credits": [
+    {
+     "autor": "Dazhong News / China Daily",
+     "seite": "https://govt.chinadaily.com.cn/s/202508/01/WS68f8830f498e3685503367bb/stunning-sunrise-on-taishan-mountain.html"
+    },
+    {
+     "autor": "VCG / China Daily",
+     "seite": "https://govt.chinadaily.com.cn/s/201812/17/WS5c1764e3498ee2f0291e3f1e/mount-tai-taian.html"
+    },
+    {
+     "autor": "VCG / China Daily",
+     "seite": "https://govt.chinadaily.com.cn/s/201812/17/WS5c1764e3498ee2f0291e3f1e/mount-tai-taian.html"
+    }
+   ]
   },
   {
    "id": "wuyishan",
@@ -638,11 +1099,29 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/wuyishan-1.jpg",
+    "img/wuyishan-2.jpg",
+    "img/wuyishan-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 27.759,
+   "lon": 118.0298,
+   "bild_credits": [
+    {
+     "autor": "IC / China Daily",
+     "seite": "https://www.chinaservicesinfo.com/s/202504/21/WS6805cbc7498eec7e1f7350e0/discover-the-magic-of-nine-bend-stream-in-fujians-wuyi-mountain.html"
+    },
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2024-01-25/Bamboo-Rafting-on-Nine-Bend-River-Wuyi-Mountains-1qBDMQ2yffi/p.html"
+    },
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2024-01-25/Bamboo-Rafting-on-Nine-Bend-River-Wuyi-Mountains-1qBDMQ2yffi/p.html"
+    }
+   ],
+   "koordinaten_ungefaehr": true
   },
   {
    "id": "jinshanling",
@@ -661,11 +1140,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/jinshanling-1.jpg",
+    "img/jinshanling-2.jpg",
+    "img/jinshanling-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 40.6845,
+   "lon": 117.2803,
+   "bild_credits": [
+    {
+     "autor": "VCG / China Daily",
+     "seite": "https://www.chinaservicesinfo.com/s/202205/12/WS627ca1d6498e6a12c122bf28/jinshanling-great-wall-shrouded-in-mist-is-a-picturesque-sight.html"
+    },
+    {
+     "autor": "VCG / China Daily",
+     "seite": "https://www.chinaservicesinfo.com/s/202204/19/WS625e0d3b498e6a12c122a448/great-wall-holds-a-collage-of-scenery_7.html"
+    },
+    {
+     "autor": "VCG / CGTN",
+     "seite": "https://news.cgtn.com/news/2025-03-16/Spring-snowfall-at-the-Great-Wall--1BMQbwDSzC0/p.html"
+    }
+   ]
   },
   {
    "id": "yubeng",
@@ -684,11 +1180,29 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/yubeng-1.jpg",
+    "img/yubeng-2.jpg",
+    "img/yubeng-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 28.3691,
+   "lon": 98.8201,
+   "bild_credits": [
+    {
+     "autor": "Jonas Kelsch / CGTN",
+     "seite": "https://news.cgtn.com/news/2020-06-01/A-hidden-gem-in-the-mountains-of-SW-China-QXFFPizCWQ/index.html"
+    },
+    {
+     "autor": "Jonas Kelsch / CGTN",
+     "seite": "https://news.cgtn.com/news/2020-06-01/A-hidden-gem-in-the-mountains-of-SW-China-QXFFPizCWQ/index.html"
+    },
+    {
+     "autor": "Jonas Kelsch / CGTN",
+     "seite": "https://news.cgtn.com/news/2020-06-01/A-hidden-gem-in-the-mountains-of-SW-China-QXFFPizCWQ/index.html"
+    }
+   ],
+   "foto_hinweis": "Fotos zeigen den Meili-Schneeberg, nicht das Dorf."
   },
   {
    "id": "sonne-mond-pagoden",
@@ -707,11 +1221,28 @@
    "wow": 3,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/sonne-mond-pagoden-1.jpg",
+    "img/sonne-mond-pagoden-2.jpg",
+    "img/sonne-mond-pagoden-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 25.2751,
+   "lon": 110.2902,
+   "bild_credits": [
+    {
+     "autor": "IC / China Daily",
+     "seite": "https://www.chinaservicesinfo.com/s/202209/27/WS63329453498ea274927a4618/twin-pagodas-in-guilin-reflected-in-lake.html"
+    },
+    {
+     "autor": "Into Travel China",
+     "seite": "https://intotravelchina.com/en/attractions/guilin_attraction/sun-and-moon-pagodas.html"
+    },
+    {
+     "autor": "Into Travel China",
+     "seite": "https://intotravelchina.com/en/attractions/guilin_attraction/sun-and-moon-pagodas.html"
+    }
+   ]
   },
   {
    "id": "verbotene-stadt",
@@ -730,11 +1261,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/verbotene-stadt-1.jpg",
+    "img/verbotene-stadt-2.jpg",
+    "img/verbotene-stadt-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 39.9173,
+   "lon": 116.3908,
+   "bild_credits": [
+    {
+     "autor": "IC / China Daily",
+     "seite": "https://www.chinaservicesinfo.com/s/202402/22/WS65d6e7d8498ed2d7b7ea81d0/first-snow-of-the-year-of-the-dragon-blankets-forbidden-city-in-beijing.html"
+    },
+    {
+     "autor": "Palace Museum (Weibo) / China Daily",
+     "seite": "https://govt.chinadaily.com.cn/s/202111/08/WS6188bc5c498e6a12c12077da/beautiful-scenery-of-snow-covered-forbidden-city.html"
+    },
+    {
+     "autor": "VCG / CGTN",
+     "seite": "https://news.cgtn.com/news/3d3d414e7941444f32457a6333566d54/index.html"
+    }
+   ]
   },
   {
    "id": "himmelstempel",
@@ -753,11 +1301,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/himmelstempel-1.jpg",
+    "img/himmelstempel-2.jpg",
+    "img/himmelstempel-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 39.8799,
+   "lon": 116.4029,
+   "bild_credits": [
+    {
+     "autor": "IC / China Daily",
+     "seite": "https://govt.chinadaily.com.cn/s/202111/12/WS618e23d6498e6a12c1207c71/magnificent-views-of-temple-of-heaven-in-beijing.html"
+    },
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2023-12-12/Snow-capped-Temple-of-Heaven-sits-in-solemn-silence-1ptpPIgb8TC/index.html"
+    },
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2023-12-12/Snow-capped-Temple-of-Heaven-sits-in-solemn-silence-1ptpPIgb8TC/index.html"
+    }
+   ]
   },
   {
    "id": "terrakotta",
@@ -776,11 +1341,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/terrakotta-1.jpg",
+    "img/terrakotta-2.jpg",
+    "img/terrakotta-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 34.3918,
+   "lon": 109.2822,
+   "bild_credits": [
+    {
+     "autor": "Travel China Guide",
+     "seite": "https://www.travelchinaguide.com/picture/shaanxi/xian/terra_cotta_warriors/pit1/"
+    },
+    {
+     "autor": "denis pan / Unsplash",
+     "seite": "https://unsplash.com/photos/FnNIDG9k8Ag"
+    },
+    {
+     "autor": "Aaron Greenwood / Unsplash",
+     "seite": "https://unsplash.com/photos/UqSNn_KoDA4"
+    }
+   ]
   },
   {
    "id": "haengendes-kloster",
@@ -799,11 +1381,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/haengendes-kloster-1.jpg",
+    "img/haengendes-kloster-2.jpg",
+    "img/haengendes-kloster-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 39.6597,
+   "lon": 113.708,
+   "bild_credits": [
+    {
+     "autor": "VCG / CGTN",
+     "seite": "https://news.cgtn.com/news/2019-09-14/Travelogue-The-Hanging-Temple-of-Datong-JYws8W8l6o/index.html"
+    },
+    {
+     "autor": "VCG / CGTN",
+     "seite": "https://news.cgtn.com/news/2019-09-14/Travelogue-The-Hanging-Temple-of-Datong-JYws8W8l6o/index.html"
+    },
+    {
+     "autor": "vista pan / Unsplash",
+     "seite": "https://unsplash.com/photos/ancient-temples-built-into-a-steep-mountainside-SOOQC6gdNv8"
+    }
+   ]
   },
   {
    "id": "leshan",
@@ -822,11 +1421,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/leshan-1.jpg",
+    "img/leshan-2.jpg",
+    "img/leshan-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 29.5469,
+   "lon": 103.7693,
+   "bild_credits": [
+    {
+     "autor": "Xinhua / China Daily",
+     "seite": "https://www.chinaservicesinfo.com/s/201906/18/WS645b35c1498ea274927ba006/gallery_4.html"
+    },
+    {
+     "autor": "lechengtrip.com / China Daily",
+     "seite": "https://govt.chinadaily.com.cn/s/201812/17/WS5c172ead498ee2f0291e3e9d/giant-buddha-leshan.html"
+    },
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2025-09-26/Leshan-Giant-Buddha-through-the-eyes-of-global-influencers-1GZ1Pvf8j6M/p.html"
+    }
+   ]
   },
   {
    "id": "longmen",
@@ -845,11 +1461,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/longmen-1.jpg",
+    "img/longmen-2.jpg",
+    "img/longmen-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 34.5571,
+   "lon": 112.4707,
+   "bild_credits": [
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2025-03-01/Longmen-Grottoes-Ancient-carvings-enduring-stories-1BooGSKGdPy/index.html"
+    },
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2025-03-01/Longmen-Grottoes-Ancient-carvings-enduring-stories-1BooGSKGdPy/index.html"
+    },
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2025-03-01/Longmen-Grottoes-Ancient-carvings-enduring-stories-1BooGSKGdPy/index.html"
+    }
+   ]
   },
   {
    "id": "mogao",
@@ -868,11 +1501,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/mogao-1.jpg",
+    "img/mogao-2.jpg",
+    "img/mogao-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 40.0373,
+   "lon": 94.8042,
+   "bild_credits": [
+    {
+     "autor": "Travel China Guide",
+     "seite": "https://www.travelchinaguide.com/picture/gansu/dunhuang/mogao-caves/index.htm"
+    },
+    {
+     "autor": "Travel China Guide",
+     "seite": "https://www.travelchinaguide.com/picture/gansu/dunhuang/mogao-caves/index.htm"
+    },
+    {
+     "autor": "CFP / CGTN",
+     "seite": "https://news.cgtn.com/news/2023-09-06/What-s-so-attractive-about-caves-in-Dunhuang--1mSUM7vZQNG/index.html"
+    }
+   ]
   },
   {
    "id": "potala",
@@ -891,11 +1541,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": true,
-   "bilder": [],
+   "bilder": [
+    "img/potala-1.jpg",
+    "img/potala-2.jpg",
+    "img/potala-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 29.6576,
+   "lon": 91.117,
+   "bild_credits": [
+    {
+     "autor": "Lfish / Pixabay",
+     "seite": "https://pixabay.com/photos/potala-palace-blue-sky-palace-tibet-2177845/"
+    },
+    {
+     "autor": "sovietmole / Pixabay",
+     "seite": "https://pixabay.com/photos/palace-tibet-tibetan-potala-palace-435745/"
+    },
+    {
+     "autor": "kaowaya / Pixabay",
+     "seite": "https://pixabay.com/photos/lhasa-tibet-potala-palace-780183/"
+    }
+   ]
   },
   {
    "id": "shaolin",
@@ -914,11 +1581,28 @@
    "wow": 3,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/shaolin-1.jpg",
+    "img/shaolin-2.jpg",
+    "img/shaolin-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 34.5084,
+   "lon": 112.9352,
+   "bild_credits": [
+    {
+     "autor": "Trip.com Moments (Nutzerfoto)",
+     "seite": "https://us.trip.com/moments/detail/dengfeng-1014-152092060/"
+    },
+    {
+     "autor": "Chermano / Pixabay",
+     "seite": "https://pixabay.com/photos/schaolin-monastery-kung-fu-873569/"
+    },
+    {
+     "autor": "bdpeterson / Pixabay",
+     "seite": "https://pixabay.com/photos/cemetery-shoalin-china-539703/"
+    }
+   ]
   },
   {
    "id": "tulou",
@@ -937,11 +1621,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/tulou-1.jpg",
+    "img/tulou-2.jpg",
+    "img/tulou-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 24.5869,
+   "lon": 117.0558,
+   "bild_credits": [
+    {
+     "autor": "ymg012 / Pixabay",
+     "seite": "https://pixabay.com/photos/china-fujian-tulou-building-circle-1819202/"
+    },
+    {
+     "autor": "cherry19921025 / Pixabay",
+     "seite": "https://pixabay.com/photos/yongding-earth-building-country-5430574/"
+    },
+    {
+     "autor": "yyyoe / Pixabay",
+     "seite": "https://pixabay.com/photos/fujian-tulou-lantern-2556375/"
+    }
+   ]
   },
   {
    "id": "pingyao",
@@ -960,11 +1661,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/pingyao-1.jpg",
+    "img/pingyao-2.jpg",
+    "img/pingyao-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 37.1547,
+   "lon": 112.1434,
+   "bild_credits": [
+    {
+     "autor": "Filiz Elaerts / Unsplash",
+     "seite": "https://unsplash.com/s/photos/pingyao"
+    },
+    {
+     "autor": "Jun Ren / Unsplash",
+     "seite": "https://unsplash.com/s/photos/pingyao"
+    },
+    {
+     "autor": "Jun Ren / Unsplash",
+     "seite": "https://unsplash.com/s/photos/pingyao"
+    }
+   ]
   },
   {
    "id": "fenghuang",
@@ -983,11 +1701,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/fenghuang-1.jpg",
+    "img/fenghuang-2.jpg",
+    "img/fenghuang-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 28.0205,
+   "lon": 109.5992,
+   "bild_credits": [
+    {
+     "autor": "Diem Nhi Nguyen / Unsplash",
+     "seite": "https://unsplash.com/s/photos/fenghuang"
+    },
+    {
+     "autor": "Theodor Lundqvist / Unsplash",
+     "seite": "https://unsplash.com/s/photos/fenghuang"
+    },
+    {
+     "autor": "Sergio Kian / Unsplash",
+     "seite": "https://unsplash.com/s/photos/fenghuang"
+    }
+   ]
   },
   {
    "id": "labrang",
@@ -1006,11 +1741,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/labrang-1.jpg",
+    "img/labrang-2.jpg",
+    "img/labrang-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 35.194,
+   "lon": 102.5064,
+   "bild_credits": [
+    {
+     "autor": "zen_zhuwei / Pixabay",
+     "seite": "https://pixabay.com/photos/labrang-is-tibetan-buddhism-gannan-1330181/"
+    },
+    {
+     "autor": "zen_zhuwei / Pixabay",
+     "seite": "https://pixabay.com/photos/labrang-monastery-tibetan-buddhism-1330172/"
+    },
+    {
+     "autor": "zen_zhuwei / Pixabay",
+     "seite": "https://pixabay.com/photos/labrang-monastery-tibetan-buddhism-1330171/"
+    }
+   ]
   },
   {
    "id": "maijishan",
@@ -1029,11 +1781,28 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/maijishan-1.jpg",
+    "img/maijishan-2.jpg",
+    "img/maijishan-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 34.3517,
+   "lon": 106.004,
+   "bild_credits": [
+    {
+     "autor": "ttchen2012 / Pixabay",
+     "seite": "https://pixabay.com/photos/mountai-grotto-buddha-statue-3765889/"
+    },
+    {
+     "autor": "ttchen2012 / Pixabay",
+     "seite": "https://pixabay.com/photos/mountai-grotto-buddha-statue-3765887/"
+    },
+    {
+     "autor": "ttchen2012 / Pixabay",
+     "seite": "https://pixabay.com/photos/mountai-grotto-buddha-statue-3765904/"
+    }
+   ]
   },
   {
    "id": "wudang",
@@ -1052,11 +1821,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/wudang-1.jpg",
+    "img/wudang-2.jpg",
+    "img/wudang-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 32.4008,
+   "lon": 111.0045,
+   "bild_credits": [
+    {
+     "autor": "neo595 / Pixabay",
+     "seite": "https://pixabay.com/photos/cloud-sea-out-wudang-golden-top-2653678/"
+    },
+    {
+     "autor": "Offizielle Wudang-Website (via China Fetching)",
+     "seite": "https://www.chinafetching.com/wudang-mountains"
+    },
+    {
+     "autor": "China Fetching",
+     "seite": "https://www.chinafetching.com/wudang-mountains"
+    }
+   ]
   },
   {
    "id": "xijiang",
@@ -1075,11 +1861,28 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/xijiang-1.jpg",
+    "img/xijiang-2.jpg",
+    "img/xijiang-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 26.4955,
+   "lon": 108.1702,
+   "bild_credits": [
+    {
+     "autor": "gdmoonkiller / Pixabay",
+     "seite": "https://pixabay.com/photos/xijiang-qianhu-miao-village-night-7395042/"
+    },
+    {
+     "autor": "Robinliu / Pixabay",
+     "seite": "https://pixabay.com/photos/guizhou-xijiang-2682289/"
+    },
+    {
+     "autor": "Robinliu / Pixabay",
+     "seite": "https://pixabay.com/photos/guizhou-xijiang-the-scenery-2682268/"
+    }
+   ]
   },
   {
    "id": "suzhou-gaerten",
@@ -1098,11 +1901,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/suzhou-gaerten-1.jpg",
+    "img/suzhou-gaerten-2.jpg",
+    "img/suzhou-gaerten-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 31.3264,
+   "lon": 120.6247,
+   "bild_credits": [
+    {
+     "autor": "butterflying05130 / Pixabay",
+     "seite": "https://pixabay.com/photos/humble-administrators-garden-autumn-788875/"
+    },
+    {
+     "autor": "user1449559291 / Pixabay",
+     "seite": "https://pixabay.com/photos/suzhou-gardens-pathway-3523334/"
+    },
+    {
+     "autor": "kuimoshen / Pixabay",
+     "seite": "https://pixabay.com/photos/garden-suzhou-jiangnan-china-2374285/"
+    }
+   ]
   },
   {
    "id": "chongqing",
@@ -1121,11 +1941,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/chongqing-1.jpg",
+    "img/chongqing-2.jpg",
+    "img/chongqing-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 29.5651,
+   "lon": 106.5753,
+   "bild_credits": [
+    {
+     "autor": "Jerry Wang / Unsplash",
+     "seite": "https://unsplash.com/s/photos/chongqing"
+    },
+    {
+     "autor": "Jerry Wang / Unsplash",
+     "seite": "https://unsplash.com/s/photos/chongqing"
+    },
+    {
+     "autor": "Harrison Qi / Unsplash",
+     "seite": "https://unsplash.com/s/photos/chongqing"
+    }
+   ]
   },
   {
    "id": "shanghai-skyline",
@@ -1144,11 +1981,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/shanghai-skyline-1.jpg",
+    "img/shanghai-skyline-2.jpg",
+    "img/shanghai-skyline-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 31.2353,
+   "lon": 121.4876,
+   "bild_credits": [
+    {
+     "autor": "Freeman Zhou / Unsplash",
+     "seite": "https://unsplash.com/s/photos/shanghai-skyline"
+    },
+    {
+     "autor": "Zhou Xian / Unsplash",
+     "seite": "https://unsplash.com/s/photos/shanghai-skyline"
+    },
+    {
+     "autor": "Jeff Chang / Unsplash",
+     "seite": "https://unsplash.com/s/photos/shanghai-skyline"
+    }
+   ]
   },
   {
    "id": "shenzhen-rad",
@@ -1167,11 +2021,29 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/shenzhen-rad-1.jpg",
+    "img/shenzhen-rad-2.jpg",
+    "img/shenzhen-rad-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 22.5246,
+   "lon": 113.988,
+   "bild_credits": [
+    {
+     "autor": "T Y / Unsplash",
+     "seite": "https://unsplash.com/s/photos/shenzhen"
+    },
+    {
+     "autor": "ダモ リ / Unsplash",
+     "seite": "https://unsplash.com/s/photos/shenzhen"
+    },
+    {
+     "autor": "ダモ リ / Unsplash",
+     "seite": "https://unsplash.com/s/photos/shenzhen"
+    }
+   ],
+   "foto_hinweis": "Fotos zeigen die Skyline an der Shenzhen Bay, kein Radmotiv."
   },
   {
    "id": "peking-hutongs",
@@ -1190,11 +2062,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/peking-hutongs-1.jpg",
+    "img/peking-hutongs-2.jpg",
+    "img/peking-hutongs-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 39.9323,
+   "lon": 116.3977,
+   "bild_credits": [
+    {
+     "autor": "Quan Jing / Unsplash",
+     "seite": "https://unsplash.com/s/photos/hutong"
+    },
+    {
+     "autor": "ran liwen / Unsplash",
+     "seite": "https://unsplash.com/s/photos/hutong"
+    },
+    {
+     "autor": "Andy Wang / Unsplash",
+     "seite": "https://unsplash.com/s/photos/hutong"
+    }
+   ]
   },
   {
    "id": "hongkong",
@@ -1213,11 +2102,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/hongkong-1.jpg",
+    "img/hongkong-2.jpg",
+    "img/hongkong-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 22.276,
+   "lon": 114.1455,
+   "bild_credits": [
+    {
+     "autor": "Simon Zhu / Unsplash",
+     "seite": "https://unsplash.com/s/photos/victoria-peak"
+    },
+    {
+     "autor": "Florian Wehde / Unsplash",
+     "seite": "https://unsplash.com/s/photos/victoria-peak"
+    },
+    {
+     "autor": "John O'Nolan / Unsplash",
+     "seite": "https://unsplash.com/s/photos/victoria-peak"
+    }
+   ]
   },
   {
    "id": "canton-tower",
@@ -1236,11 +2142,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/canton-tower-1.jpg",
+    "img/canton-tower-2.jpg",
+    "img/canton-tower-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 23.109,
+   "lon": 113.3191,
+   "bild_credits": [
+    {
+     "autor": "yumoheart / Pixabay",
+     "seite": "https://pixabay.com/photos/guangzhou-tower-twilight-night-view-1200842/"
+    },
+    {
+     "autor": "Liming Wang / Unsplash",
+     "seite": "https://unsplash.com/s/photos/canton-tower"
+    },
+    {
+     "autor": "Arvin / Pixabay",
+     "seite": "https://pixabay.com/photos/guangzhou-tower-guangzhou-sunset-7042393/"
+    }
+   ]
   },
   {
    "id": "binhai-bibliothek",
@@ -1259,11 +2182,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/binhai-bibliothek-1.jpg",
+    "img/binhai-bibliothek-2.jpg",
+    "img/binhai-bibliothek-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 39.0164,
+   "lon": 117.6814,
+   "bild_credits": [
+    {
+     "autor": "Nolan Monaghan / Unsplash",
+     "seite": "https://unsplash.com/s/photos/tianjin-binhai-library"
+    },
+    {
+     "autor": "Nolan Monaghan / Unsplash",
+     "seite": "https://unsplash.com/s/photos/tianjin-binhai-library"
+    },
+    {
+     "autor": "MChe Lee / Unsplash",
+     "seite": "https://unsplash.com/s/photos/tianjin-binhai-library"
+    }
+   ]
   },
   {
    "id": "harbin-oper",
@@ -1282,11 +2222,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/harbin-oper-1.jpg",
+    "img/harbin-oper-2.jpg",
+    "img/harbin-oper-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 45.8077,
+   "lon": 126.5815,
+   "bild_credits": [
+    {
+     "autor": "reisetopia / Unsplash",
+     "seite": "https://unsplash.com/s/photos/harbin-opera-house"
+    },
+    {
+     "autor": "Ziang Guo / Unsplash",
+     "seite": "https://unsplash.com/s/photos/harbin-opera-house"
+    },
+    {
+     "autor": "Adam Mørk (MAD Architects) / designboom",
+     "seite": "https://www.designboom.com/architecture/mad-architects-harbin-oopera-house-china-12-16-2015/"
+    }
+   ]
   },
   {
    "id": "datang-everbright",
@@ -1305,11 +2262,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/datang-everbright-1.jpg",
+    "img/datang-everbright-2.jpg",
+    "img/datang-everbright-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 34.2155,
+   "lon": 108.96,
+   "bild_credits": [
+    {
+     "autor": "Trip.com Moments (Nutzerfoto)",
+     "seite": "https://us.trip.com/moments/detail/xi-an-7-135407869/"
+    },
+    {
+     "autor": "Trip.com Moments (Nutzerfoto)",
+     "seite": "https://us.trip.com/moments/detail/xi-an-7-135407869/"
+    },
+    {
+     "autor": "Trip.com Moments (Nutzerfoto)",
+     "seite": "https://us.trip.com/moments/detail/xi-an-7-135407869/"
+    }
+   ]
   },
   {
    "id": "meixihu",
@@ -1328,11 +2302,28 @@
    "wow": 3,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/meixihu-1.jpg",
+    "img/meixihu-2.jpg",
+    "img/meixihu-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 28.1999,
+   "lon": 112.9015,
+   "bild_credits": [
+    {
+     "autor": "Gu Shi Yin / Dezeen",
+     "seite": "https://www.dezeen.com/2019/05/03/zaha-hadid-architects-changsha-meixihu-jnternational-culture-art-centre/"
+    },
+    {
+     "autor": "Gu Shi Yin / Dezeen",
+     "seite": "https://www.dezeen.com/2019/05/03/zaha-hadid-architects-changsha-meixihu-jnternational-culture-art-centre/"
+    },
+    {
+     "autor": "Gu Shi Yin / Dezeen",
+     "seite": "https://www.dezeen.com/2019/05/03/zaha-hadid-architects-changsha-meixihu-jnternational-culture-art-centre/"
+    }
+   ]
   },
   {
    "id": "westsee",
@@ -1351,11 +2342,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/westsee-1.jpg",
+    "img/westsee-2.jpg",
+    "img/westsee-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 30.246,
+   "lon": 120.1431,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/7532194/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/18305238/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/31275707/"
+    }
+   ]
   },
   {
    "id": "maglev",
@@ -1374,11 +2382,28 @@
    "wow": 3,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/maglev-1.jpg",
+    "img/maglev-2.jpg",
+    "img/maglev-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 31.1996,
+   "lon": 121.5723,
+   "bild_credits": [
+    {
+     "autor": "Graham Williams / RailPictures.Net",
+     "seite": "https://www.railpictures.net/photo/257754"
+    },
+    {
+     "autor": "RADII",
+     "seite": "https://radii.co/article/photo-of-the-day-worlds-fastest-maglev-train"
+    },
+    {
+     "autor": "RADII",
+     "seite": "https://radii.co/article/photo-of-the-day-worlds-fastest-maglev-train"
+    }
+   ]
   },
   {
    "id": "muslimviertel",
@@ -1397,11 +2422,29 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/muslimviertel-1.jpg",
+    "img/muslimviertel-2.jpg",
+    "img/muslimviertel-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 34.2634,
+   "lon": 108.9389,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/30703908/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/9825589/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/search/xi%27an%20muslim%20quarter/"
+    }
+   ],
+   "foto_hinweis": "Ein Foto zeigt eine Straße in Xi'an ohne Bezug zum Viertel."
   },
   {
    "id": "wenheyou",
@@ -1419,11 +2462,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": true,
-   "bilder": [],
+   "bilder": [
+    "img/wenheyou-1.jpg",
+    "img/wenheyou-2.jpg",
+    "img/wenheyou-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 28.1924,
+   "lon": 112.9642,
+   "bild_credits": [
+    {
+     "autor": "VCG / The World of Chinese",
+     "seite": "https://www.theworldofchinese.com/2025/03/changshas-star-turn-how-a-historic-city-became-chinas-capital-of-entertainment/"
+    },
+    {
+     "autor": "Zhong Ming / The World of Chinese",
+     "seite": "https://www.theworldofchinese.com/2025/03/changshas-star-turn-how-a-historic-city-became-chinas-capital-of-entertainment/"
+    },
+    {
+     "autor": "Zhong Ming / The World of Chinese",
+     "seite": "https://www.theworldofchinese.com/2025/03/changshas-star-turn-how-a-historic-city-became-chinas-capital-of-entertainment/"
+    }
+   ]
   },
   {
    "id": "mushuihua",
@@ -1441,11 +2501,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/mushuihua-1.jpg",
+    "img/mushuihua-2.jpg",
+    "img/mushuihua-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 25.0087,
+   "lon": 102.7273,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/28697606/"
+    },
+    {
+     "autor": "Caixin",
+     "seite": "https://www.caixinglobal.com/2022-07-13/gallery-the-kingdom-of-wild-mushrooms-101912543.html"
+    },
+    {
+     "autor": "Caixin",
+     "seite": "https://www.caixinglobal.com/2022-07-13/gallery-the-kingdom-of-wild-mushrooms-101912543.html"
+    }
+   ]
   },
   {
    "id": "kashgar-basar",
@@ -1463,11 +2540,29 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/kashgar-basar-1.jpg",
+    "img/kashgar-basar-2.jpg",
+    "img/kashgar-basar-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 39.4666,
+   "lon": 75.99,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/36960955/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/35767879/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/40671747/"
+    }
+   ],
+   "foto_hinweis": "Symbolfotos: chinesischer Viehmarkt, nicht sicher Kashgar."
   },
   {
    "id": "chengdu-teehaus",
@@ -1486,11 +2581,29 @@
    "wow": 3,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/chengdu-teehaus-1.jpg",
+    "img/chengdu-teehaus-2.jpg",
+    "img/chengdu-teehaus-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 30.6594,
+   "lon": 104.0558,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/33460436/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/35635864/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/19687387/"
+    }
+   ],
+   "foto_hinweis": "Symbolfotos: Teehäuser in Chengdu, nicht das Heming-Teehaus."
   },
   {
    "id": "yumcha-guangzhou",
@@ -1508,11 +2621,29 @@
    "wow": 3,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/yumcha-guangzhou-1.jpg",
+    "img/yumcha-guangzhou-2.jpg",
+    "img/yumcha-guangzhou-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 23.124,
+   "lon": 113.2307,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/7563033/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/6185751/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/35069186/"
+    }
+   ],
+   "foto_hinweis": "Symbolfotos: Dim Sum allgemein, nicht das Panxi-Restaurant."
   },
   {
    "id": "pekingente",
@@ -1530,11 +2661,28 @@
    "wow": 3,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/pekingente-1.jpg",
+    "img/pekingente-2.jpg",
+    "img/pekingente-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 39.8953,
+   "lon": 116.3921,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/5848609/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/10201748/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/5848595/"
+    }
+   ]
   },
   {
    "id": "longjing",
@@ -1552,11 +2700,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/longjing-1.jpg",
+    "img/longjing-2.jpg",
+    "img/longjing-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 30.2219,
+   "lon": 120.0981,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/32454737/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/16009094/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/16325662/"
+    }
+   ]
   },
   {
    "id": "shaxi",
@@ -1574,11 +2739,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/shaxi-1.jpg",
+    "img/shaxi-2.jpg",
+    "img/shaxi-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 26.3195,
+   "lon": 99.852,
+   "bild_credits": [
+    {
+     "autor": "Yunnan Roads",
+     "seite": "https://www.yunnan-roads.com/travel/dali/shaxi-old-town"
+    },
+    {
+     "autor": "Yunnan Roads",
+     "seite": "https://www.yunnan-roads.com/travel/dali/shaxi-old-town"
+    },
+    {
+     "autor": "Yunnan Roads",
+     "seite": "https://www.yunnan-roads.com/travel/dali/shaxi-old-town"
+    }
+   ]
   },
   {
    "id": "yiwu",
@@ -1596,11 +2778,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/yiwu-1.jpg",
+    "img/yiwu-2.jpg",
+    "img/yiwu-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 29.3364,
+   "lon": 120.1019,
+   "bild_credits": [
+    {
+     "autor": "VCG / China Daily",
+     "seite": "https://regional.chinadaily.com.cn/ezhejiang/2024-01/07/c_951543.htm"
+    },
+    {
+     "autor": "VCG / China Daily",
+     "seite": "https://regional.chinadaily.com.cn/ezhejiang/2024-01/07/c_951543.htm"
+    },
+    {
+     "autor": "VCG / China Daily",
+     "seite": "https://regional.chinadaily.com.cn/ezhejiang/2024-01/07/c_951543.htm"
+    }
+   ]
   },
   {
    "id": "nanxiang",
@@ -1618,11 +2817,29 @@
    "wow": 3,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/nanxiang-1.jpg",
+    "img/nanxiang-2.jpg",
+    "img/nanxiang-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 31.2289,
+   "lon": 121.488,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/6752827/"
+    },
+    {
+     "autor": "Yu / Unsplash",
+     "seite": "https://unsplash.com/s/photos/xiaolongbao"
+    },
+    {
+     "autor": "Amos K / Unsplash",
+     "seite": "https://unsplash.com/s/photos/xiaolongbao"
+    }
+   ],
+   "foto_hinweis": "Symbolfotos: Xiaolongbao, nicht sicher aus diesem Laden."
   },
   {
    "id": "hubu-gasse",
@@ -1640,11 +2857,29 @@
    "wow": 3,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/hubu-gasse-1.jpg",
+    "img/hubu-gasse-2.jpg",
+    "img/hubu-gasse-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 30.5497,
+   "lon": 114.2927,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/27238146/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/40849356/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/35519234/"
+    }
+   ],
+   "foto_hinweis": "Symbolfotos: Wuhaner Snacks, nicht sicher Hubu Xiang."
   },
   {
    "id": "shunde",
@@ -1662,11 +2897,30 @@
    "wow": 3,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/shunde-1.jpg",
+    "img/shunde-2.jpg",
+    "img/shunde-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 22.8055,
+   "lon": 113.2894,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/34148068/"
+    },
+    {
+     "autor": "Siyuan Meng / RADII",
+     "seite": "https://radii.co/article/shunde-food"
+    },
+    {
+     "autor": "Siyuan Meng / RADII",
+     "seite": "https://radii.co/article/shunde-food"
+    }
+   ],
+   "koordinaten_ungefaehr": true,
+   "foto_hinweis": "Symbolfotos: Essen und Ufer in Foshan, nicht sicher Shunde."
   },
   {
    "id": "huashan",
@@ -1684,11 +2938,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/huashan-1.jpg",
+    "img/huashan-2.jpg",
+    "img/huashan-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 34.477,
+   "lon": 110.0797,
+   "bild_credits": [
+    {
+     "autor": "NOMADasaurus",
+     "seite": "https://www.nomadasaurus.com/surviving-the-worlds-most-dangerous-hike-mount-huashan/"
+    },
+    {
+     "autor": "NOMADasaurus",
+     "seite": "https://www.nomadasaurus.com/surviving-the-worlds-most-dangerous-hike-mount-huashan/"
+    },
+    {
+     "autor": "NOMADasaurus",
+     "seite": "https://www.nomadasaurus.com/surviving-the-worlds-most-dangerous-hike-mount-huashan/"
+    }
+   ]
   },
   {
    "id": "jiankou",
@@ -1706,11 +2977,29 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": true,
-   "bilder": [],
+   "bilder": [
+    "img/jiankou-1.jpg",
+    "img/jiankou-2.jpg",
+    "img/jiankou-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 40.4661,
+   "lon": 116.531,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/1653823/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/2815210/"
+    },
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/33899285/"
+    }
+   ],
+   "foto_hinweis": "Fotos zeigen die Mauer bei Huairou, nicht sicher genau Jiankou."
   },
   {
    "id": "glasbruecke",
@@ -1728,11 +3017,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/glasbruecke-1.jpg",
+    "img/glasbruecke-2.jpg",
+    "img/glasbruecke-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 29.399,
+   "lon": 110.698,
+   "bild_credits": [
+    {
+     "autor": "Pexels",
+     "seite": "https://www.pexels.com/photo/37817227/"
+    },
+    {
+     "autor": "Visual China Group via Getty Images / NPR",
+     "seite": "https://www.mprnews.org/story/2016/08/22/npr-photos-worlds-highest-longest-glass-bottomed-bridge"
+    },
+    {
+     "autor": "Fred Dufour, AFP / Getty Images / NPR",
+     "seite": "https://www.mprnews.org/story/2016/08/22/npr-photos-worlds-highest-longest-glass-bottomed-bridge"
+    }
+   ]
   },
   {
    "id": "badain-jaran",
@@ -1751,11 +3057,28 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/badain-jaran-1.jpg",
+    "img/badain-jaran-2.jpg",
+    "img/badain-jaran-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 40.4318,
+   "lon": 101.6815,
+   "bild_credits": [
+    {
+     "autor": "Xinhua",
+     "seite": "https://english.www.gov.cn/news/202408/01/content_WS66aaf0c1c6d0868f4e8e9a71.html"
+    },
+    {
+     "autor": "Xinhua",
+     "seite": "https://english.www.gov.cn/news/202408/01/content_WS66aaf0c1c6d0868f4e8e9a71.html"
+    },
+    {
+     "autor": "Xinhua",
+     "seite": "https://english.www.gov.cn/news/202408/01/content_WS66aaf0c1c6d0868f4e8e9a71.html"
+    }
+   ]
   },
   {
    "id": "yangshuo",
@@ -1774,11 +3097,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/yangshuo-1.jpg",
+    "img/yangshuo-2.jpg",
+    "img/yangshuo-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 24.7837,
+   "lon": 110.4226,
+   "bild_credits": [
+    {
+     "autor": "TravelChinaGuide",
+     "seite": "https://www.travelchinaguide.com/picture/guangxi/yangshuo/"
+    },
+    {
+     "autor": "TravelChinaGuide",
+     "seite": "https://www.travelchinaguide.com/picture/guangxi/yangshuo/"
+    },
+    {
+     "autor": "eTripChina",
+     "seite": "https://etripchina.com/china-guide/yangshuo-customer-photos.htm"
+    }
+   ]
   },
   {
    "id": "duku",
@@ -1796,11 +3136,28 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/duku-1.jpg",
+    "img/duku-2.jpg",
+    "img/duku-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 44.3086,
+   "lon": 84.8817,
+   "bild_credits": [
+    {
+     "autor": "Xinhua",
+     "seite": "https://www.chinaservicesinfo.com/s/202106/22/WS60d13de4498e532e36f5c2a8/scenery-of-duku-highway-in-xinjiang_2.html"
+    },
+    {
+     "autor": "Xinhua",
+     "seite": "https://www.chinadaily.com.cn/a/202305/15/WS6461ab9ea310b6054fad3020.html"
+    },
+    {
+     "autor": "Xinhua",
+     "seite": "https://govt.chinadaily.com.cn/s/202106/22/WS60d13de4498e532e36f5c2a8/scenery-of-duku-highway-in-xinjiang_5.html"
+    }
+   ]
   },
   {
    "id": "hulunbuir",
@@ -1818,11 +3175,29 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/hulunbuir-1.jpg",
+    "img/hulunbuir-2.jpg",
+    "img/hulunbuir-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 49.1323,
+   "lon": 119.7515,
+   "bild_credits": [
+    {
+     "autor": "Jiang Xiwu / China Daily",
+     "seite": "https://regional.chinadaily.com.cn/innermongolia/2022-08/15/c_797817.htm"
+    },
+    {
+     "autor": "Jiang Xiwu / China Daily",
+     "seite": "https://regional.chinadaily.com.cn/innermongolia/2022-08/15/c_797817.htm"
+    },
+    {
+     "autor": "Jiang Xiwu / chinaservicesinfo",
+     "seite": "https://www.chinaservicesinfo.com/s/202208/15/WS62f9da4a498ea274927a0dc3/hulunbuir-boasts-picturesque-autumn-greenery.html"
+    }
+   ],
+   "koordinaten_ungefaehr": true
   },
   {
    "id": "shennongjia",
@@ -1840,11 +3215,29 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/shennongjia-1.jpg",
+    "img/shennongjia-2.jpg",
+    "img/shennongjia-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 31.7426,
+   "lon": 110.6813,
+   "bild_credits": [
+    {
+     "autor": "VCG",
+     "seite": "https://www.chinaservicesinfo.com/s/201812/20/WS5c1ae3d0498ee2f0291e43db/shennongjia-nature-reserve-hubei.html"
+    },
+    {
+     "autor": "VCG",
+     "seite": "https://www.chinaservicesinfo.com/s/201812/20/WS5c1ae3d0498ee2f0291e43db/shennongjia-nature-reserve-hubei.html"
+    },
+    {
+     "autor": "IC / China Daily",
+     "seite": "https://www.chinaservicesinfo.com/s/202111/10/WS618b5ec3498e6a12c120796b/shennongjia-forest-resembles-fairyland-after-snowfall.html"
+    }
+   ],
+   "koordinaten_ungefaehr": true
   },
   {
    "id": "everest-bc",
@@ -1862,11 +3255,28 @@
    "wow": 5,
    "geheimtipp": false,
    "unsicher": true,
-   "bilder": [],
+   "bilder": [
+    "img/everest-bc-1.jpg",
+    "img/everest-bc-2.jpg",
+    "img/everest-bc-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 28.1365,
+   "lon": 86.8555,
+   "bild_credits": [
+    {
+     "autor": "TravelChinaGuide",
+     "seite": "https://www.travelchinaguide.com/picture/tibet/mount-everest/"
+    },
+    {
+     "autor": "TravelChinaGuide",
+     "seite": "https://www.travelchinaguide.com/picture/tibet/mount-everest/"
+    },
+    {
+     "autor": "TravelChinaGuide",
+     "seite": "https://www.travelchinaguide.com/picture/tibet/mount-everest/"
+    }
+   ]
   },
   {
    "id": "haba",
@@ -1884,11 +3294,28 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": true,
-   "bilder": [],
+   "bilder": [
+    "img/haba-1.jpg",
+    "img/haba-2.jpg",
+    "img/haba-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 27.3219,
+   "lon": 100.106,
+   "bild_credits": [
+    {
+     "autor": "Pieter Crow / GoKunming",
+     "seite": "https://www.gokunming.com/en/blog/item/4174/circumambulating_haba_snow_mountain_part_i"
+    },
+    {
+     "autor": "Pieter Crow / GoKunming",
+     "seite": "https://www.gokunming.com/en/blog/item/4174/circumambulating_haba_snow_mountain_part_i"
+    },
+    {
+     "autor": "Pieter Crow / GoKunming",
+     "seite": "https://www.gokunming.com/en/blog/item/4174/circumambulating_haba_snow_mountain_part_i"
+    }
+   ]
   },
   {
    "id": "liziba",
@@ -1906,11 +3333,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/liziba-1.jpg",
+    "img/liziba-2.jpg",
+    "img/liziba-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 29.5557,
+   "lon": 106.5339,
+   "bild_credits": [
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2023-09-09/Rail-line-passes-through-multi-story-building-in-Chongqing-1mXsnfC71oA/index.html"
+    },
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2023-09-09/Rail-line-passes-through-multi-story-building-in-Chongqing-1mXsnfC71oA/index.html"
+    },
+    {
+     "autor": "CGTN",
+     "seite": "https://news.cgtn.com/news/2023-09-09/Rail-line-passes-through-multi-story-building-in-Chongqing-1mXsnfC71oA/index.html"
+    }
+   ]
   },
   {
    "id": "bailong",
@@ -1928,11 +3372,28 @@
    "wow": 4,
    "geheimtipp": false,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/bailong-1.jpg",
+    "img/bailong-2.jpg",
+    "img/bailong-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 29.3512,
+   "lon": 110.4612,
+   "bild_credits": [
+    {
+     "autor": "Into Travel China",
+     "seite": "https://intotravelchina.com/attractions/zhangjiajie_attraction/bailong_elevator.html"
+    },
+    {
+     "autor": "China for Travelers",
+     "seite": "https://chinafortravelers.com/guides/bailong-elevator/"
+    },
+    {
+     "autor": "China for Travelers",
+     "seite": "https://chinafortravelers.com/guides/bailong-elevator/"
+    }
+   ]
   },
   {
    "id": "chaka",
@@ -1950,11 +3411,28 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/chaka-1.jpg",
+    "img/chaka-2.jpg",
+    "img/chaka-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 36.6917,
+   "lon": 99.1137,
+   "bild_credits": [
+    {
+     "autor": "Chinanews.com / China Daily",
+     "seite": "https://global.chinadaily.com.cn/a/201807/31/WS5b5fc40da31031a351e91208_6.html"
+    },
+    {
+     "autor": "cici-chen / Flickr",
+     "seite": "https://www.amusingplanet.com/2016/08/chaka-salt-lake-mirror-of-sky.html"
+    },
+    {
+     "autor": "99581148@N02 / Flickr",
+     "seite": "https://www.amusingplanet.com/2016/08/chaka-salt-lake-mirror-of-sky.html"
+    }
+   ]
   },
   {
    "id": "longhushan",
@@ -1972,11 +3450,29 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/longhushan-1.jpg",
+    "img/longhushan-2.jpg",
+    "img/longhushan-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 28.0679,
+   "lon": 116.9912,
+   "bild_credits": [
+    {
+     "autor": "Weibo (Longhu Mountain Scenic Area)",
+     "seite": "https://www.ourchinastory.com/en/16402"
+    },
+    {
+     "autor": "China Xi'an Tour",
+     "seite": "https://www.chinaxiantour.com/jiangxi-travel-guide/longhu-mountain.html"
+    },
+    {
+     "autor": "Weibo (Longhu Mountain Scenic Area)",
+     "seite": "https://www.ourchinastory.com/en/16402"
+    }
+   ],
+   "foto_hinweis": "Kein Foto zeigt die Hängenden Särge, nur Fluss und Felsen."
   },
   {
    "id": "tianducheng",
@@ -1994,11 +3490,28 @@
    "wow": 3,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/tianducheng-1.jpg",
+    "img/tianducheng-2.jpg",
+    "img/tianducheng-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 30.3898,
+   "lon": 120.2422,
+   "bild_credits": [
+    {
+     "autor": "Aly Song / Reuters",
+     "seite": "https://www.nbcnews.com/news/other/eiffel-tower-replica-looms-over-chinas-parisian-style-ghost-town-f6C10833193"
+    },
+    {
+     "autor": "Aly Song / Reuters",
+     "seite": "https://www.nbcnews.com/news/other/eiffel-tower-replica-looms-over-chinas-parisian-style-ghost-town-f6C10833193"
+    },
+    {
+     "autor": "Aly Song / Reuters",
+     "seite": "https://www.nbcnews.com/news/other/eiffel-tower-replica-looms-over-chinas-parisian-style-ghost-town-f6C10833193"
+    }
+   ]
   },
   {
    "id": "kangbashi",
@@ -2016,11 +3529,30 @@
    "wow": 3,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/kangbashi-1.jpg",
+    "img/kangbashi-2.jpg",
+    "img/kangbashi-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 39.6068,
+   "lon": 109.8546,
+   "bild_credits": [
+    {
+     "autor": "people.com.cn / China Daily",
+     "seite": "https://regional.chinadaily.com.cn/ordosen/en/2019-08/23/c_398127.htm"
+    },
+    {
+     "autor": "people.com.cn / China Daily",
+     "seite": "https://regional.chinadaily.com.cn/ordosen/en/2019-08/23/c_398127.htm"
+    },
+    {
+     "autor": "Yan Zhihong / China Daily",
+     "seite": "https://www.chinaservicesinfo.com/s/202108/03/WS6109005f498e6a12c1203e3a/growth-of-district-in-inner-mongolias-ordos-turning-heads.html"
+    }
+   ],
+   "koordinaten_ungefaehr": true,
+   "foto_hinweis": "Fotos sind klein und zeigen normale Stadtansichten."
   },
   {
    "id": "houtouwan",
@@ -2038,11 +3570,28 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/houtouwan-1.jpg",
+    "img/houtouwan-2.jpg",
+    "img/houtouwan-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 30.7311,
+   "lon": 122.8179,
+   "bild_credits": [
+    {
+     "autor": "Joe Nafis",
+     "seite": "https://www.thisiscolossal.com/2018/04/abandoned-chinese-fishing-village-by-joe-nafis/"
+    },
+    {
+     "autor": "Joe Nafis",
+     "seite": "https://www.thisiscolossal.com/2018/04/abandoned-chinese-fishing-village-by-joe-nafis/"
+    },
+    {
+     "autor": "Joe Nafis",
+     "seite": "https://www.thisiscolossal.com/2018/04/abandoned-chinese-fishing-village-by-joe-nafis/"
+    }
+   ]
   },
   {
    "id": "guoliang",
@@ -2060,11 +3609,28 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/guoliang-1.jpg",
+    "img/guoliang-2.jpg",
+    "img/guoliang-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 35.7271,
+   "lon": 113.6007,
+   "bild_credits": [
+    {
+     "autor": "Sun Nan / People's Daily Online",
+     "seite": "https://en.people.cn/n3/2025/0806/c90000-20349663.html"
+    },
+    {
+     "autor": "Wang Pei / People's Daily Online",
+     "seite": "https://en.people.cn/n3/2025/0806/c90000-20349663.html"
+    },
+    {
+     "autor": "Shang Mingzhen / People's Daily Online",
+     "seite": "https://en.people.cn/n3/2025/0806/c90000-20349663.html"
+    }
+   ]
   },
   {
    "id": "qiantang",
@@ -2082,11 +3648,29 @@
    "wow": 5,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/qiantang-1.jpg",
+    "img/qiantang-2.jpg",
+    "img/qiantang-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 30.4533,
+   "lon": 120.5513,
+   "bild_credits": [
+    {
+     "autor": "tidenews.com.cn / China Daily",
+     "seite": "https://regional.chinadaily.com.cn/ezhejiang/2024-08/22/c_1015312.htm"
+    },
+    {
+     "autor": "tidenews.com.cn / China Daily",
+     "seite": "https://regional.chinadaily.com.cn/ezhejiang/2024-08/22/c_1015312.htm"
+    },
+    {
+     "autor": "tidenews.com.cn / China Daily",
+     "seite": "https://regional.chinadaily.com.cn/ezhejiang/2024-08/22/c_1015312.htm"
+    }
+   ],
+   "koordinaten_ungefaehr": true
   },
   {
    "id": "panjin",
@@ -2104,11 +3688,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/panjin-1.jpg",
+    "img/panjin-2.jpg",
+    "img/panjin-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 41.0006,
+   "lon": 122.075,
+   "bild_credits": [
+    {
+     "autor": "Xinhua / Yao Jianfeng",
+     "seite": "https://en.people.cn/n3/2023/0913/c90000-20071465.html"
+    },
+    {
+     "autor": "Xinhua / Yao Jianfeng",
+     "seite": "https://en.people.cn/n3/2023/0913/c90000-20071465.html"
+    },
+    {
+     "autor": "Xinhua / Yao Jianfeng",
+     "seite": "https://en.people.cn/n3/2023/0913/c90000-20071465.html"
+    }
+   ]
   },
   {
    "id": "kaiping",
@@ -2126,11 +3727,28 @@
    "wow": 4,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/kaiping-1.jpg",
+    "img/kaiping-2.jpg",
+    "img/kaiping-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 22.3114,
+   "lon": 112.5548,
+   "bild_credits": [
+    {
+     "autor": "IC / China Daily",
+     "seite": "https://www.chinaservicesinfo.com/s/202507/25/WS68832488498edec913cdf14d/tourists-explore-kaiping-diaolou-in-guangdong.html"
+    },
+    {
+     "autor": "RKT Vision / Flickr",
+     "seite": "https://blog.flickr.net/all/2011/06/26/the-diaolou/"
+    },
+    {
+     "autor": "Melinda ^..^ / Flickr",
+     "seite": "https://blog.flickr.net/all/2011/06/26/the-diaolou/"
+    }
+   ]
   },
   {
    "id": "dafen",
@@ -2148,11 +3766,28 @@
    "wow": 3,
    "geheimtipp": true,
    "unsicher": false,
-   "bilder": [],
+   "bilder": [
+    "img/dafen-1.jpg",
+    "img/dafen-2.jpg",
+    "img/dafen-3.jpg"
+   ],
    "quellen": [],
-   "lat": null,
-   "lon": null,
-   "bild_credits": []
+   "lat": 22.6126,
+   "lon": 114.1313,
+   "bild_credits": [
+    {
+     "autor": "Xinhua",
+     "seite": "https://www.chinaservicesinfo.com/s/201902/21/WS5c6e2e65498e27e338038e57/oil-painting-village-in-shenzhen-shifts-from-reproduction-to-renovation.html"
+    },
+    {
+     "autor": "Xinhua",
+     "seite": "https://www.chinadaily.com.cn/a/201903/03/WS5c7b4a31a3106c65c34ec6c0_2.html"
+    },
+    {
+     "autor": "VCG / CGTN",
+     "seite": "https://news.cgtn.com/news/3d3d414e354d444f32457a6333566d54/index.html"
+    }
+   ]
   }
  ]
 }

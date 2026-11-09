@@ -1,0 +1,759 @@
+{
+ "zhangjiajie": {
+  "lat": 29.0503,
+  "lon": 110.4786,
+  "treffer": "张家界天门山国家森林公园, 天门山国家森林公园, Yongding, Zhangjiajie, Hunan, China",
+  "typ": "nature_reserve",
+  "approx": false,
+  "suche": "张家界国家森林公园"
+ },
+ "tianmen": {
+  "lat": 29.0499,
+  "lon": 110.4789,
+  "treffer": "天门山, Yongding, Zhangjiajie, Hunan, China",
+  "typ": "peak",
+  "approx": false,
+  "suche": "天门山"
+ },
+ "li-fluss": {
+  "lat": 25.0918,
+  "lon": 110.43,
+  "treffer": "漓江, Guangxi, China",
+  "typ": "river",
+  "approx": true,
+  "suche": "漓江"
+ },
+ "jiuzhaigou": {
+  "lat": 33.1184,
+  "lon": 103.8839,
+  "treffer": "九寨沟风景名胜区, 九寨沟县 གཟི་རྩ་སྡེ་དགུ་རྫོང།, 阿坝藏族羌族自治州 རྔ་བ་བོད་རིགས་ཆ་བ༹ང་རིགས་རང་སྐྱོང་ཁུལ་, Sichuan, 623400, China",
+  "typ": "national_park",
+  "approx": false,
+  "suche": "九寨沟"
+ },
+ "huanglong": {
+  "lat": 32.7806,
+  "lon": 103.9282,
+  "treffer": "黄龙风景名胜区, Sungqu, 阿坝藏族羌族自治州 རྔ་བ་བོད་རིགས་ཆ་བ༹ང་རིགས་རང་སྐྱོང་ཁུལ་, Sichuan, 623300, China",
+  "typ": "national_park",
+  "approx": false,
+  "suche": "黄龙风景名胜区"
+ },
+ "zhangye-danxia": {
+  "lat": 39.0987,
+  "lon": 100.1618,
+  "treffer": "张掖丹霞, 连霍高速, 沙河镇, Linze, 临泽县, 张掖市, Gansu, 734200, China",
+  "typ": "motorway_junction",
+  "approx": false,
+  "suche": "张掖丹霞"
+ },
+ "wulong": {
+  "lat": 29.4399,
+  "lon": 107.7863,
+  "treffer": "天生三桥, 银杏大道, 仙女山街道, 武隆区, Chongqing, China",
+  "typ": "stone",
+  "approx": false,
+  "suche": "武隆天生三桥"
+ },
+ "shilin": {
+  "lat": 24.7612,
+  "lon": 103.4269,
+  "treffer": "石林彝族自治县, Kunming, Yunnan, 652200, China",
+  "typ": "administrative",
+  "approx": true,
+  "suche": "石林"
+ },
+ "detian": {
+  "lat": 22.8559,
+  "lon": 106.7232,
+  "treffer": "德天瀑布 Thác Bản Giốc, 德天村, 大新县, Chongzuo, Guangxi, China",
+  "typ": "waterfall",
+  "approx": false,
+  "suche": "德天瀑布"
+ },
+ "huangguoshu": {
+  "lat": 25.9924,
+  "lon": 105.6662,
+  "treffer": "黃果树瀑布, 镇宁布依族苗族自治县, Anshun, Guizhou, China",
+  "typ": "waterfall",
+  "approx": false,
+  "suche": "黄果树瀑布"
+ },
+ "hukou": {
+  "lat": 36.1487,
+  "lon": 110.4439,
+  "treffer": "壶口瀑布, 壶口镇, 吉县, Linfen, Shanxi, China",
+  "typ": "waterfall",
+  "approx": false,
+  "suche": "壶口瀑布"
+ },
+ "kanas": {
+  "lat": 48.7995,
+  "lon": 87.0273,
+  "treffer": "喀纳斯湖 قاناس كولى, 禾木哈纳斯蒙古民族乡 قومقاناس موڭعۇل ۇلتتىق اۋىلى ᠬᠣᠮ ᠬᠠᠨᠠᠰ ᠮᠣᠩᠭᠣᠯ ᠦᠨᠳᠦᠰᠦᠲᠡᠨ ᠦ ᠰᠢᠶᠠᠩ, 布尔津县 بۋىرشىن اۋدانى, Altay,",
+  "typ": "lake",
+  "approx": false,
+  "suche": "喀纳斯湖"
+ },
+ "xiapu": {
+  "lat": 26.8318,
+  "lon": 119.9857,
+  "treffer": "Xiapu, Ningde, Fujian, China",
+  "typ": "administrative",
+  "approx": false,
+  "suche": "霞浦县"
+ },
+ "wanfenglin": {
+  "lat": 25.017,
+  "lon": 104.9211,
+  "treffer": "万峰林街道, Xingyi, Qianxinan, Guizhou, China",
+  "approx": true,
+  "suche": "万峰林街道"
+ },
+ "dongchuan": {
+  "lat": 25.9371,
+  "lon": 103.0789,
+  "treffer": "东川红土地, 东川区, Kunming, 东川区, Yunnan, China",
+  "typ": "attraction",
+  "approx": false,
+  "suche": "东川红土地"
+ },
+ "fanjingshan": {
+  "lat": 27.9194,
+  "lon": 108.6921,
+  "treffer": "梵净山, 印江土家族苗族自治县, 铜仁市, Guizhou, 558000, China",
+  "typ": "peak",
+  "approx": false,
+  "suche": "梵净山"
+ },
+ "panda-chengdu": {
+  "lat": 30.7432,
+  "lon": 104.1329,
+  "treffer": "Chengdu Forschungsbasis für die Zucht des Großen Pandas, 1375, 熊猫大道, 白莲池街道, 成华区, Chengdu, Sichuan, 610081, China",
+  "typ": "zoo",
+  "approx": false,
+  "suche": "成都大熊猫繁育研究基地"
+ },
+ "longji": {
+  "lat": 25.7274,
+  "lon": 110.0675,
+  "treffer": "龙脊梯田风景名胜区售票处, X042, 龙胜各族自治县, Guilin, Guangxi, China",
+  "typ": "ticket",
+  "approx": false,
+  "suche": "龙脊梯田"
+ },
+ "yuanyang": {
+  "lat": 23.0975,
+  "lon": 102.7845,
+  "treffer": "Hani-Reisterrassen, 联办厂, 元阳县, 红河哈尼族彝族自治州, Yunnan, China",
+  "typ": "nature_reserve",
+  "approx": false,
+  "suche": "元阳梯田"
+ },
+ "tigersprung": {
+  "lat": 27.2044,
+  "lon": 100.1206,
+  "treffer": "虎跳峡, 东环线, 坟坪子, 永胜, 虎跳峡镇, 香格里拉市 སེམས་ཀྱི་ཉི་ཟླ་གྲོང་ཁྱེར།, 迪庆藏族自治州 བདེ་ཆེན་བོད་རིགས་རང་སྐྱོང་ཁུལ།, Yunnan, China",
+  "typ": "attraction",
+  "approx": false,
+  "suche": "虎跳峡"
+ },
+ "huangshan": {
+  "lat": 29.7173,
+  "lon": 118.3325,
+  "treffer": "Huangshan, Anhui, China",
+  "typ": "administrative",
+  "approx": true,
+  "suche": "黄山"
+ },
+ "yading": {
+  "lat": 28.5049,
+  "lon": 100.2603,
+  "treffer": "稻城亚丁国家级自然保护区, Dabba, 甘孜藏族自治州 དཀར་མཛེས་བོད་རིགས་རང་སྐྱོང་ཁུལ།, Sichuan, 627700, China",
+  "typ": "protected_area",
+  "approx": false,
+  "suche": "稻城亚丁"
+ },
+ "sanqingshan": {
+  "lat": 29.0954,
+  "lon": 118.0164,
+  "treffer": "三清山, S26, 白沙关, Dexing, Shangrao, Jiangxi, China",
+  "typ": "motorway_junction",
+  "approx": false,
+  "suche": "三清山"
+ },
+ "emeishan": {
+  "lat": 29.5227,
+  "lon": 103.3369,
+  "treffer": "Emei Shan, Emeishan, Leshan, Sichuan, China",
+  "typ": "mountain_range",
+  "approx": true,
+  "suche": "峨眉山"
+ },
+ "siguniang": {
+  "lat": 30.9956,
+  "lon": 102.8309,
+  "treffer": "四姑娘山镇, 小金县 བཙན་ལྷ་རྫོང་།, 阿坝藏族羌族自治州 རྔ་བ་བོད་རིགས་ཆ་བ༹ང་རིགས་རང་སྐྱོང་ཁུལ་, Sichuan, 624200, China",
+  "typ": "town",
+  "approx": true,
+  "suche": "四姑娘山"
+ },
+ "enshi": {
+  "lat": 30.4242,
+  "lon": 109.1747,
+  "treffer": "恩施大峡谷, 麦里, 恩施市, Enshi, Hubei, China",
+  "typ": "nature_reserve",
+  "approx": false,
+  "suche": "恩施大峡谷"
+ },
+ "taishan": {
+  "lat": 36.2088,
+  "lon": 117.1223,
+  "treffer": "国家风景名胜区碑, 红门路, 虎山, 岱宗坊, 泰前街道, 泰山区, Tai'an, Shandong, 271000, China",
+  "typ": "monument",
+  "approx": false,
+  "suche": "泰山风景名胜区"
+ },
+ "wuyishan": {
+  "lat": 27.759,
+  "lon": 118.0298,
+  "treffer": "Wuyishan, Nanping, Fujian, 354300, China",
+  "typ": "administrative",
+  "approx": true,
+  "suche": "武夷山"
+ },
+ "jinshanling": {
+  "lat": 40.6845,
+  "lon": 117.2803,
+  "treffer": "金山岭长城, 大广高速公路, 滦平县, Chengde, Hebei, China",
+  "typ": "motorway_junction",
+  "approx": false,
+  "suche": "金山岭长城"
+ },
+ "yubeng": {
+  "lat": 28.3691,
+  "lon": 98.8201,
+  "treffer": "雨崩隆曲, 云岭乡, 德钦县 བདེ་ཆེན་རྫོང་།, 迪庆藏族自治州 བདེ་ཆེན་བོད་རིགས་རང་སྐྱོང་ཁུལ།, Yunnan, China",
+  "typ": "stream",
+  "approx": false,
+  "suche": "雨崩村"
+ },
+ "sonne-mond-pagoden": {
+  "lat": 25.2751,
+  "lon": 110.2902,
+  "treffer": "杉湖, 象山街道, 象山区, Guilin, Guangxi, China",
+  "typ": "lake",
+  "approx": false,
+  "suche": "杉湖, 桂林"
+ },
+ "verbotene-stadt": {
+  "lat": 39.9173,
+  "lon": 116.3908,
+  "treffer": "Verbotene Stadt, 首都功能核心区, 东城区, Peking, 100010, China",
+  "typ": "historic",
+  "approx": false,
+  "suche": "故宫"
+ },
+ "himmelstempel": {
+  "lat": 39.8799,
+  "lon": 116.4029,
+  "treffer": "Himmelstempel, 首都功能核心区, 东城区, Peking, 100010, China",
+  "typ": "park",
+  "approx": false,
+  "suche": "天坛"
+ },
+ "terrakotta": {
+  "lat": 34.3918,
+  "lon": 109.2822,
+  "treffer": "兵马俑, 秦陵北路, 临潼区, Xi'an, Shaanxi, China",
+  "typ": "bus_stop",
+  "approx": false,
+  "suche": "兵马俑"
+ },
+ "haengendes-kloster": {
+  "lat": 39.6597,
+  "lon": 113.708,
+  "treffer": "Xuankong Si, 天神线, 翠屏社区, 永安镇, 浑源县, Datong, Shanxi, China",
+  "typ": "place_of_worship",
+  "approx": false,
+  "suche": "悬空寺"
+ },
+ "leshan": {
+  "lat": 29.5469,
+  "lon": 103.7693,
+  "treffer": "Buddha von Leshan, 九曲栈道, 大佛街道, 市中区, Leshan, Sichuan, 614000, China",
+  "typ": "monument",
+  "approx": false,
+  "suche": "乐山大佛"
+ },
+ "longmen": {
+  "lat": 34.5571,
+  "lon": 112.4707,
+  "treffer": "Longmen-Grotten, 龙门大桥, 河东社区, 龙门石窟街道, Luolong, Luoyang, Henan, China",
+  "typ": "attraction",
+  "approx": false,
+  "suche": "龙门石窟"
+ },
+ "mogao": {
+  "lat": 40.0373,
+  "lon": 94.8042,
+  "treffer": "Mogao-Grotten, 慈氏塔广场, 月牙泉镇, Dunhuang, 酒泉市, Gansu, 736200, China",
+  "typ": "archaeological_site",
+  "approx": false,
+  "suche": "莫高窟"
+ },
+ "potala": {
+  "lat": 29.6576,
+  "lon": 91.117,
+  "treffer": "Potala-Palast, 康昂北路东段, 吉崩岗街道, 城关区 ཁྲིན་ཀོན་ཆུས།, Lhasa, Xizang, 850000, China",
+  "typ": "castle",
+  "approx": false,
+  "suche": "布达拉宫"
+ },
+ "shaolin": {
+  "lat": 34.5084,
+  "lon": 112.9352,
+  "treffer": "少林寺, Z011, Dengfeng, Zhengzhou, Henan, China",
+  "typ": "place_of_worship",
+  "approx": false,
+  "suche": "少林寺, 登封"
+ },
+ "tulou": {
+  "lat": 24.5869,
+  "lon": 117.0558,
+  "treffer": "田螺坑土楼群, Nanjing, Zhangzhou, Fujian, China",
+  "approx": false,
+  "suche": "田螺坑, 南靖"
+ },
+ "pingyao": {
+  "lat": 37.1547,
+  "lon": 112.1434,
+  "treffer": "平遥古城, 文景大道, 平遥县, Jinzhong, Shanxi, 031100, China",
+  "typ": "station",
+  "approx": false,
+  "suche": "平遥古城"
+ },
+ "fenghuang": {
+  "lat": 28.0205,
+  "lon": 109.5992,
+  "treffer": "凤凰古城, 杭瑞高速, 吉信镇, Fenghuang, Xiangxi, Hunan, China",
+  "typ": "station",
+  "approx": false,
+  "suche": "凤凰古城"
+ },
+ "labrang": {
+  "lat": 35.194,
+  "lon": 102.5064,
+  "treffer": "Labrang-Kloster, 桑曲西路, 拉卜楞镇 བླ་བྲང་གྲོང་རྡལ།, Sangqe, 夏河县 བསང་ཆུ་རྫོང་།, 甘南藏族自治州 ཀན་ལྷོ་བོད་རིགས་རང་སྐྱོང་ཁུལ།, Gansu, C",
+  "typ": "place_of_worship",
+  "approx": false,
+  "suche": "拉卜楞寺"
+ },
+ "maijishan": {
+  "lat": 34.3517,
+  "lon": 106.004,
+  "treffer": "Maijishan-Grotten, X444, 贾家河, 麦积镇, 麦积区, 天水市, Gansu, China",
+  "typ": "attraction",
+  "approx": false,
+  "suche": "麦积山石窟"
+ },
+ "wudang": {
+  "lat": 32.4008,
+  "lon": 111.0045,
+  "treffer": "武当山, 丹江口市, Shiyan, Hubei, China",
+  "typ": "peak",
+  "approx": false,
+  "suche": "武当山"
+ },
+ "xijiang": {
+  "lat": 26.4955,
+  "lon": 108.1702,
+  "treffer": "西江千户苗寨, X886, 西江镇, 雷山县, Qiandongnan, Guizhou, China",
+  "typ": "attraction",
+  "approx": false,
+  "suche": "西江千户苗寨"
+ },
+ "suzhou-gaerten": {
+  "lat": 31.3264,
+  "lon": 120.6247,
+  "treffer": "拙政园, 平家巷, 拙政园社区, 平江街道, Gusu, Suzhou, Jiangsu, 215005, China",
+  "typ": "garden",
+  "approx": false,
+  "suche": "拙政园"
+ },
+ "chongqing": {
+  "lat": 29.5651,
+  "lon": 106.5753,
+  "treffer": "洪崖洞, 沧白路, 朝天门街道, 渝中区, Chongqing, 400013, China",
+  "typ": "retail",
+  "approx": false,
+  "suche": "洪崖洞"
+ },
+ "shanghai-skyline": {
+  "lat": 31.2353,
+  "lon": 121.4876,
+  "treffer": "Bund, 新北门, 外滩街道, Shanghai, Huangpu, Shanghai, 200002, China",
+  "typ": "pedestrian",
+  "approx": false,
+  "suche": "外滩"
+ },
+ "shenzhen-rad": {
+  "lat": 22.5246,
+  "lon": 113.988,
+  "treffer": "深圳湾公园, 滨海大道辅路, 金城社区, 沙头街道, Futian, Shenzhen, Guangdong, 518000, China",
+  "typ": "stop",
+  "approx": false,
+  "suche": "深圳湾公园"
+ },
+ "peking-hutongs": {
+  "lat": 39.9323,
+  "lon": 116.3977,
+  "treffer": "南锣鼓巷, 地安门东大街, 福祥社区, 交道口街道, 首都功能核心区, 东城区, Peking, 100010, China",
+  "typ": "station",
+  "approx": false,
+  "suche": "南锣鼓巷"
+ },
+ "hongkong": {
+  "lat": 22.276,
+  "lon": 114.1455,
+  "treffer": "扯旗山 Victoria Peak, Hongkong, China",
+  "typ": "peak",
+  "approx": false,
+  "suche": "太平山"
+ },
+ "canton-tower": {
+  "lat": 23.109,
+  "lon": 113.3191,
+  "treffer": "广州塔, 阅江西路, 赤岗街道, Haizhu, Guangzhou, Guangdong, 510310, China",
+  "typ": "tower",
+  "approx": false,
+  "suche": "广州塔"
+ },
+ "binhai-bibliothek": {
+  "lat": 39.0164,
+  "lon": 117.6814,
+  "treffer": "天津滨海文化中心, 滨海新区, Tianjin",
+  "approx": false,
+  "suche": "Binhai Cultural Center"
+ },
+ "harbin-oper": {
+  "lat": 45.8077,
+  "lon": 126.5815,
+  "treffer": "哈尔滨大剧院, 太阳岛街道, 松安街道, 松北区, Harbin, 香坊区, Heilongjiang, 150000, China",
+  "typ": "commercial",
+  "approx": false,
+  "suche": "哈尔滨大剧院"
+ },
+ "datang-everbright": {
+  "lat": 34.2155,
+  "lon": 108.96,
+  "treffer": "大唐不夜城, 大雁塔街道, 雁塔区, Xi'an, Shaanxi, China",
+  "typ": "retail",
+  "approx": false,
+  "suche": "大唐不夜城"
+ },
+ "meixihu": {
+  "lat": 28.1999,
+  "lon": 112.9015,
+  "treffer": "梅溪湖国际文化艺术中心, 麓景路, 天顶街道, Yuelu, 湘江新区, Yuelu, Changsha, Hunan, 410205, China",
+  "typ": "arts_centre",
+  "approx": false,
+  "suche": "梅溪湖国际文化艺术中心"
+ },
+ "westsee": {
+  "lat": 30.246,
+  "lon": 120.1431,
+  "treffer": "Westsee, Xihu, Hangzhou, Zhejiang, China",
+  "typ": "lake",
+  "approx": false,
+  "suche": "西湖"
+ },
+ "maglev": {
+  "lat": 31.1996,
+  "lon": 121.5723,
+  "treffer": "Transrapid Shanghai, 芳芯路210弄内, 芳芯路210弄, 蔡家, 花木街道, 中界村, Pudong, Shanghai, 201204, China",
+  "typ": "monorail",
+  "approx": false,
+  "suche": "上海磁浮示范运营线"
+ },
+ "muslimviertel": {
+  "lat": 34.2634,
+  "lon": 108.9389,
+  "treffer": "北院门, 北院门街道, 莲湖区, Xi'an, Shaanxi, 710002, China",
+  "typ": "pedestrian",
+  "approx": false,
+  "suche": "回民街"
+ },
+ "wenheyou": {
+  "lat": 28.1924,
+  "lon": 112.9642,
+  "treffer": "文和友, 36号, 湘江中路, 坡子街街道, 天心区, Changsha, Hunan, 410005, China",
+  "typ": "restaurant",
+  "approx": false,
+  "suche": "文和友"
+ },
+ "mushuihua": {
+  "lat": 25.0087,
+  "lon": 102.7273,
+  "treffer": "木水花野生菌交易市场, 福发路, 双桥村, 玉龙村, 关上街道, 官渡区, Kunming, Yunnan, 650022, China",
+  "typ": "marketplace",
+  "approx": false,
+  "suche": "木水花野生菌交易市场"
+ },
+ "kashgar-basar": {
+  "lat": 39.4666,
+  "lon": 75.99,
+  "treffer": "Kaschgar, Kaxgar, Xinjiang, 844000, China",
+  "typ": "administrative",
+  "approx": false,
+  "suche": "喀什市"
+ },
+ "chengdu-teehaus": {
+  "lat": 30.6594,
+  "lon": 104.0558,
+  "treffer": "鹤鸣茶社, 辛亥保路纪念广场, 祠堂街社区, 少城街道, 青羊区, Chengdu, Sichuan, 610016, China",
+  "typ": "cafe",
+  "approx": false,
+  "suche": "鹤鸣茶社"
+ },
+ "yumcha-guangzhou": {
+  "lat": 23.124,
+  "lon": 113.2307,
+  "treffer": "泮溪酒家, 龙津西路, 昌华街道, Liwan, Guangzhou, Guangdong, 510140, China",
+  "typ": "restaurant",
+  "approx": false,
+  "suche": "泮溪酒家"
+ },
+ "pekingente": {
+  "lat": 39.8953,
+  "lon": 116.3921,
+  "treffer": "全聚德, 30, 前门大街, 大江社区, 前门街道, 首都功能核心区, 东城区, Peking, 100010, China",
+  "typ": "restaurant",
+  "approx": false,
+  "suche": "全聚德, 前门"
+ },
+ "longjing": {
+  "lat": 30.2219,
+  "lon": 120.0981,
+  "treffer": "龙井村, Hangzhou, Zhejiang, 310008, China",
+  "typ": "village",
+  "approx": false,
+  "suche": "龙井村"
+ },
+ "shaxi": {
+  "lat": 26.3195,
+  "lon": 99.852,
+  "treffer": "沙溪镇, 剑川县, 大理白族自治州, Yunnan, 671302, China",
+  "typ": "town",
+  "approx": false,
+  "suche": "沙溪镇, 剑川县"
+ },
+ "yiwu": {
+  "lat": 29.3364,
+  "lon": 120.1019,
+  "treffer": "义乌国际商贸城, 金融六路, 福田街道, Yiwu, Jinhua, Zhejiang, 322000, China",
+  "typ": "marketplace",
+  "approx": false,
+  "suche": "义乌国际商贸城, 义乌"
+ },
+ "nanxiang": {
+  "lat": 31.2289,
+  "lon": 121.488,
+  "treffer": "豫园, 九曲桥, 豫园商城, 小北门, 豫园街道, Shanghai, Huangpu, Shanghai, 200010, China",
+  "typ": "garden",
+  "approx": false,
+  "suche": "豫园"
+ },
+ "hubu-gasse": {
+  "lat": 30.5497,
+  "lon": 114.2927,
+  "treffer": "户部巷, 中华路街道, Wuchang, Wuhan, Hubei, China",
+  "typ": "retail",
+  "approx": false,
+  "suche": "户部巷"
+ },
+ "shunde": {
+  "lat": 22.8055,
+  "lon": 113.2894,
+  "treffer": "Shunde, Foshan, Shunde, Guangdong, China",
+  "typ": "administrative",
+  "approx": true,
+  "suche": "顺德"
+ },
+ "huashan": {
+  "lat": 34.477,
+  "lon": 110.0797,
+  "treffer": "长空栈道, Huayin, Weinan, Shaanxi, China",
+  "typ": "path",
+  "approx": false,
+  "suche": "华山长空栈道"
+ },
+ "jiankou": {
+  "lat": 40.4661,
+  "lon": 116.531,
+  "treffer": "箭扣长城, 八西路, 前栅子, 雁栖镇, Huairou, Peking, China",
+  "typ": "parking",
+  "approx": false,
+  "suche": "箭扣长城"
+ },
+ "glasbruecke": {
+  "lat": 29.399,
+  "lon": 110.698,
+  "treffer": "张家界大峡谷玻璃桥, Cili, Zhangjiajie, Hunan, China",
+  "typ": "footway",
+  "approx": false,
+  "suche": "张家界大峡谷玻璃桥"
+ },
+ "badain-jaran": {
+  "lat": 40.4318,
+  "lon": 101.6815,
+  "treffer": "巴丹吉林沙漠, China",
+  "typ": "sand",
+  "approx": false,
+  "suche": "巴丹吉林沙漠"
+ },
+ "yangshuo": {
+  "lat": 24.7837,
+  "lon": 110.4226,
+  "treffer": "遇龙河, 阳朔县, Guilin, Guangxi, China",
+  "typ": "river",
+  "approx": false,
+  "suche": "阳朔遇龙河"
+ },
+ "duku": {
+  "lat": 44.3086,
+  "lon": 84.8817,
+  "treffer": "独库公路, 金山路街道, 独山子区 مايتاغ رايونى, Karamay, Xinjiang, 833600, China",
+  "typ": "unclassified",
+  "approx": false,
+  "suche": "独库公路"
+ },
+ "hulunbuir": {
+  "lat": 49.1323,
+  "lon": 119.7515,
+  "treffer": "草原街, 巴彦托海镇, Autonomes Banner der Ewenken, Hulunbuir, Innere Mongolei, China",
+  "typ": "tertiary",
+  "approx": true,
+  "suche": "呼伦贝尔草原"
+ },
+ "shennongjia": {
+  "lat": 31.7426,
+  "lon": 110.6813,
+  "treffer": "神农架林区, Shennongjia, Hubei, China",
+  "typ": "city",
+  "approx": true,
+  "suche": "神农架"
+ },
+ "everest-bc": {
+  "lat": 28.1365,
+  "lon": 86.8555,
+  "treffer": "珠峰大本营, Zhaxizom, 定日县 དིང་རི་རྫོང།, Shigatse, Xizang, 858200, China",
+  "typ": "locality",
+  "approx": false,
+  "suche": "珠峰大本营"
+ },
+ "haba": {
+  "lat": 27.3219,
+  "lon": 100.106,
+  "treffer": "哈巴雪山, 虎跳峡镇, 香格里拉市 སེམས་ཀྱི་ཉི་ཟླ་གྲོང་ཁྱེར།, 迪庆藏族自治州 བདེ་ཆེན་བོད་རིགས་རང་སྐྱོང་ཁུལ།, Yunnan, China",
+  "typ": "peak",
+  "approx": false,
+  "suche": "哈巴雪山"
+ },
+ "liziba": {
+  "lat": 29.5557,
+  "lon": 106.5339,
+  "treffer": "李子坝, 李子坝正街, 上清寺街道, 渝中区, Chongqing, 400015, China",
+  "typ": "stop",
+  "approx": false,
+  "suche": "李子坝"
+ },
+ "bailong": {
+  "lat": 29.3512,
+  "lon": 110.4612,
+  "treffer": "百龙天梯, 金鞭溪步行道, 锣鼓塔街道, Wulingyuan, Zhangjiajie, Hunan, China",
+  "typ": "elevator",
+  "approx": false,
+  "suche": "百龙天梯"
+ },
+ "chaka": {
+  "lat": 36.6917,
+  "lon": 99.1137,
+  "treffer": "茶卡盐湖, Ulan, Haixi, Qinghai, 817100, China",
+  "typ": "lake",
+  "approx": false,
+  "suche": "茶卡盐湖"
+ },
+ "longhushan": {
+  "lat": 28.0679,
+  "lon": 116.9912,
+  "treffer": "Longhu Shan, 上清镇, 龙虎山区, Guixi, Yingtan, Jiangxi, China",
+  "typ": "peak",
+  "approx": false,
+  "suche": "龙虎山, 鹰潭"
+ },
+ "tianducheng": {
+  "lat": 30.3898,
+  "lon": 120.2422,
+  "treffer": "天都城, 星桥街道, Linping, Hangzhou, Zhejiang, China",
+  "typ": "neighbourhood",
+  "approx": false,
+  "suche": "天都城"
+ },
+ "kangbashi": {
+  "lat": 39.6068,
+  "lon": 109.8546,
+  "treffer": "Kang Baschi, 鄂尔多斯市, Innere Mongolei, 017010, China",
+  "typ": "administrative",
+  "approx": true,
+  "suche": "康巴什"
+ },
+ "houtouwan": {
+  "lat": 30.7311,
+  "lon": 122.8179,
+  "treffer": "后头湾, 舟山群岛新区, Shengsi, Zhoushan, Zhejiang, China",
+  "typ": "bay",
+  "approx": false,
+  "suche": "后头湾, 嵊泗"
+ },
+ "guoliang": {
+  "lat": 35.7271,
+  "lon": 113.6007,
+  "treffer": "郭亮挂壁公路, 郭亮村, Huixian, 新乡市, Henan, China",
+  "typ": "unclassified",
+  "approx": false,
+  "suche": "郭亮挂壁公路"
+ },
+ "qiantang": {
+  "lat": 30.4533,
+  "lon": 120.5513,
+  "treffer": "盐官镇, Haining, Jiaxing, Zhejiang, China",
+  "typ": "administrative",
+  "approx": true,
+  "suche": "盐官镇, 海宁"
+ },
+ "panjin": {
+  "lat": 41.0006,
+  "lon": 122.075,
+  "treffer": "盘锦市公安局大洼分局, 红海滩大街, 大洼街道, 大洼区, Panjin, Liaoning, China",
+  "typ": "police",
+  "approx": false,
+  "suche": "红海滩, 盘锦"
+ },
+ "kaiping": {
+  "lat": 22.3114,
+  "lon": 112.5548,
+  "treffer": "碉楼, 中阳信高速, 百合镇, Kaiping, Jiangmen, Guangdong, China",
+  "typ": "tower",
+  "approx": false,
+  "suche": "开平碉楼"
+ },
+ "dafen": {
+  "lat": 22.6126,
+  "lon": 114.1313,
+  "treffer": "大芬油画村, 布吉街道, Longgang, Shenzhen, Guangdong, 518100, China",
+  "typ": "retail",
+  "approx": false,
+  "suche": "大芬油画村"
+ }
+}

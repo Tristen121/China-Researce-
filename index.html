@@ -247,6 +247,7 @@ main { padding-block: 24px 64px; }
         <p class="desc">${esc(o.kurzbeschreibung)}</p>
         <ul class="acts">${(o.aktivitaeten || []).map(a => `<li>${esc(a)}</li>`).join("")}</ul>
         <div class="foto"><b>Foto-Tipp:</b> ${esc(o.foto_tipp)}</div>
+        ${o.foto_hinweis ? `<div class="warn">${esc(o.foto_hinweis)}</div>` : ""}
         ${o.unsicher ? '<div class="warn">Einzelne Angaben unsicher, bitte vor Ort oder online prüfen.</div>' : ""}
         <div class="src">${(o.quellen || []).map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))}</a>`).join("")}</div>
         <div class="vote">
@@ -370,21 +371,42 @@ main { padding-block: 24px 64px; }
     const w = $("#f-wow"); w.setAttribute("aria-pressed", f.wow > 0); w.textContent = f.wow ? `Wow: ab ${f.wow}` : "Wow: alle";
   }
 
-  function exportJSON() {
+  function showSheet(text, msg) {
+    $("#sheet-text").value = text;
+    $("#sheet-msg").textContent = msg;
+    $("#sheet").hidden = false;
+  }
+
+  async function exportJSON() {
     const data = { exportiert: new Date().toISOString(), anzahl_orte: orte.length, bewertungen: votes };
     const text = JSON.stringify(data, null, 2);
-    let downloaded = false;
+    // Im claude.ai-Artifact: Download ueber die downloads-Faehigkeit
+    if (window.claude && typeof window.claude.use === "function") {
+      let dl = null;
+      try { dl = await window.claude.use("downloads"); } catch (e) { dl = null; }
+      if (dl) {
+        try {
+          await dl.save({ filename: "bewertungen.json", data: text });
+          $("#export").textContent = "Exportiert";
+          setTimeout(() => { $("#export").textContent = "Export"; }, 2500);
+          return;
+        } catch (e) {
+          if (e && e.code === "declined") return;
+        }
+      }
+      showSheet(text, "Download ist hier nicht möglich. Text kopieren und als bewertungen.json ins Repo legen.");
+      return;
+    }
+    // Normaler Browser: Datei herunterladen
     try {
       const a = document.createElement("a");
       a.href = URL.createObjectURL(new Blob([text], { type: "application/json" }));
       a.download = "bewertungen.json"; document.body.appendChild(a); a.click(); a.remove();
-      downloaded = true;
-    } catch (e) {}
-    $("#sheet-text").value = text;
-    $("#sheet-msg").textContent = downloaded
-      ? "Der Download wurde gestartet. Falls keine Datei ankommt: Text kopieren und als bewertungen.json ins Repo legen."
-      : "Text kopieren und als bewertungen.json ins Repo legen.";
-    $("#sheet").hidden = false;
+      $("#export").textContent = "Exportiert";
+      setTimeout(() => { $("#export").textContent = "Export"; }, 2500);
+    } catch (e) {
+      showSheet(text, "Download hat nicht geklappt. Text kopieren und als bewertungen.json ins Repo legen.");
+    }
   }
 
   function init(data) {

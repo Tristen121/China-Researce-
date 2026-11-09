@@ -25,6 +25,10 @@ def main():
     for p in sorted(glob.glob(os.path.join(ROOT, "data", "parts", "fotos-*.json"))):
         with open(p) as f:
             fotos.update(json.load(f))
+    def opt(name):
+        q = os.path.join(ROOT, "data", "parts", name)
+        return json.load(open(q)) if os.path.exists(q) else {}
+    koord, quellen, hinweise = opt("koordinaten.json"), opt("quellen.json"), opt("foto-hinweise.json")
     dst = os.path.join(ROOT, "data", "orte.json")
     alt = {o["id"]: o for o in json.load(open(dst))["orte"]} if os.path.exists(dst) else {}
 
@@ -45,9 +49,18 @@ def main():
             neu["bild_credits"] = [{"autor": x.get("credit"), "seite": x.get("seite")} for x in lokal][:4]
         neu["quellen"] = b.get("quellen", [])
         neu["lat"], neu["lon"] = b.get("lat"), b.get("lon")
+        if neu["lat"] is None and o["id"] in koord:
+            k = koord[o["id"]]
+            neu["lat"], neu["lon"] = k["lat"], k["lon"]
+            if k.get("approx"):
+                neu["koordinaten_ungefaehr"] = True
+        if not neu["quellen"] and o["id"] in quellen:
+            neu["quellen"] = quellen[o["id"]].get("quellen", [])
+        if o["id"] in hinweise:
+            neu["foto_hinweis"] = hinweise[o["id"]]
         if o["id"] in alt:
             fertig = dict(alt[o["id"]])
-            for k in ("bilder", "bild_credits", "quellen", "lat", "lon"):
+            for k in ("bilder", "bild_credits", "quellen", "lat", "lon", "koordinaten_ungefaehr", "foto_hinweis"):
                 if not fertig.get(k) and neu.get(k):
                     fertig[k] = neu[k]
             neu = fertig
