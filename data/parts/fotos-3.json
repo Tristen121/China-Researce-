@@ -1,0 +1,325 @@
+{
+ "potala": [
+  {
+   "datei": "img/potala-1.jpg",
+   "seite": "https://pixabay.com/photos/potala-palace-blue-sky-palace-tibet-2177845/",
+   "credit": "Lfish / Pixabay"
+  },
+  {
+   "datei": "img/potala-2.jpg",
+   "seite": "https://pixabay.com/photos/palace-tibet-tibetan-potala-palace-435745/",
+   "credit": "sovietmole / Pixabay"
+  },
+  {
+   "datei": "img/potala-3.jpg",
+   "seite": "https://pixabay.com/photos/lhasa-tibet-potala-palace-780183/",
+   "credit": "kaowaya / Pixabay"
+  }
+ ],
+ "shaolin": [
+  {
+   "datei": "img/shaolin-1.jpg",
+   "seite": "https://us.trip.com/moments/detail/dengfeng-1014-152092060/",
+   "credit": "Trip.com Moments (Nutzerfoto)"
+  },
+  {
+   "datei": "img/shaolin-2.jpg",
+   "seite": "https://pixabay.com/photos/schaolin-monastery-kung-fu-873569/",
+   "credit": "Chermano / Pixabay"
+  },
+  {
+   "datei": "img/shaolin-3.jpg",
+   "seite": "https://pixabay.com/photos/cemetery-shoalin-china-539703/",
+   "credit": "bdpeterson / Pixabay"
+  }
+ ],
+ "tulou": [
+  {
+   "datei": "img/tulou-1.jpg",
+   "seite": "https://pixabay.com/photos/china-fujian-tulou-building-circle-1819202/",
+   "credit": "ymg012 / Pixabay"
+  },
+  {
+   "datei": "img/tulou-2.jpg",
+   "seite": "https://pixabay.com/photos/yongding-earth-building-country-5430574/",
+   "credit": "cherry19921025 / Pixabay"
+  },
+  {
+   "datei": "img/tulou-3.jpg",
+   "seite": "https://pixabay.com/photos/fujian-tulou-lantern-2556375/",
+   "credit": "yyyoe / Pixabay"
+  }
+ ],
+ "pingyao": [
+  {
+   "datei": "img/pingyao-1.jpg",
+   "seite": "https://unsplash.com/s/photos/pingyao",
+   "credit": "Filiz Elaerts / Unsplash"
+  },
+  {
+   "datei": "img/pingyao-2.jpg",
+   "seite": "https://unsplash.com/s/photos/pingyao",
+   "credit": "Jun Ren / Unsplash"
+  },
+  {
+   "datei": "img/pingyao-3.jpg",
+   "seite": "https://unsplash.com/s/photos/pingyao",
+   "credit": "Jun Ren / Unsplash"
+  }
+ ],
+ "fenghuang": [
+  {
+   "datei": "img/fenghuang-1.jpg",
+   "seite": "https://unsplash.com/s/photos/fenghuang",
+   "credit": "Diem Nhi Nguyen / Unsplash"
+  },
+  {
+   "datei": "img/fenghuang-2.jpg",
+   "seite": "https://unsplash.com/s/photos/fenghuang",
+   "credit": "Theodor Lundqvist / Unsplash"
+  },
+  {
+   "datei": "img/fenghuang-3.jpg",
+   "seite": "https://unsplash.com/s/photos/fenghuang",
+   "credit": "Sergio Kian / Unsplash"
+  }
+ ],
+ "labrang": [
+  {
+   "datei": "img/labrang-1.jpg",
+   "seite": "https://pixabay.com/photos/labrang-is-tibetan-buddhism-gannan-1330181/",
+   "credit": "zen_zhuwei / Pixabay"
+  },
+  {
+   "datei": "img/labrang-2.jpg",
+   "seite": "https://pixabay.com/photos/labrang-monastery-tibetan-buddhism-1330172/",
+   "credit": "zen_zhuwei / Pixabay"
+  },
+  {
+   "datei": "img/labrang-3.jpg",
+   "seite": "https://pixabay.com/photos/labrang-monastery-tibetan-buddhism-1330171/",
+   "credit": "zen_zhuwei / Pixabay"
+  }
+ ],
+ "maijishan": [
+  {
+   "datei": "img/maijishan-1.jpg",
+   "seite": "https://pixabay.com/photos/mountai-grotto-buddha-statue-3765889/",
+   "credit": "ttchen2012 / Pixabay"
+  },
+  {
+   "datei": "img/maijishan-2.jpg",
+   "seite": "https://pixabay.com/photos/mountai-grotto-buddha-statue-3765887/",
+   "credit": "ttchen2012 / Pixabay"
+  },
+  {
+   "datei": "img/maijishan-3.jpg",
+   "seite": "https://pixabay.com/photos/mountai-grotto-buddha-statue-3765904/",
+   "credit": "ttchen2012 / Pixabay"
+  }
+ ],
+ "wudang": [
+  {
+   "datei": "img/wudang-1.jpg",
+   "seite": "https://pixabay.com/photos/cloud-sea-out-wudang-golden-top-2653678/",
+   "credit": "neo595 / Pixabay"
+  },
+  {
+   "datei": "img/wudang-2.jpg",
+   "seite": "https://www.chinafetching.com/wudang-mountains",
+   "credit": "Offizielle Wudang-Website (via China Fetching)"
+  },
+  {
+   "datei": "img/wudang-3.jpg",
+   "seite": "https://www.chinafetching.com/wudang-mountains",
+   "credit": "China Fetching"
+  }
+ ],
+ "xijiang": [
+  {
+   "datei": "img/xijiang-1.jpg",
+   "seite": "https://pixabay.com/photos/xijiang-qianhu-miao-village-night-7395042/",
+   "credit": "gdmoonkiller / Pixabay"
+  },
+  {
+   "datei": "img/xijiang-2.jpg",
+   "seite": "https://pixabay.com/photos/guizhou-xijiang-2682289/",
+   "credit": "Robinliu / Pixabay"
+  },
+  {
+   "datei": "img/xijiang-3.jpg",
+   "seite": "https://pixabay.com/photos/guizhou-xijiang-the-scenery-2682268/",
+   "credit": "Robinliu / Pixabay"
+  }
+ ],
+ "suzhou-gaerten": [
+  {
+   "datei": "img/suzhou-gaerten-1.jpg",
+   "seite": "https://pixabay.com/photos/humble-administrators-garden-autumn-788875/",
+   "credit": "butterflying05130 / Pixabay"
+  },
+  {
+   "datei": "img/suzhou-gaerten-2.jpg",
+   "seite": "https://pixabay.com/photos/suzhou-gardens-pathway-3523334/",
+   "credit": "user1449559291 / Pixabay"
+  },
+  {
+   "datei": "img/suzhou-gaerten-3.jpg",
+   "seite": "https://pixabay.com/photos/garden-suzhou-jiangnan-china-2374285/",
+   "credit": "kuimoshen / Pixabay"
+  }
+ ],
+ "chongqing": [
+  {
+   "datei": "img/chongqing-1.jpg",
+   "seite": "https://unsplash.com/s/photos/chongqing",
+   "credit": "Jerry Wang / Unsplash"
+  },
+  {
+   "datei": "img/chongqing-2.jpg",
+   "seite": "https://unsplash.com/s/photos/chongqing",
+   "credit": "Jerry Wang / Unsplash"
+  },
+  {
+   "datei": "img/chongqing-3.jpg",
+   "seite": "https://unsplash.com/s/photos/chongqing",
+   "credit": "Harrison Qi / Unsplash"
+  }
+ ],
+ "shanghai-skyline": [
+  {
+   "datei": "img/shanghai-skyline-1.jpg",
+   "seite": "https://unsplash.com/s/photos/shanghai-skyline",
+   "credit": "Freeman Zhou / Unsplash"
+  },
+  {
+   "datei": "img/shanghai-skyline-2.jpg",
+   "seite": "https://unsplash.com/s/photos/shanghai-skyline",
+   "credit": "Zhou Xian / Unsplash"
+  },
+  {
+   "datei": "img/shanghai-skyline-3.jpg",
+   "seite": "https://unsplash.com/s/photos/shanghai-skyline",
+   "credit": "Jeff Chang / Unsplash"
+  }
+ ],
+ "shenzhen-rad": [
+  {
+   "datei": "img/shenzhen-rad-1.jpg",
+   "seite": "https://unsplash.com/s/photos/shenzhen",
+   "credit": "T Y / Unsplash"
+  },
+  {
+   "datei": "img/shenzhen-rad-2.jpg",
+   "seite": "https://unsplash.com/s/photos/shenzhen",
+   "credit": "ダモ リ / Unsplash"
+  },
+  {
+   "datei": "img/shenzhen-rad-3.jpg",
+   "seite": "https://unsplash.com/s/photos/shenzhen",
+   "credit": "ダモ リ / Unsplash"
+  }
+ ],
+ "peking-hutongs": [
+  {
+   "datei": "img/peking-hutongs-1.jpg",
+   "seite": "https://unsplash.com/s/photos/hutong",
+   "credit": "Quan Jing / Unsplash"
+  },
+  {
+   "datei": "img/peking-hutongs-2.jpg",
+   "seite": "https://unsplash.com/s/photos/hutong",
+   "credit": "ran liwen / Unsplash"
+  },
+  {
+   "datei": "img/peking-hutongs-3.jpg",
+   "seite": "https://unsplash.com/s/photos/hutong",
+   "credit": "Andy Wang / Unsplash"
+  }
+ ],
+ "hongkong": [
+  {
+   "datei": "img/hongkong-1.jpg",
+   "seite": "https://unsplash.com/s/photos/victoria-peak",
+   "credit": "Simon Zhu / Unsplash"
+  },
+  {
+   "datei": "img/hongkong-2.jpg",
+   "seite": "https://unsplash.com/s/photos/victoria-peak",
+   "credit": "Florian Wehde / Unsplash"
+  },
+  {
+   "datei": "img/hongkong-3.jpg",
+   "seite": "https://unsplash.com/s/photos/victoria-peak",
+   "credit": "John O'Nolan / Unsplash"
+  }
+ ],
+ "canton-tower": [
+  {
+   "datei": "img/canton-tower-1.jpg",
+   "seite": "https://pixabay.com/photos/guangzhou-tower-twilight-night-view-1200842/",
+   "credit": "yumoheart / Pixabay"
+  },
+  {
+   "datei": "img/canton-tower-2.jpg",
+   "seite": "https://unsplash.com/s/photos/canton-tower",
+   "credit": "Liming Wang / Unsplash"
+  },
+  {
+   "datei": "img/canton-tower-3.jpg",
+   "seite": "https://pixabay.com/photos/guangzhou-tower-guangzhou-sunset-7042393/",
+   "credit": "Arvin / Pixabay"
+  }
+ ],
+ "binhai-bibliothek": [
+  {
+   "datei": "img/binhai-bibliothek-1.jpg",
+   "seite": "https://unsplash.com/s/photos/tianjin-binhai-library",
+   "credit": "Nolan Monaghan / Unsplash"
+  },
+  {
+   "datei": "img/binhai-bibliothek-2.jpg",
+   "seite": "https://unsplash.com/s/photos/tianjin-binhai-library",
+   "credit": "Nolan Monaghan / Unsplash"
+  },
+  {
+   "datei": "img/binhai-bibliothek-3.jpg",
+   "seite": "https://unsplash.com/s/photos/tianjin-binhai-library",
+   "credit": "MChe Lee / Unsplash"
+  }
+ ],
+ "harbin-oper": [
+  {
+   "datei": "img/harbin-oper-1.jpg",
+   "seite": "https://unsplash.com/s/photos/harbin-opera-house",
+   "credit": "reisetopia / Unsplash"
+  },
+  {
+   "datei": "img/harbin-oper-2.jpg",
+   "seite": "https://unsplash.com/s/photos/harbin-opera-house",
+   "credit": "Ziang Guo / Unsplash"
+  },
+  {
+   "datei": "img/harbin-oper-3.jpg",
+   "seite": "https://www.designboom.com/architecture/mad-architects-harbin-oopera-house-china-12-16-2015/",
+   "credit": "Adam Mørk (MAD Architects) / designboom"
+  }
+ ],
+ "datang-everbright": [
+  {
+   "datei": "img/datang-everbright-1.jpg",
+   "seite": "https://us.trip.com/moments/detail/xi-an-7-135407869/",
+   "credit": "Trip.com Moments (Nutzerfoto)"
+  },
+  {
+   "datei": "img/datang-everbright-2.jpg",
+   "seite": "https://us.trip.com/moments/detail/xi-an-7-135407869/",
+   "credit": "Trip.com Moments (Nutzerfoto)"
+  },
+  {
+   "datei": "img/datang-everbright-3.jpg",
+   "seite": "https://us.trip.com/moments/detail/xi-an-7-135407869/",
+   "credit": "Trip.com Moments (Nutzerfoto)"
+  }
+ ]
+}
