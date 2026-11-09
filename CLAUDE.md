@@ -55,5 +55,9 @@ Wenn `bewertungen.json` im Repo liegt: lies sie, erkenne Muster in dem, was ich 
 - `tools/merge.py` führt `data/parts/teil-*.json` + `data/parts/bilder.json` zu `data/orte.json` zusammen. Neue Orte für spätere Durchläufe: neue Teil-Datei anlegen, nie bestehende Einträge überschreiben.
 - Ansehen: `index.html` lädt `data/orte.json` per `fetch`. Direkt als Datei geöffnet blockiert der Browser das; dann im Repo `python3 -m http.server` starten und http://localhost:8000 öffnen (oder in der Seite die `orte.json` per Dateiauswahl laden).
 
+## Aktivitäten (Tristan, 2026-11-09)
+- An jedem Ort braucht man Dinge, die man dort **machen** kann. `aktivitaeten`: 4–6 konkrete Punkte, mindestens 2 zum Selbermachen (Wanderroute, Bootsfahrt, Rad, Gericht, Kurs, Nachtmarkt, Übernachtung …), höchstens 1 reines Fotografieren. Details: `data/parts/AKTIVITAETEN-AUFTRAG.md`.
+
 ## Stand
+- Quellen kommen aus `data/parts/quellen.json` (Websuche), Koordinaten aus `data/parts/koordinaten.json` (Nominatim, ungenaue Treffer mit `koordinaten_ungefaehr`).
 - 2026-11-09: Erster Durchlauf, 95 Orte in 7 Kategorien. Texte von Sonnet-Agenten, Faktenprüfung durch einen Opus-Agenten (`data/parts/review.md`).

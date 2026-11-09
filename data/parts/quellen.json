@@ -1,0 +1,667 @@
+{
+ "zhangjiajie": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park",
+   "https://en.wikivoyage.org/wiki/Zhangjiajie_National_Forest_Park"
+  ],
+  "hinweis": null
+ },
+ "tianmen": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Tianmen_Mountain",
+   "https://www.chinatravel.com/zhangjiajie/attraction/tianmen-mountain"
+  ],
+  "hinweis": null
+ },
+ "li-fluss": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Li_River",
+   "https://www.chinahighlights.com/guilin/attraction/li-river.htm"
+  ],
+  "hinweis": null
+ },
+ "jiuzhaigou": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Jiuzhaigou",
+   "https://www.tripchinaguide.com/article-p103-jiuzhaigou-valley-fact-sheet.html"
+  ],
+  "hinweis": null
+ },
+ "huanglong": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Huanglong_Scenic_and_Historic_Interest_Area",
+   "https://whc.unesco.org/document/217064"
+  ],
+  "hinweis": null
+ },
+ "zhangye-danxia": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Zhangye_National_Geopark",
+   "https://www.lonelyplanet.com/china/zhangye/attractions/zhangye-danxia-national-geopark/a/poi-sig/1535881/355967"
+  ],
+  "hinweis": null
+ },
+ "wulong": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Wulong_Karst",
+   "https://en.wikipedia.org/wiki/Three_Natural_Bridges"
+  ],
+  "hinweis": null
+ },
+ "shilin": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Stone_Forest",
+   "https://www.amusingplanet.com/2013/04/shilin-stone-forest-china.html?m=1"
+  ],
+  "hinweis": null
+ },
+ "detian": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Ban_Gioc%E2%80%93Detian_Falls",
+   "https://www.worldatlas.com/falls/ban-gioc-detian-falls.html"
+  ],
+  "hinweis": null
+ },
+ "huangguoshu": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Huangguoshu_Waterfall",
+   "https://chinahighlights.com/anshun/attraction/huangguoshu-waterfall.htm"
+  ],
+  "hinweis": null
+ },
+ "hukou": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Hukou_Waterfalls",
+   "https://www.amusingplanet.com/2015/11/hukou-waterfall-yellow-waterfall.html"
+  ],
+  "hinweis": null
+ },
+ "kanas": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Kanas_Lake",
+   "https://www.chinaeducationaltours.com/guide/xinjiang-kanas-lake.htm"
+  ],
+  "hinweis": null
+ },
+ "xiapu": {
+  "quellen": [
+   "https://imgs.news.cn/english/20241204/7339bbbf2ddb48dfbb41229e07e6a8d8/c.html",
+   "https://thesteepedletterco.beehiiv.com/p/the-xiapu-mudflats"
+  ],
+  "hinweis": "Kein Wikipedia-Artikel zum Watt gefunden; Quellen sind Xinhua-Fotoreportage und Reisebericht zu den Xiapu-Watten."
+ },
+ "wanfenglin": {
+  "quellen": [
+   "https://www.asiaculturaltravel.co.uk/the-forest-of-ten-thousand-peaks/",
+   "https://chinatripedia.com/wanfenglin-forest-of-ten-thousand-peaks-ticket-opening-hours-location-and-highlights/"
+  ],
+  "hinweis": "Kein eigener Wikipedia-Artikel gefunden; Quellen sind Reisetexte zum Wanfenglin (Zehntausend Gipfel)."
+ },
+ "dongchuan": {
+  "quellen": [
+   "https://www.chinatravel.com/kunming/attraction/dongchuan-red-land",
+   "https://www.gokunming.com/en/listings/item/34727/dongchuan-red-land"
+  ],
+  "hinweis": "Kein Wikipedia-Artikel gefunden; Quellen sind Reise- und Ortsführer zur roten Erde von Dongchuan."
+ },
+ "fanjingshan": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Fanjingshan",
+   "https://whc.unesco.org/ES/list/1559"
+  ],
+  "hinweis": null
+ },
+ "panda-chengdu": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Chengdu_Research_Base_of_Giant_Panda_Breeding",
+   "https://www.panda.org.cn/en/research/importance/"
+  ],
+  "hinweis": null
+ },
+ "longji": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Longsheng_Rice_Terraces",
+   "https://www.chinaxiantour.com/longji-rice-terraces.html"
+  ],
+  "hinweis": null
+ },
+ "yuanyang": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Honghe_Hani_Rice_Terraces",
+   "https://whc.unesco.org/document/151777"
+  ],
+  "hinweis": null
+ },
+ "tigersprung": {
+  "quellen": [
+   "https://wikiwand.com/en/Tiger_Leaping_Gorge",
+   "https://www.chinatravel.com/lijiang/attraction/tiger-leaping-gorge"
+  ],
+  "hinweis": null
+ },
+ "huangshan": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Huangshan",
+   "https://en.wikivoyage.org/wiki/Huangshan"
+  ],
+  "hinweis": null
+ },
+ "yading": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Yading",
+   "https://www.chinadiscovery.com/sichuan/daocheng-yading/"
+  ],
+  "hinweis": null
+ },
+ "sanqingshan": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Mount_Sanqing",
+   "https://govt.chinadaily.com.cn/s/201807/09/WS64487cd1498ea274927b8fb7/mount-sanqingshan-national-park.html"
+  ],
+  "hinweis": null
+ },
+ "emeishan": {
+  "quellen": [
+   "https://wikiwand.com/en/Mount_Emei",
+   "https://newworldencyclopedia.org/entry/Mount_Emei"
+  ],
+  "hinweis": null
+ },
+ "siguniang": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Mount_Siguniang",
+   "https://www.tripchinaguide.com/attraction-p113-mount-siguniang.html"
+  ],
+  "hinweis": null
+ },
+ "enshi": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Enshi_Grand_Canyon",
+   "https://travelchinaguide.com/cityguides/hubei/enshi/grand-canyon.htm"
+  ],
+  "hinweis": null
+ },
+ "taishan": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Mt._Tai",
+   "https://www.britannica.com/place/Mount-Tai"
+  ],
+  "hinweis": null
+ },
+ "wuyishan": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Wuyi_Mountains",
+   "https://www.britannica.com/place/Wuyi-Mountains"
+  ],
+  "hinweis": null
+ },
+ "jinshanling": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Jinshanling",
+   "https://fmtv5.freemalaysiatoday.com/category/leisure/2025/11/22/jinshanling-a-fascinating-part-of-chinas-great-wall"
+  ],
+  "hinweis": null
+ },
+ "yubeng": {
+  "quellen": [
+   "https://en.wikivoyage.org/wiki/Yubeng",
+   "https://www.chinatravel.com/shangri-la/attraction/yubeng-village"
+  ],
+  "hinweis": "Kein Wikipedia-Artikel gefunden; Quellen sind Wikivoyage und Reiseführer zum Dorf am Meili-Schneeberg."
+ },
+ "sonne-mond-pagoden": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Sun_and_Moon_Pagodas",
+   "https://www.visitourchina.com/guilin/attraction/sun-moon-pagodas.html"
+  ],
+  "hinweis": null
+ },
+ "verbotene-stadt": {
+  "quellen": [
+   "https://www.wikiwand.com/en/Forbidden_City",
+   "https://en.wikivoyage.org/wiki/Beijing/Forbidden_City"
+  ],
+  "hinweis": null
+ },
+ "himmelstempel": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Tiantan",
+   "https://newworldencyclopedia.org/entry/Temple_of_Heaven"
+  ],
+  "hinweis": null
+ },
+ "terrakotta": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Terracotta_army",
+   "https://www.newworldencyclopedia.org/entry/Terracotta_Army"
+  ],
+  "hinweis": null
+ },
+ "haengendes-kloster": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Hanging_Temple",
+   "https://showcaves.com/english/cn/subterranea/XuanKong.html"
+  ],
+  "hinweis": null
+ },
+ "leshan": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Leshan_Giant_Buddha",
+   "https://www.chinatravel.com/leshan/attraction/leshan-giant-buddha"
+  ],
+  "hinweis": null
+ },
+ "longmen": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Longmen_Grottoes",
+   "https://www.chinaculturetour.com/luoyang/longmen-grottoes.htm"
+  ],
+  "hinweis": null
+ },
+ "mogao": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Mogao_Caves",
+   "https://www.newworldencyclopedia.org/entry/Mogao_Caves"
+  ],
+  "hinweis": null
+ },
+ "potala": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Potala_Palace",
+   "https://www.chinatravel.com/lhasa/attraction/potala-palace"
+  ],
+  "hinweis": null
+ },
+ "shaolin": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Shaolin_Monastery",
+   "https://encyclopediaofbuddhism.org/wiki/Shaolin_Monastery"
+  ],
+  "hinweis": null
+ },
+ "tulou": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Fujian_tulou",
+   "https://whc.unesco.org/document/151784"
+  ],
+  "hinweis": null
+ },
+ "pingyao": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Pingyao",
+   "https://chinaculturetour.com/pingyao/top-attractions/ancient-city-of-pingyao.htm"
+  ],
+  "hinweis": null
+ },
+ "fenghuang": {
+  "quellen": [
+   "https://wikiwand.com/en/articles/Fenghuang_Ancient_Town",
+   "https://www.asiaculturaltravel.co.uk/fenghuang-ancient-town/"
+  ],
+  "hinweis": null
+ },
+ "labrang": {
+  "quellen": [
+   "https://www.wikiwand.com/en/articles/Labrang",
+   "https://www.asiaculturaltravel.co.uk/the-labrang-monastery/"
+  ],
+  "hinweis": null
+ },
+ "maijishan": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Mount_Maiji",
+   "https://intotravelchina.com/en/attractions/gansu_attraction/Maiji_Mountain_Grottoes.html"
+  ],
+  "hinweis": null
+ },
+ "wudang": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Wudang_Mountains",
+   "https://www.worldheritagesite.org/list/id/705"
+  ],
+  "hinweis": null
+ },
+ "xijiang": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Xijiang,_Guizhou",
+   "https://www.chinaeducationaltours.com/guide/guizhou-xijiang-qianhu-miao-village.htm"
+  ],
+  "hinweis": "Der Wikipedia-Artikel behandelt die Gemeinde Xijiang, nicht das Dorf allein; das Dorf wird in Reisetexten beschrieben."
+ },
+ "suzhou-gaerten": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Classical_Gardens_of_Suzhou",
+   "https://wikiwand.com/en/articles/Classical_Gardens_of_Suzhou"
+  ],
+  "hinweis": null
+ },
+ "chongqing": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Hongya_Cave",
+   "https://www.travelchinaguide.com/attraction/chongqing/hongya-cave.htm"
+  ],
+  "hinweis": "Die Quellen behandeln Hongyadong; die 8D-Stadt ist nicht separat belegt."
+ },
+ "shanghai-skyline": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/The_Bund",
+   "https://www.frommers.com/destinations/shanghai/attractions/the-bund"
+  ],
+  "hinweis": "Die Quellen behandeln die Uferpromenade The Bund; Lujiazui ist nicht separat belegt."
+ },
+ "shenzhen-rad": {
+  "quellen": [
+   "https://www.ourchinastory.com/en/15894",
+   "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11932494.html"
+  ],
+  "hinweis": "Kein Wikipedia-Artikel gefunden; Quellen sind Reise- und Regierungsseiten zu den Radwegen in Shenzhen mit Bezug zur Shenzhen Bay Park."
+ },
+ "peking-hutongs": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Hutong",
+   "https://www.chinatravel.com/beijing/hutong"
+  ],
+  "hinweis": null
+ },
+ "hongkong": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Victoria_Peak",
+   "https://www.asiaculturaltravel.co.uk/victoria-peak/"
+  ],
+  "hinweis": null
+ },
+ "canton-tower": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Canton_Tower",
+   "https://www.wikiwand.com/en/articles/Canton_Tower"
+  ],
+  "hinweis": null
+ },
+ "binhai-bibliothek": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Tianjin_Binhai_Library",
+   "https://chinaservicesinfo.com/s/202305/30/WS6475692f498ea274927bc1bd/binhai-library.html"
+  ],
+  "hinweis": null
+ },
+ "harbin-oper": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Harbin_Grand_Theatre",
+   "https://intotravelchina.com/attractions/harbin_attraction/harbin_grand_theatre.html"
+  ],
+  "hinweis": null
+ },
+ "datang-everbright": {
+  "quellen": [
+   "https://www.chinaxiantour.com/xian-attractions/datang-everbright-city",
+   "https://news.cgtn.com/news/2021-04-04/Datang-Everbright-City-Embracing-old-and-new-culture-Zc29vsigTu/index.html"
+  ],
+  "hinweis": "Kein Wikipedia-Artikel gefunden; Quellen sind Reise- und Nachrichtenseiten zur Nachtpromenade."
+ },
+ "meixihu": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Meixihu_International_Culture_%26_Arts_Center",
+   "https://www.archdaily.com/929645/changsha-meixihu-international-culture-and-art-centre-zaha-hadid-design"
+  ],
+  "hinweis": null
+ },
+ "westsee": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/West_Lake",
+   "https://artsandculture.google.com/entity/m01zp5r"
+  ],
+  "hinweis": null
+ },
+ "maglev": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Shanghai_maglev_train",
+   "https://structurae.net/en/structures/shanghai-transrapid"
+  ],
+  "hinweis": null
+ },
+ "muslimviertel": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Xi%27an_Muslim_Quarter",
+   "https://www.chinaxiantour.com/xian-travel-guide/xian-attractions/the-muslim-quarter.html"
+  ],
+  "hinweis": null
+ },
+ "wenheyou": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Wenheyou",
+   "https://en.jiemian.com/article/4690588.html"
+  ],
+  "hinweis": null
+ },
+ "mushuihua": {
+  "quellen": [
+   "https://www.yunnanexploration.com/yunnan-mushuihua-wild-edible-mushroom-market-in-kunming.html",
+   "https://www.chinadaily.com.cn/a/202307/25/WS64bf16bea31035260b81841d.html"
+  ],
+  "hinweis": "Kein Wikipedia-Artikel gefunden; Quellen sind Reiseseite und China Daily zum Pilzmarkt."
+ },
+ "kashgar-basar": {
+  "quellen": [
+   "https://www.chinaxiantour.com/xinjiang-attractions/sunday-livestock-bazaar.html",
+   "https://www.lonelyplanet.com/china/kashgar/attractions/sunday-livestock-market/a/poi-sig/1240848/356146"
+  ],
+  "hinweis": "Kein Wikipedia-Artikel gefunden; Quellen sind Reiseführer zum Sonntags-Viehmarkt in Kashgar."
+ },
+ "chengdu-teehaus": {
+  "quellen": [
+   "https://www.nationalgeographic.com/travel/article/chengdu-ancient-teahouses-are-going-viral",
+   "https://chinafortravelers.com/guides/heming-teahouse-chengdu/"
+  ],
+  "hinweis": "Kein Wikipedia-Artikel gefunden; Quellen sind Reisemagazin und Reiseführer zum Heming-Teehaus."
+ },
+ "yumcha-guangzhou": {
+  "quellen": [
+   "https://guide.michelin.com/th/th/guangdong-province/guangzhou/restaurant/panxi",
+   "https://www.afar.com/places/panxi-restaurant-guangzhou"
+  ],
+  "hinweis": "Kein Wikipedia-Artikel gefunden; Quellen sind Restaurant-Einträge (Michelin, Afar)."
+ },
+ "pekingente": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Peking_duck",
+   "https://www.britannica.com/print/article/448985"
+  ],
+  "hinweis": null
+ },
+ "longjing": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Longjing,_Hangzhou",
+   "https://www.asiaculturaltravel.co.uk/?p=14498"
+  ],
+  "hinweis": null
+ },
+ "shaxi": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Shaxi,_Yunnan",
+   "https://www.asiaculturaltravel.co.uk/shaxi/"
+  ],
+  "hinweis": null
+ },
+ "yiwu": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Yiwu_market",
+   "https://wikiwand.com/en/articles/Yiwu_International_Trade_City"
+  ],
+  "hinweis": null
+ },
+ "nanxiang": {
+  "quellen": [
+   "https://www.smartshanghai.com/venue/5513/Nanxiang_Mantou_Yu_Garden",
+   "https://english.shanghai.gov.cn/en-SpecialtyFood/20231214/5e949cf6f7cd4109a903ff1e37e3b7ec.html"
+  ],
+  "hinweis": "Kein eigener Wikipedia-Artikel gefunden (nur ein Spiegel); Quellen sind Restaurant-Listing und Stadtverwaltung Shanghai."
+ },
+ "hubu-gasse": {
+  "quellen": [
+   "https://www.travelchinaguide.com/attraction/hubei/wuhan/hubu-alley.htm",
+   "https://www.scmp.com/article/499917/start-your-day-hubu-way"
+  ],
+  "hinweis": "Kein Wikipedia-Artikel gefunden; Quellen sind Reiseführer und South China Morning Post zur Hubu-Gasse."
+ },
+ "shunde": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Shunde,_Guangdong",
+   "https://www.wikiwand.com/en/articles/Shunde"
+  ],
+  "hinweis": null
+ },
+ "huashan": {
+  "quellen": [
+   "https://www.travelchinaguide.com/attraction/shaanxi/xian/mount-huashan-plank-walk.htm",
+   "https://travelchinawith.me/attractions/shaanxi/mount-huashan/"
+  ],
+  "hinweis": "Kein Wikipedia-Artikel gefunden; Quellen sind Reiseführer zum Huashan und seinem Plankenweg."
+ },
+ "jiankou": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Jiankou",
+   "https://intotravelchina.com/attractions/beijing-attraction/jiankou-great-wall.html"
+  ],
+  "hinweis": null
+ },
+ "glasbruecke": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Zhangjiajie_Glass_Bridge",
+   "https://www.chinatravel.com/zhangjiajie/attraction/glass-bridge"
+  ],
+  "hinweis": null
+ },
+ "badain-jaran": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Badain_Jaran_Desert",
+   "https://www.wikiwand.com/en/articles/Badain_Jaran_Desert"
+  ],
+  "hinweis": null
+ },
+ "yangshuo": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Yulong_River",
+   "https://chinaculturetour.com/yangshuo/top-attractions/yulong-river.htm"
+  ],
+  "hinweis": "Die Quellen behandeln den Yulong-Fluss bei Yangshuo, nicht die Stadt insgesamt; Bambusfloß und Klettern sind nicht separat belegt."
+ },
+ "duku": {
+  "quellen": [
+   "https://wiki.aaroads.com/wiki/China_National_Highway_217",
+   "https://www.silkroadtravel.com/xinjiang/duku-highway.html"
+  ],
+  "hinweis": "Kein Wikipedia-Artikel gefunden; Quellen sind das AARoads-Wiki zur G217 und eine Reiseseite zum Duku-Highway."
+ },
+ "hulunbuir": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Hulunbuir",
+   "https://www.asiaculturaltravel.co.uk/the-hulunbuir-grasslands/"
+  ],
+  "hinweis": "Wikipedia behandelt die Stadt Hulunbuir; das Grasland selbst wird in Reisetexten beschrieben."
+ },
+ "shennongjia": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Shennongjia",
+   "https://whc.unesco.org/ES/list/1509"
+  ],
+  "hinweis": null
+ },
+ "everest-bc": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Everest_base_camps",
+   "https://www.untamedtravelling.com/en/destinations/asia/tibet/mount-everest-basecamp-north"
+  ],
+  "hinweis": null
+ },
+ "haba": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Haba_Snow_Mountain",
+   "https://www.chinatravel.com/shangri-la/attraction/haba-snow-mountain"
+  ],
+  "hinweis": null
+ },
+ "liziba": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Liziba_station",
+   "https://news.cgtn.com/news/2021-10-18/Live-Light-rail-trains-run-through-residential-building-in-Chongqing-14rknyPZzQk/index.html"
+  ],
+  "hinweis": null
+ },
+ "bailong": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Bailong_Elevator",
+   "https://www.chinatravel.com/zhangjiajie/attraction/zhangjiajie-bailong-elevator"
+  ],
+  "hinweis": null
+ },
+ "chaka": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Chaka_Salt_Lake",
+   "https://www.silkroadtourcn.com/attractions/chaka-salt-lake.html"
+  ],
+  "hinweis": null
+ },
+ "longhushan": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Mount_Longhu",
+   "https://www.ourchinastory.com/en/16402"
+  ],
+  "hinweis": null
+ },
+ "tianducheng": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Tianducheng",
+   "https://www.amusingplanet.com/2018/01/tianducheng-fake-paris-in-china.html?hl=en_US"
+  ],
+  "hinweis": null
+ },
+ "kangbashi": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Kangbashi_District",
+   "https://www.amusingplanet.com/2010/10/modern-ghost-city-of-ordos.html"
+  ],
+  "hinweis": null
+ },
+ "houtouwan": {
+  "quellen": [
+   "https://assets.atlasobscura.com/places/houtouwan",
+   "https://www.islands.com/1831079/abandoned-fishing-village-houtouwan-china-may-just-greenest-world-today"
+  ],
+  "hinweis": "Kein Wikipedia-Artikel gefunden; Quellen sind Atlas Obscura und Islands.com zum Dorf."
+ },
+ "guoliang": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Guoliang_Tunnel",
+   "https://atlasobscura.com/places/guoliang-tunnel"
+  ],
+  "hinweis": null
+ },
+ "qiantang": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Qiantang_River",
+   "https://www.ehangzhou.gov.cn/2018-08/16/c_263106.htm"
+  ],
+  "hinweis": null
+ },
+ "panjin": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Red_Seabeach",
+   "https://www.travelchinaguide.com/cityguides/liaoning/panjin/red-beach.htm"
+  ],
+  "hinweis": null
+ },
+ "kaiping": {
+  "quellen": [
+   "https://en.wikipedia.org/wiki/Diaolou",
+   "https://whc.unesco.org/document/151781"
+  ],
+  "hinweis": "Der Wikipedia-Artikel behandelt die Diaolou in ganz Guangdong; Kaiping ist der Schwerpunkt."
+ },
+ "dafen": {
+  "quellen": [
+   "https://www.lonelyplanet.com/pois/1102441",
+   "https://www.aljazeera.com/features/2018/2/18/dafen-oil-painting-village-the-worlds-art-factory"
+  ],
+  "hinweis": "Kein auswertbarer Wikipedia-Text gefunden; Quellen sind Lonely Planet und Al Jazeera."
+ }
+}
